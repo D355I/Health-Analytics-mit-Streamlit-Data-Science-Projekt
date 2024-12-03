@@ -1,0 +1,928 @@
+GENESIS-Tabelle: 23131-0004
+Krankenhauspatienten: Deutschland, Jahre, Geschlecht,;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Altersgruppen, Fachabteilungen, Hauptdiagnose ICD-10;;;;;;;;;;;;;;;;;;;;;;;;;;;
+(1-Steller);;;;;;;;;;;;;;;;;;;;;;;;;;;
+Diagnosen der Krankenhauspatienten;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Deutschland;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Entlassene Patienten (Anzahl);;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;männlich;männlich;männlich;männlich;männlich;männlich;männlich;männlich;weiblich;weiblich;weiblich;weiblich;weiblich;weiblich;weiblich;weiblich;Insgesamt;Insgesamt;Insgesamt;Insgesamt;Insgesamt;Insgesamt;Insgesamt;Insgesamt
+;;;;10 bis unter 15 Jahre;15 bis unter 18 Jahre;18 bis unter 20 Jahre;65 bis unter 70 Jahre;70 bis unter 75 Jahre;75 bis unter 80 Jahre;80 bis unter 85 Jahre;Insgesamt;10 bis unter 15 Jahre;15 bis unter 18 Jahre;18 bis unter 20 Jahre;65 bis unter 70 Jahre;70 bis unter 75 Jahre;75 bis unter 80 Jahre;80 bis unter 85 Jahre;Insgesamt;10 bis unter 15 Jahre;15 bis unter 18 Jahre;18 bis unter 20 Jahre;65 bis unter 70 Jahre;70 bis unter 75 Jahre;75 bis unter 80 Jahre;80 bis unter 85 Jahre;Insgesamt
+2022;Innere Medizin;ICD10-A00-B99;Bestimmte infektiöse und parasitäre Krankheiten;34;275;1095;10041;12022;12379;18298;113909;46;286;1320;8058;9945;11623;20522;114897;80;561;2415;18099;21967;24002;38820;228807
+2022;Innere Medizin;ICD10-C00-C97;Bösartige Neubildungen;2;14;257;27350;27524;22427;22912;169987;-;5;136;19142;20426;17434;19576;134236;2;19;393;46492;47950;39861;42488;304223
+2022;Innere Medizin;ICD10-D00-D48;Übrige Neubildungen;1;5;26;5221;5579;5057;5631;36426;6;12;30;3875;4258;4203;5096;31173;7;17;56;9096;9837;9260;10727;67599
+2022;Innere Medizin;ICD10-D50-D90;Krankheiten des Blutes;2;11;82;2972;3607;3658;5776;30466;2;27;172;2890;3907;4520;7992;40075;4;38;254;5862;7514;8178;13768;70541
+2022;Innere Medizin;ICD10-E00-E90;Endokrine, Ernährungs- und Stoffwechselkrankheiten;135;306;785;9564;10905;11345;18139;107696;143;246;750;7553;10222;13945;27324;129461;278;552;1535;17117;21127;25290;45463;237157
+2022;Innere Medizin;ICD10-F00-F99;Psychische und Verhaltensstörungen;47;602;1753;2937;1892;1394;1751;58221;57;429;1394;1952;1681;1622;2385;33626;104;1031;3147;4889;3573;3016;4136;91848
+2022;Innere Medizin;ICD10-G00-G99;Krankheiten des Nervensystems;40;67;273;4500;4595;4221;4781;44577;38;112;330;3208;3494;3520;4925;36470;78;179;603;7708;8089;7741;9706;81047
+2022;Innere Medizin;ICD10-H00-H59;Krankheiten des Auges und der Augenanhangsgebilde;1;2;3;123;113;96;111;1000;-;1;9;77;94;101;166;1023;1;3;12;200;207;197;277;2023
+2022;Innere Medizin;ICD10-H60-H95;Krankheiten des Ohres und des Warzenfortsatzes;-;4;12;491;521;424;481;4564;1;7;22;751;812;729;1012;6839;1;11;34;1242;1333;1153;1493;11403
+2022;Innere Medizin;ICD10-I00-I99;Krankheiten des Kreislaufsystems;45;196;630;68835;77970;74251;97926;588065;38;176;585;44184;60330;70704;114106;521501;83;372;1215;113019;138300;144955;212032;1109566
+2022;Innere Medizin;ICD10-J00-J99;Krankheiten des Atmungssystems;37;230;986;32221;37246;36909;50209;284282;29;218;970;23944;27111;26901;39727;233933;66;448;1956;56165;64357;63810;89936;518215
+2022;Innere Medizin;ICD10-K00-K93;Krankheiten des Verdauungssystems;42;289;1341;29450;30091;26699;36037;284490;71;418;1895;26135;29297;30197;46548;295877;113;707;3236;55585;59388;56896;82585;580367
+2022;Innere Medizin;ICD10-L00-L99;Krankheiten der Haut und der Unterhaut;14;42;86;608;580;538;713;6802;10;27;123;586;587;551;923;7813;24;69;209;1194;1167;1089;1636;14615
+2022;Innere Medizin;ICD10-M00-M99;Krankh. d. Muskel-Skelett-Systems u.d.Bindegewebes;4;21;147;3188;3464;3178;4007;31234;6;44;159;4402;4902;5110;7444;49577;10;65;306;7590;8366;8288;11451;80811
+2022;Innere Medizin;ICD10-N00-N99;Krankheiten des Urogenitalsystems;40;39;171;7674;9997;10628;16789;85305;25;140;611;5699;7951;10306;19197;92028;65;179;782;13373;17948;20934;35986;177333
+2022;Innere Medizin;ICD10-O00-O99;Schwangerschaft, Geburt und Wochenbett;-;-;-;-;-;-;-;-;-;14;60;-;-;-;-;3236;-;14;60;-;-;-;-;3236
+2022;Innere Medizin;ICD10-P00-P96;Best. Zustände mit Ursprung i.d Perinatalperiode;-;-;-;-;-;-;-;202;-;-;-;-;-;-;-;140;-;-;-;-;-;-;-;342
+2022;Innere Medizin;ICD10-Q00-Q99;Angeb.Fehlbild.,Deformitäten,Chromosomenanomalien;1;5;14;178;113;58;39;2389;-;7;25;155;99;61;54;1960;1;12;39;333;212;119;93;4349
+2022;Innere Medizin;ICD10-R00-R99;Symptome u.abnorme klin. u.Laborbefunde,ao.n.kl.;38;356;1605;12687;13773;13466;18260;145480;101;600;2262;11751;13552;14888;23642;157736;139;956;3867;24438;27325;28354;41902;303216
+2022;Innere Medizin;ICD10-S00-T98;Verletzungen und Vergiftungen;107;285;725;4412;4684;4618;7123;52328;128;337;1024;3430;4307;5810;11563;62978;235;622;1749;7842;8991;10428;18686;115306
+2022;Innere Medizin;ICD10-Z00-Z99;Faktoren,die zur Inanspruchn.d.Gesundheitsw.führen;9;15;42;1453;1551;1738;2694;14393;4;19;52;859;972;1193;2084;10959;13;34;94;2312;2523;2931;4778;25352
+2022;Innere Medizin;ICD10-U00-U85;Schlüsselnummern für besondere Zwecke;-;-;1;5;5;3;10;42;-;-;1;4;1;7;8;47;-;-;2;9;6;10;18;89
+2022;Innere Medizin;UNBEKANNT;unbekannt;-;-;-;-;-;1;1;5;-;-;-;-;1;-;3;13;-;-;-;-;1;1;4;18
+2022;Innere Medizin;;Insgesamt;599;2764;10034;223910;246232;233088;311688;2061863;705;3125;11930;168655;203949;223425;354297;1965598;1304;5889;21964;392565;450181;456513;665985;4027463
+2022;Geriatrie;ICD10-A00-B99;Bestimmte infektiöse und parasitäre Krankheiten;-;-;-;109;346;515;968;3229;-;-;-;103;321;565;1209;4325;-;-;-;212;667;1080;2177;7554
+2022;Geriatrie;ICD10-C00-C97;Bösartige Neubildungen;-;-;-;222;512;643;972;3345;-;-;-;199;436;723;1182;3843;-;-;-;421;948;1366;2154;7188
+2022;Geriatrie;ICD10-D00-D48;Übrige Neubildungen;-;-;-;11;46;67;87;314;-;-;-;16;46;66;143;440;-;-;-;27;92;133;230;754
+2022;Geriatrie;ICD10-D50-D90;Krankheiten des Blutes;-;-;-;7;27;39;88;317;-;-;-;14;38;79;171;614;-;-;-;21;65;118;259;931
+2022;Geriatrie;ICD10-E00-E90;Endokrine, Ernährungs- und Stoffwechselkrankheiten;-;-;-;178;477;696;1442;4966;-;-;1;156;510;1055;2616;9374;-;-;1;334;987;1751;4058;14340
+2022;Geriatrie;ICD10-F00-F99;Psychische und Verhaltensstörungen;-;-;-;72;183;308;667;2074;-;-;-;64;210;414;916;3027;-;-;-;136;393;722;1583;5101
+2022;Geriatrie;ICD10-G00-G99;Krankheiten des Nervensystems;-;-;-;201;488;764;1185;3804;-;-;1;166;414;700;1305;4198;-;-;1;367;902;1464;2490;8002
+2022;Geriatrie;ICD10-H00-H59;Krankheiten des Auges und der Augenanhangsgebilde;-;-;-;2;2;4;3;19;-;-;-;1;3;3;7;31;-;-;-;3;5;7;10;50
+2022;Geriatrie;ICD10-H60-H95;Krankheiten des Ohres und des Warzenfortsatzes;-;-;-;10;13;13;28;97;-;-;-;9;16;32;59;210;-;-;-;19;29;45;87;307
+2022;Geriatrie;ICD10-I00-I99;Krankheiten des Kreislaufsystems;-;-;-;766;2091;3037;5976;19869;-;-;-;506;1804;3474;8472;30238;-;-;-;1272;3895;6511;14448;50107
+2022;Geriatrie;ICD10-J00-J99;Krankheiten des Atmungssystems;-;-;-;339;950;1380;2458;8473;-;-;-;304;803;1241;2243;8587;-;-;-;643;1753;2621;4701;17060
+2022;Geriatrie;ICD10-K00-K93;Krankheiten des Verdauungssystems;-;-;-;171;413;613;1052;3666;-;-;-;188;519;921;2041;6688;-;-;-;359;932;1534;3093;10354
+2022;Geriatrie;ICD10-L00-L99;Krankheiten der Haut und der Unterhaut;-;-;-;31;46;72;108;385;-;-;-;18;66;78;154;588;-;-;-;49;112;150;262;973
+2022;Geriatrie;ICD10-M00-M99;Krankh. d. Muskel-Skelett-Systems u.d.Bindegewebes;-;-;-;292;785;1305;2255;7063;-;-;-;385;1528;2806;5924;17567;-;-;-;677;2313;4111;8179;24630
+2022;Geriatrie;ICD10-N00-N99;Krankheiten des Urogenitalsystems;-;-;-;125;399;694;1392;4458;-;-;-;129;410;801;1829;6299;-;-;-;254;809;1495;3221;10757
+2022;Geriatrie;ICD10-O00-O99;Schwangerschaft, Geburt und Wochenbett;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;1
+2022;Geriatrie;ICD10-P00-P96;Best. Zustände mit Ursprung i.d Perinatalperiode;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2022;Geriatrie;ICD10-Q00-Q99;Angeb.Fehlbild.,Deformitäten,Chromosomenanomalien;-;-;-;-;1;2;1;8;-;-;-;1;-;3;3;11;-;-;-;1;1;5;4;19
+2022;Geriatrie;ICD10-R00-R99;Symptome u.abnorme klin. u.Laborbefunde,ao.n.kl.;-;-;-;479;1305;1969;3673;12112;-;-;-;466;1392;2590;5627;18975;-;-;-;945;2697;4559;9300;31087
+2022;Geriatrie;ICD10-S00-T98;Verletzungen und Vergiftungen;-;1;-;647;2031;3179;6521;22090;-;-;2;970;3677;7580;17422;60111;-;1;2;1617;5708;10759;23943;82201
+2022;Geriatrie;ICD10-Z00-Z99;Faktoren,die zur Inanspruchn.d.Gesundheitsw.führen;-;-;-;11;31;43;95;306;-;-;-;18;52;80;181;551;-;-;-;29;83;123;276;857
+2022;Geriatrie;ICD10-U00-U85;Schlüsselnummern für besondere Zwecke;-;-;-;3;5;10;12;59;-;-;-;1;4;14;34;113;-;-;-;4;9;24;46;172
+2022;Geriatrie;UNBEKANNT;unbekannt;-;-;-;-;6;6;13;34;-;-;-;2;4;14;18;76;-;-;-;2;10;20;31;110
+2022;Geriatrie;;Insgesamt;-;1;-;3676;10157;15359;28996;96688;-;-;4;3716;12253;23239;51556;175867;-;1;4;7392;22410;38598;80552;272555
+2022;Kardiologie;ICD10-A00-B99;Bestimmte infektiöse und parasitäre Krankheiten;1;6;39;721;941;945;1382;7547;-;4;39;410;594;657;1087;5476;1;10;78;1131;1535;1602;2469;13023
+2022;Kardiologie;ICD10-C00-C97;Bösartige Neubildungen;-;-;2;495;546;449;477;3118;-;-;-;334;398;309;348;2204;-;-;2;829;944;758;825;5322
+2022;Kardiologie;ICD10-D00-D48;Übrige Neubildungen;-;1;-;98;104;105;111;710;-;-;2;87;107;81;82;655;-;1;2;185;211;186;193;1365
+2022;Kardiologie;ICD10-D50-D90;Krankheiten des Blutes;-;1;1;91;125;124;196;1089;-;2;6;73;97;120;217;1068;-;3;7;164;222;244;413;2157
+2022;Kardiologie;ICD10-E00-E90;Endokrine, Ernährungs- und Stoffwechselkrankheiten;-;3;21;654;803;880;1481;7142;-;5;23;459;693;1006;2012;8422;-;8;44;1113;1496;1886;3493;15564
+2022;Kardiologie;ICD10-F00-F99;Psychische und Verhaltensstörungen;4;22;89;131;95;73;98;2643;5;23;92;98;84;101;140;1596;9;45;181;229;179;174;238;4239
+2022;Kardiologie;ICD10-G00-G99;Krankheiten des Nervensystems;-;5;12;275;305;276;353;2711;-;4;13;181;195;218;346;2110;-;9;25;456;500;494;699;4821
+2022;Kardiologie;ICD10-H00-H59;Krankheiten des Auges und der Augenanhangsgebilde;-;-;2;19;19;18;28;155;-;-;-;11;22;15;27;120;-;-;2;30;41;33;55;275
+2022;Kardiologie;ICD10-H60-H95;Krankheiten des Ohres und des Warzenfortsatzes;-;1;-;55;67;56;77;497;-;1;2;55;73;62;98;558;-;2;2;110;140;118;175;1055
+2022;Kardiologie;ICD10-I00-I99;Krankheiten des Kreislaufsystems;25;156;445;50478;56008;53301;63138;404872;14;88;333;27491;36850;42462;61177;282816;39;244;778;77969;92858;95763;124315;687688
+2022;Kardiologie;ICD10-J00-J99;Krankheiten des Atmungssystems;-;13;86;3113;3721;3801;4716;26967;-;13;78;2255;2606;2542;3597;20921;-;26;164;5368;6327;6343;8313;47888
+2022;Kardiologie;ICD10-K00-K93;Krankheiten des Verdauungssystems;-;2;21;451;483;475;628;4166;-;-;13;287;380;443;648;3441;-;2;34;738;863;918;1276;7607
+2022;Kardiologie;ICD10-L00-L99;Krankheiten der Haut und der Unterhaut;-;-;2;35;36;35;42;337;-;-;3;23;41;26;62;375;-;-;5;58;77;61;104;712
+2022;Kardiologie;ICD10-M00-M99;Krankh. d. Muskel-Skelett-Systems u.d.Bindegewebes;-;4;14;212;243;216;296;2324;-;-;9;182;218;224;348;2103;-;4;23;394;461;440;644;4427
+2022;Kardiologie;ICD10-N00-N99;Krankheiten des Urogenitalsystems;-;2;10;561;736;882;1291;5917;-;4;10;316;519;770;1294;5469;-;6;20;877;1255;1652;2585;11386
+2022;Kardiologie;ICD10-O00-O99;Schwangerschaft, Geburt und Wochenbett;-;-;-;-;-;-;-;-;-;4;4;-;-;-;-;297;-;4;4;-;-;-;-;297
+2022;Kardiologie;ICD10-P00-P96;Best. Zustände mit Ursprung i.d Perinatalperiode;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2022;Kardiologie;ICD10-Q00-Q99;Angeb.Fehlbild.,Deformitäten,Chromosomenanomalien;-;1;16;202;76;49;36;2681;-;1;17;131;91;59;49;1816;-;2;33;333;167;108;85;4497
+2022;Kardiologie;ICD10-R00-R99;Symptome u.abnorme klin. u.Laborbefunde,ao.n.kl.;1;53;441;3451;3692;3663;4594;40154;5;83;429;3114;3296;3648;5153;36008;6;136;870;6565;6988;7311;9747;76162
+2022;Kardiologie;ICD10-S00-T98;Verletzungen und Vergiftungen;-;19;68;726;787;828;1065;6932;2;33;90;393;467;612;966;5295;2;52;158;1119;1254;1440;2031;12227
+2022;Kardiologie;ICD10-Z00-Z99;Faktoren,die zur Inanspruchn.d.Gesundheitsw.führen;-;5;14;1054;1256;1413;2012;10191;-;1;10;421;562;737;1209;5794;-;6;24;1475;1818;2150;3221;15985
+2022;Kardiologie;ICD10-U00-U85;Schlüsselnummern für besondere Zwecke;-;-;-;-;1;1;-;4;-;-;-;1;-;2;-;4;-;-;-;1;1;3;-;8
+2022;Kardiologie;UNBEKANNT;unbekannt;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1
+2022;Kardiologie;;Insgesamt;31;294;1283;62822;70044;67590;82021;530158;26;266;1173;36322;47293;54094;78860;386548;57;560;2456;99144;117337;121684;160881;916706
+2022;Nephrologie;ICD10-A00-B99;Bestimmte infektiöse und parasitäre Krankheiten;-;1;14;357;398;349;444;3121;-;-;10;263;272;248;416;2504;-;1;24;620;670;597;860;5625
+2022;Nephrologie;ICD10-C00-C97;Bösartige Neubildungen;-;-;13;304;399;372;309;2459;-;-;-;299;318;217;199;1830;-;-;13;603;717;589;508;4289
+2022;Nephrologie;ICD10-D00-D48;Übrige Neubildungen;-;-;1;27;34;27;33;219;-;-;2;15;14;18;29;162;-;-;3;42;48;45;62;381
+2022;Nephrologie;ICD10-D50-D90;Krankheiten des Blutes;-;-;6;51;68;60;81;625;-;-;8;56;33;34;73;499;-;-;14;107;101;94;154;1124
+2022;Nephrologie;ICD10-E00-E90;Endokrine, Ernährungs- und Stoffwechselkrankheiten;-;1;22;309;323;298;455;3047;-;3;10;282;374;416;742;3600;-;4;32;591;697;714;1197;6647
+2022;Nephrologie;ICD10-F00-F99;Psychische und Verhaltensstörungen;1;1;2;7;9;24;20;208;1;-;4;9;8;15;15;152;2;1;6;16;17;39;35;360
+2022;Nephrologie;ICD10-G00-G99;Krankheiten des Nervensystems;-;-;2;15;28;24;39;274;-;-;2;25;36;22;42;242;-;-;4;40;64;46;81;516
+2022;Nephrologie;ICD10-H00-H59;Krankheiten des Auges und der Augenanhangsgebilde;-;-;-;2;5;3;-;27;-;-;1;1;-;3;2;19;-;-;1;3;5;6;2;46
+2022;Nephrologie;ICD10-H60-H95;Krankheiten des Ohres und des Warzenfortsatzes;-;-;-;-;3;1;2;14;-;-;-;2;2;5;3;27;-;-;-;2;5;6;5;41
+2022;Nephrologie;ICD10-I00-I99;Krankheiten des Kreislaufsystems;-;3;13;601;691;674;930;5387;-;-;4;410;513;594;977;4877;-;3;17;1011;1204;1268;1907;10264
+2022;Nephrologie;ICD10-J00-J99;Krankheiten des Atmungssystems;-;4;9;415;473;481;675;3765;-;1;8;257;300;306;447;2654;-;5;17;672;773;787;1122;6419
+2022;Nephrologie;ICD10-K00-K93;Krankheiten des Verdauungssystems;-;1;9;185;201;159;207;1588;-;-;5;149;130;128;164;1200;-;1;14;334;331;287;371;2788
+2022;Nephrologie;ICD10-L00-L99;Krankheiten der Haut und der Unterhaut;-;-;-;22;19;19;26;191;-;-;1;17;18;14;25;164;-;-;1;39;37;33;51;355
+2022;Nephrologie;ICD10-M00-M99;Krankh. d. Muskel-Skelett-Systems u.d.Bindegewebes;-;1;13;271;227;180;187;2103;-;1;8;230;281;227;231;2348;-;2;21;501;508;407;418;4451
+2022;Nephrologie;ICD10-N00-N99;Krankheiten des Urogenitalsystems;1;7;58;1332;1486;1370;1804;12381;-;13;47;848;961;1042;1608;9481;1;20;105;2180;2447;2412;3412;21862
+2022;Nephrologie;ICD10-O00-O99;Schwangerschaft, Geburt und Wochenbett;-;-;-;-;-;-;-;-;-;-;2;-;-;-;-;66;-;-;2;-;-;-;-;66
+2022;Nephrologie;ICD10-P00-P96;Best. Zustände mit Ursprung i.d Perinatalperiode;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2022;Nephrologie;ICD10-Q00-Q99;Angeb.Fehlbild.,Deformitäten,Chromosomenanomalien;-;-;-;7;2;2;2;41;-;-;1;4;-;3;-;42;-;-;1;11;2;5;2;83
+2022;Nephrologie;ICD10-R00-R99;Symptome u.abnorme klin. u.Laborbefunde,ao.n.kl.;-;-;9;94;120;116;155;1030;-;3;15;60;73;89;145;938;-;3;24;154;193;205;300;1968
+2022;Nephrologie;ICD10-S00-T98;Verletzungen und Vergiftungen;1;2;17;395;379;273;280;3137;2;3;26;253;206;175;257;2297;3;5;43;648;585;448;537;5434
+2022;Nephrologie;ICD10-Z00-Z99;Faktoren,die zur Inanspruchn.d.Gesundheitsw.führen;-;-;3;36;43;35;25;404;-;-;-;28;31;15;21;356;-;-;3;64;74;50;46;760
+2022;Nephrologie;ICD10-U00-U85;Schlüsselnummern für besondere Zwecke;-;-;-;1;-;-;-;2;-;-;1;-;-;-;-;1;-;-;1;1;-;-;-;3
+2022;Nephrologie;UNBEKANNT;unbekannt;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2022;Nephrologie;;Insgesamt;3;21;191;4431;4908;4467;5674;40023;3;24;155;3208;3570;3571;5396;33459;6;45;346;7639;8478;8038;11070;73482
+2022;Hämatologie und internistische Onkologie;ICD10-A00-B99;Bestimmte infektiöse und parasitäre Krankheiten;10;13;19;377;409;354;323;2891;13;1;25;268;277;224;279;2225;23;14;44;645;686;578;602;5116
+2022;Hämatologie und internistische Onkologie;ICD10-C00-C97;Bösartige Neubildungen;164;118;328;13073;12563;8738;7957;81247;154;40;208;9815;9446;7283;6656;64702;318;158;536;22888;22009;16021;14613;145949
+2022;Hämatologie und internistische Onkologie;ICD10-D00-D48;Übrige Neubildungen;3;10;4;375;391;338;456;2588;2;1;1;248;260;289;384;2036;5;11;5;623;651;627;840;4624
+2022;Hämatologie und internistische Onkologie;ICD10-D50-D90;Krankheiten des Blutes;22;8;49;306;317;257;320;2763;5;5;34;284;278;256;339;2901;27;13;83;590;595;513;659;5664
+2022;Hämatologie und internistische Onkologie;ICD10-E00-E90;Endokrine, Ernährungs- und Stoffwechselkrankheiten;-;-;2;99;115;108;121;756;1;-;4;102;101;107;159;955;1;-;6;201;216;215;280;1711
+2022;Hämatologie und internistische Onkologie;ICD10-F00-F99;Psychische und Verhaltensstörungen;-;1;7;20;13;15;18;287;1;3;10;15;15;11;14;191;1;4;17;35;28;26;32;478
+2022;Hämatologie und internistische Onkologie;ICD10-G00-G99;Krankheiten des Nervensystems;2;1;-;43;31;30;35;376;1;1;-;39;41;25;22;286;3;2;-;82;72;55;57;662
+2022;Hämatologie und internistische Onkologie;ICD10-H00-H59;Krankheiten des Auges und der Augenanhangsgebilde;-;-;-;1;3;1;-;13;-;-;-;2;2;2;2;14;-;-;-;3;5;3;2;27
+2022;Hämatologie und internistische Onkologie;ICD10-H60-H95;Krankheiten des Ohres und des Warzenfortsatzes;-;-;-;1;4;-;-;16;-;-;-;2;-;2;3;24;-;-;-;3;4;2;3;40
+2022;Hämatologie und internistische Onkologie;ICD10-I00-I99;Krankheiten des Kreislaufsystems;-;-;1;234;305;296;363;2080;-;-;4;192;185;230;420;2019;-;-;5;426;490;526;783;4099
+2022;Hämatologie und internistische Onkologie;ICD10-J00-J99;Krankheiten des Atmungssystems;-;-;11;479;573;487;581;3627;5;3;5;287;335;294;321;2357;5;3;16;766;908;781;902;5984
+2022;Hämatologie und internistische Onkologie;ICD10-K00-K93;Krankheiten des Verdauungssystems;3;5;14;368;347;318;295;2623;3;-;11;272;278;310;303;2435;6;5;25;640;625;628;598;5058
+2022;Hämatologie und internistische Onkologie;ICD10-L00-L99;Krankheiten der Haut und der Unterhaut;-;-;-;15;22;20;11;139;-;1;-;12;12;8;10;105;-;1;-;27;34;28;21;244
+2022;Hämatologie und internistische Onkologie;ICD10-M00-M99;Krankh. d. Muskel-Skelett-Systems u.d.Bindegewebes;1;1;1;54;70;61;56;489;1;-;3;61;73;59;103;614;2;1;4;115;143;120;159;1103
+2022;Hämatologie und internistische Onkologie;ICD10-N00-N99;Krankheiten des Urogenitalsystems;-;1;-;156;173;189;181;1193;-;-;-;139;126;131;196;1107;-;1;-;295;299;320;377;2300
+2022;Hämatologie und internistische Onkologie;ICD10-O00-O99;Schwangerschaft, Geburt und Wochenbett;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;26;-;-;1;-;-;-;-;26
+2022;Hämatologie und internistische Onkologie;ICD10-P00-P96;Best. Zustände mit Ursprung i.d Perinatalperiode;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1
+2022;Hämatologie und internistische Onkologie;ICD10-Q00-Q99;Angeb.Fehlbild.,Deformitäten,Chromosomenanomalien;-;-;-;-;-;-;-;5;-;-;-;-;-;-;1;4;-;-;-;-;-;-;1;9
+2022;Hämatologie und internistische Onkologie;ICD10-R00-R99;Symptome u.abnorme klin. u.Laborbefunde,ao.n.kl.;1;1;17;212;217;142;181;1653;5;2;17;180;202;157;181;1681;6;3;34;392;419;299;362;3334
+2022;Hämatologie und internistische Onkologie;ICD10-S00-T98;Verletzungen und Vergiftungen;-;2;10;159;151;70;84;1315;-;3;4;190;111;71;74;1015;-;5;14;349;262;141;158;2330
+2022;Hämatologie und internistische Onkologie;ICD10-Z00-Z99;Faktoren,die zur Inanspruchn.d.Gesundheitsw.führen;2;-;5;139;85;23;12;875;1;2;-;117;48;19;17;613;3;2;5;256;133;42;29;1488
+2022;Hämatologie und internistische Onkologie;ICD10-U00-U85;Schlüsselnummern für besondere Zwecke;-;-;-;-;-;-;1;1;-;-;-;-;-;-;-;1;-;-;-;-;-;-;1;2
+2022;Hämatologie und internistische Onkologie;UNBEKANNT;unbekannt;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2022;Hämatologie und internistische Onkologie;;Insgesamt;208;161;468;16111;15789;11447;10995;104938;192;62;327;12225;11790;9478;9484;85311;400;223;795;28336;27579;20925;20479;190249
+2022;Endokrinologie;ICD10-A00-B99;Bestimmte infektiöse und parasitäre Krankheiten;-;-;3;29;44;45;48;371;-;1;6;24;36;36;66;330;-;1;9;53;80;81;114;701
+2022;Endokrinologie;ICD10-C00-C97;Bösartige Neubildungen;-;-;-;20;25;9;16;174;-;-;-;11;40;11;12;142;-;-;-;31;65;20;28;316
+2022;Endokrinologie;ICD10-D00-D48;Übrige Neubildungen;-;-;-;20;6;3;8;110;-;-;1;6;6;8;9;113;-;-;1;26;12;11;17;223
+2022;Endokrinologie;ICD10-D50-D90;Krankheiten des Blutes;-;-;-;6;3;12;15;67;-;-;-;6;4;9;12;73;-;-;-;12;7;21;27;140
+2022;Endokrinologie;ICD10-E00-E90;Endokrine, Ernährungs- und Stoffwechselkrankheiten;2;2;31;415;387;313;339;3439;3;7;30;199;195;229;280;2408;5;9;61;614;582;542;619;5847
+2022;Endokrinologie;ICD10-F00-F99;Psychische und Verhaltensstörungen;-;-;10;6;6;2;4;238;-;-;7;1;4;7;7;109;-;-;17;7;10;9;11;347
+2022;Endokrinologie;ICD10-G00-G99;Krankheiten des Nervensystems;-;-;1;7;5;6;5;53;-;-;-;2;3;3;3;33;-;-;1;9;8;9;8;86
+2022;Endokrinologie;ICD10-H00-H59;Krankheiten des Auges und der Augenanhangsgebilde;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;3;-;-;-;-;1;-;-;3
+2022;Endokrinologie;ICD10-H60-H95;Krankheiten des Ohres und des Warzenfortsatzes;-;-;-;1;1;1;-;5;-;-;-;-;1;-;-;3;-;-;-;1;2;1;-;8
+2022;Endokrinologie;ICD10-I00-I99;Krankheiten des Kreislaufsystems;-;1;1;109;114;106;113;988;-;1;2;71;82;105;129;831;-;2;3;180;196;211;242;1819
+2022;Endokrinologie;ICD10-J00-J99;Krankheiten des Atmungssystems;-;-;1;34;39;40;62;343;-;-;3;36;39;29;50;280;-;-;4;70;78;69;112;623
+2022;Endokrinologie;ICD10-K00-K93;Krankheiten des Verdauungssystems;-;-;3;33;24;27;41;297;-;-;2;20;20;27;36;302;-;-;5;53;44;54;77;599
+2022;Endokrinologie;ICD10-L00-L99;Krankheiten der Haut und der Unterhaut;-;-;-;4;3;4;10;62;-;-;-;3;3;6;12;57;-;-;-;7;6;10;22;119
+2022;Endokrinologie;ICD10-M00-M99;Krankh. d. Muskel-Skelett-Systems u.d.Bindegewebes;-;-;2;9;5;6;9;74;-;-;1;9;11;8;16;85;-;-;3;18;16;14;25;159
+2022;Endokrinologie;ICD10-N00-N99;Krankheiten des Urogenitalsystems;-;-;-;36;33;48;66;349;-;-;-;22;33;35;80;401;-;-;-;58;66;83;146;750
+2022;Endokrinologie;ICD10-O00-O99;Schwangerschaft, Geburt und Wochenbett;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;38;-;-;1;-;-;-;-;38
+2022;Endokrinologie;ICD10-P00-P96;Best. Zustände mit Ursprung i.d Perinatalperiode;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2022;Endokrinologie;ICD10-Q00-Q99;Angeb.Fehlbild.,Deformitäten,Chromosomenanomalien;-;-;-;-;-;1;-;2;-;-;-;1;-;-;-;2;-;-;-;1;-;1;-;4
+2022;Endokrinologie;ICD10-R00-R99;Symptome u.abnorme klin. u.Laborbefunde,ao.n.kl.;-;-;3;37;28;25;32;455;-;-;5;43;49;35;42;471;-;-;8;80;77;60;74;926
+2022;Endokrinologie;ICD10-S00-T98;Verletzungen und Vergiftungen;-;1;4;22;20;14;23;213;-;-;1;10;14;17;17;156;-;1;5;32;34;31;40;369
+2022;Endokrinologie;ICD10-Z00-Z99;Faktoren,die zur Inanspruchn.d.Gesundheitsw.führen;-;-;-;-;1;-;-;3;-;-;-;-;1;2;2;17;-;-;-;-;2;2;2;20
+2022;Endokrinologie;ICD10-U00-U85;Schlüsselnummern für besondere Zwecke;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2022;Endokrinologie;UNBEKANNT;unbekannt;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2022;Endokrinologie;;Insgesamt;2;4;59;788;744;662;791;7243;3;9;59;464;542;567;773;5854;5;13;118;1252;1286;1229;1564;13097
+2022;Gastroenterologie;ICD10-A00-B99;Bestimmte infektiöse und parasitäre Krankheiten;-;28;176;1184;1401;1456;1958;14432;-;28;209;1124;1268;1436;2344;14803;-;56;385;2308;2669;2892;4302;29235
+2022;Gastroenterologie;ICD10-C00-C97;Bösartige Neubildungen;-;-;11;4293;4507;3895;3812;27462;-;-;9;2711;3132;2653;3112;19752;-;-;20;7004;7639;6548;6924;47214
+2022;Gastroenterologie;ICD10-D00-D48;Übrige Neubildungen;-;-;10;1384;1494;1258;1311;9604;-;1;9;1072;1140;1095;1133;8215;-;1;19;2456;2634;2353;2444;17819
+2022;Gastroenterologie;ICD10-D50-D90;Krankheiten des Blutes;-;-;15;461;605;694;966;5053;-;4;39;497;721;771;1332;6947;-;4;54;958;1326;1465;2298;12000
+2022;Gastroenterologie;ICD10-E00-E90;Endokrine, Ernährungs- und Stoffwechselkrankheiten;-;10;82;755;873;833;1311;8976;-;3;77;646;832;1074;1917;10309;-;13;159;1401;1705;1907;3228;19285
+2022;Gastroenterologie;ICD10-F00-F99;Psychische und Verhaltensstörungen;1;21;128;220;112;96;90;4201;-;19;100;138;121;111;128;2395;1;40;228;358;233;207;218;6596
+2022;Gastroenterologie;ICD10-G00-G99;Krankheiten des Nervensystems;-;-;8;89;77;90;121;831;-;2;11;74;63;101;108;775;-;2;19;163;140;191;229;1606
+2022;Gastroenterologie;ICD10-H00-H59;Krankheiten des Auges und der Augenanhangsgebilde;-;-;-;10;5;2;3;40;-;-;1;2;3;3;2;29;-;-;1;12;8;5;5;69
+2022;Gastroenterologie;ICD10-H60-H95;Krankheiten des Ohres und des Warzenfortsatzes;-;-;-;7;11;5;10;83;-;-;-;11;16;12;23;121;-;-;-;18;27;17;33;204
+2022;Gastroenterologie;ICD10-I00-I99;Krankheiten des Kreislaufsystems;-;1;3;520;561;567;835;4868;1;2;12;354;493;595;1095;5123;1;3;15;874;1054;1162;1930;9991
+2022;Gastroenterologie;ICD10-J00-J99;Krankheiten des Atmungssystems;-;6;52;1482;1854;1960;2695;15014;-;7;52;1045;1141;1214;2066;11502;-;13;104;2527;2995;3174;4761;26516
+2022;Gastroenterologie;ICD10-K00-K93;Krankheiten des Verdauungssystems;2;45;397;8254;7901;7103;8556;77260;2;73;441;6471;7140;7311;10229;72426;4;118;838;14725;15041;14414;18785;149686
+2022;Gastroenterologie;ICD10-L00-L99;Krankheiten der Haut und der Unterhaut;1;3;5;39;48;40;48;485;-;3;10;38;48;53;81;526;1;6;15;77;96;93;129;1011
+2022;Gastroenterologie;ICD10-M00-M99;Krankh. d. Muskel-Skelett-Systems u.d.Bindegewebes;-;1;5;148;179;160;206;1469;-;-;8;157;173;222;316;1744;-;1;13;305;352;382;522;3213
+2022;Gastroenterologie;ICD10-N00-N99;Krankheiten des Urogenitalsystems;-;3;9;601;758;848;1470;6857;-;8;56;507;730;921;1728;8467;-;11;65;1108;1488;1769;3198;15324
+2022;Gastroenterologie;ICD10-O00-O99;Schwangerschaft, Geburt und Wochenbett;-;-;-;-;-;-;-;-;-;2;8;-;-;-;-;294;-;2;8;-;-;-;-;294
+2022;Gastroenterologie;ICD10-P00-P96;Best. Zustände mit Ursprung i.d Perinatalperiode;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2022;Gastroenterologie;ICD10-Q00-Q99;Angeb.Fehlbild.,Deformitäten,Chromosomenanomalien;-;1;-;18;12;5;2;131;-;2;5;18;12;13;13;195;-;3;5;36;24;18;15;326
+2022;Gastroenterologie;ICD10-R00-R99;Symptome u.abnorme klin. u.Laborbefunde,ao.n.kl.;2;12;94;747;864;778;922;8334;1;27;178;798;869;864;1278;9776;3;39;272;1545;1733;1642;2200;18110
+2022;Gastroenterologie;ICD10-S00-T98;Verletzungen und Vergiftungen;4;13;47;345;328;287;395;3479;-;19;94;209;270;287;486;3564;4;32;141;554;598;574;881;7043
+2022;Gastroenterologie;ICD10-Z00-Z99;Faktoren,die zur Inanspruchn.d.Gesundheitsw.führen;-;1;5;76;72;63;87;625;-;-;1;47;51;61;97;583;-;1;6;123;123;124;184;1208
+2022;Gastroenterologie;ICD10-U00-U85;Schlüsselnummern für besondere Zwecke;-;-;-;-;-;1;-;4;-;-;-;-;1;-;-;2;-;-;-;-;1;1;-;6
+2022;Gastroenterologie;UNBEKANNT;unbekannt;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;1;-;-;-;1;-;-;-;1
+2022;Gastroenterologie;;Insgesamt;10;145;1047;20633;21662;20141;24798;189208;4;200;1320;15920;18224;18797;27488;177549;14;345;2367;36553;39886;38938;52286;366757
+2022;Pneumologie;ICD10-A00-B99;Bestimmte infektiöse und parasitäre Krankheiten;2;9;36;348;354;331;433;3707;-;6;35;231;257;282;349;2715;2;15;71;579;611;613;782;6422
+2022;Pneumologie;ICD10-C00-C97;Bösartige Neubildungen;-;-;12;4316;4038;2946;2198;22403;-;-;-;3364;2973;1999;1297;16598;-;-;12;7680;7011;4945;3495;39001
+2022;Pneumologie;ICD10-D00-D48;Übrige Neubildungen;-;-;3;504;598;500;433;3393;-;1;-;377;434;340;267;2428;-;1;3;881;1032;840;700;5821
+2022;Pneumologie;ICD10-D50-D90;Krankheiten des Blutes;-;-;2;123;115;72;86;1513;-;-;1;108;88;80;62;1100;-;-;3;231;203;152;148;2613
+2022;Pneumologie;ICD10-E00-E90;Endokrine, Ernährungs- und Stoffwechselkrankheiten;-;1;14;123;126;119;148;1403;-;1;11;150;192;179;196;1644;-;2;25;273;318;298;344;3047
+2022;Pneumologie;ICD10-F00-F99;Psychische und Verhaltensstörungen;-;4;11;19;20;8;13;414;-;3;19;14;15;21;20;353;-;7;30;33;35;29;33;767
+2022;Pneumologie;ICD10-G00-G99;Krankheiten des Nervensystems;6;18;34;1369;1141;837;703;11553;4;9;13;693;637;444;368;5335;10;27;47;2062;1778;1281;1071;16888
+2022;Pneumologie;ICD10-H00-H59;Krankheiten des Auges und der Augenanhangsgebilde;-;-;-;-;-;1;2;10;-;-;-;2;2;-;-;9;-;-;-;2;2;1;2;19
+2022;Pneumologie;ICD10-H60-H95;Krankheiten des Ohres und des Warzenfortsatzes;-;-;-;2;1;1;2;14;-;-;-;1;3;1;6;17;-;-;-;3;4;2;8;31
+2022;Pneumologie;ICD10-I00-I99;Krankheiten des Kreislaufsystems;-;1;6;663;896;920;1032;6228;-;2;13;565;781;870;1196;6249;-;3;19;1228;1677;1790;2228;12477
+2022;Pneumologie;ICD10-J00-J99;Krankheiten des Atmungssystems;5;23;97;6118;6465;5511;5560;42555;4;11;113;5082;5274;4456;4408;35551;9;34;210;11200;11739;9967;9968;78106
+2022;Pneumologie;ICD10-K00-K93;Krankheiten des Verdauungssystems;-;-;5;82;92;71;103;738;-;1;3;78;70;70;96;699;-;1;8;160;162;141;199;1437
+2022;Pneumologie;ICD10-L00-L99;Krankheiten der Haut und der Unterhaut;-;-;2;11;7;12;12;103;-;1;2;8;4;9;6;98;-;1;4;19;11;21;18;201
+2022;Pneumologie;ICD10-M00-M99;Krankh. d. Muskel-Skelett-Systems u.d.Bindegewebes;-;-;2;84;68;52;52;493;-;-;2;86;84;66;58;608;-;-;4;170;152;118;110;1101
+2022;Pneumologie;ICD10-N00-N99;Krankheiten des Urogenitalsystems;-;1;1;79;117;130;181;832;-;-;-;45;81;103;193;855;-;1;1;124;198;233;374;1687
+2022;Pneumologie;ICD10-O00-O99;Schwangerschaft, Geburt und Wochenbett;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;84;-;-;1;-;-;-;-;84
+2022;Pneumologie;ICD10-P00-P96;Best. Zustände mit Ursprung i.d Perinatalperiode;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2022;Pneumologie;ICD10-Q00-Q99;Angeb.Fehlbild.,Deformitäten,Chromosomenanomalien;-;-;1;1;-;-;-;28;-;-;1;1;2;3;1;41;-;-;2;2;2;3;1;69
+2022;Pneumologie;ICD10-R00-R99;Symptome u.abnorme klin. u.Laborbefunde,ao.n.kl.;-;7;33;418;489;408;431;4149;3;9;43;319;323;323;372;3387;3;16;76;737;812;731;803;7536
+2022;Pneumologie;ICD10-S00-T98;Verletzungen und Vergiftungen;-;5;11;99;69;71;83;890;1;4;14;84;68;52;100;908;1;9;25;183;137;123;183;1798
+2022;Pneumologie;ICD10-Z00-Z99;Faktoren,die zur Inanspruchn.d.Gesundheitsw.führen;2;2;10;90;68;53;52;936;1;3;14;82;50;49;56;1239;3;5;24;172;118;102;108;2175
+2022;Pneumologie;ICD10-U00-U85;Schlüsselnummern für besondere Zwecke;-;-;-;-;-;1;-;2;-;-;-;-;1;-;-;4;-;-;-;-;1;1;-;6
+2022;Pneumologie;UNBEKANNT;unbekannt;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2022;Pneumologie;;Insgesamt;15;71;280;14449;14664;12044;11524;101364;13;51;285;11290;11339;9347;9051;79922;28;122;565;25739;26003;21391;20575;181286
+2022;Rheumatologie;ICD10-A00-B99;Bestimmte infektiöse und parasitäre Krankheiten;-;-;2;9;13;9;24;178;-;-;-;17;9;25;20;211;-;-;2;26;22;34;44;389
+2022;Rheumatologie;ICD10-C00-C97;Bösartige Neubildungen;-;-;-;11;5;7;4;53;-;-;-;9;5;5;13;61;-;-;-;20;10;12;17;114
+2022;Rheumatologie;ICD10-D00-D48;Übrige Neubildungen;-;-;-;6;5;6;1;35;-;-;-;5;7;3;7;50;-;-;-;11;12;9;8;85
+2022;Rheumatologie;ICD10-D50-D90;Krankheiten des Blutes;-;-;2;23;12;7;9;243;-;-;-;25;17;7;8;267;-;-;2;48;29;14;17;510
+2022;Rheumatologie;ICD10-E00-E90;Endokrine, Ernährungs- und Stoffwechselkrankheiten;-;-;4;5;1;4;9;59;-;-;3;4;5;6;14;99;-;-;7;9;6;10;23;158
+2022;Rheumatologie;ICD10-F00-F99;Psychische und Verhaltensstörungen;-;-;-;3;2;1;2;66;-;-;4;19;8;13;6;356;-;-;4;22;10;14;8;422
+2022;Rheumatologie;ICD10-G00-G99;Krankheiten des Nervensystems;-;-;1;13;9;7;4;92;-;-;2;13;14;20;4;142;-;-;3;26;23;27;8;234
+2022;Rheumatologie;ICD10-H00-H59;Krankheiten des Auges und der Augenanhangsgebilde;-;-;-;8;-;3;1;29;-;-;1;4;2;-;4;33;-;-;1;12;2;3;5;62
+2022;Rheumatologie;ICD10-H60-H95;Krankheiten des Ohres und des Warzenfortsatzes;-;-;-;-;-;-;1;1;-;-;-;1;-;-;1;3;-;-;-;1;-;-;2;4
+2022;Rheumatologie;ICD10-I00-I99;Krankheiten des Kreislaufsystems;-;-;1;29;34;29;28;325;-;1;1;27;42;39;49;461;-;1;2;56;76;68;77;786
+2022;Rheumatologie;ICD10-J00-J99;Krankheiten des Atmungssystems;-;-;1;28;22;16;20;176;-;-;3;28;25;26;29;225;-;-;4;56;47;42;49;401
+2022;Rheumatologie;ICD10-K00-K93;Krankheiten des Verdauungssystems;-;-;-;13;15;4;6;164;1;-;1;15;22;18;13;235;1;-;1;28;37;22;19;399
+2022;Rheumatologie;ICD10-L00-L99;Krankheiten der Haut und der Unterhaut;-;1;2;69;60;27;34;844;-;3;6;157;122;68;30;1692;-;4;8;226;182;95;64;2536
+2022;Rheumatologie;ICD10-M00-M99;Krankh. d. Muskel-Skelett-Systems u.d.Bindegewebes;1;8;57;1161;960;717;601;9960;-;12;110;2352;1993;1628;1583;21930;1;20;167;3513;2953;2345;2184;31890
+2022;Rheumatologie;ICD10-N00-N99;Krankheiten des Urogenitalsystems;-;-;-;8;14;6;7;89;-;-;1;10;14;11;17;116;-;-;1;18;28;17;24;205
+2022;Rheumatologie;ICD10-O00-O99;Schwangerschaft, Geburt und Wochenbett;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;6;-;-;1;-;-;-;-;6
+2022;Rheumatologie;ICD10-P00-P96;Best. Zustände mit Ursprung i.d Perinatalperiode;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2022;Rheumatologie;ICD10-Q00-Q99;Angeb.Fehlbild.,Deformitäten,Chromosomenanomalien;-;-;1;-;1;-;-;4;-;-;-;-;-;-;-;2;-;-;1;-;1;-;-;6
+2022;Rheumatologie;ICD10-R00-R99;Symptome u.abnorme klin. u.Laborbefunde,ao.n.kl.;-;-;1;4;10;8;10;108;-;-;6;13;15;14;13;210;-;-;7;17;25;22;23;318
+2022;Rheumatologie;ICD10-S00-T98;Verletzungen und Vergiftungen;-;-;-;7;1;5;6;42;-;-;-;7;4;1;10;49;-;-;-;14;5;6;16;91
+2022;Rheumatologie;ICD10-Z00-Z99;Faktoren,die zur Inanspruchn.d.Gesundheitsw.führen;-;-;-;-;-;-;-;5;-;-;-;1;1;-;-;18;-;-;-;1;1;-;-;23
+2022;Rheumatologie;ICD10-U00-U85;Schlüsselnummern für besondere Zwecke;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;2
+2022;Rheumatologie;UNBEKANNT;unbekannt;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2022;Rheumatologie;;Insgesamt;1;9;72;1397;1164;856;767;12474;1;16;139;2707;2305;1884;1821;26167;2;25;211;4104;3469;2740;2588;38641
+2022;Pädiatrie;ICD10-A00-B99;Bestimmte infektiöse und parasitäre Krankheiten;5126;2615;63;-;-;-;-;53681;4805;3730;57;-;-;-;-;49644;9931;6345;120;-;-;-;-;103325
+2022;Pädiatrie;ICD10-C00-C97;Bösartige Neubildungen;2550;1904;370;-;-;-;-;12852;2038;1492;247;-;-;-;-;9950;4588;3396;617;-;-;-;-;22802
+2022;Pädiatrie;ICD10-D00-D48;Übrige Neubildungen;333;187;22;-;-;-;-;2054;393;216;13;-;-;-;-;2555;726;403;35;-;-;-;-;4609
+2022;Pädiatrie;ICD10-D50-D90;Krankheiten des Blutes;629;425;43;-;-;-;-;4128;775;637;62;-;-;-;-;3684;1404;1062;105;-;-;-;-;7812
+2022;Pädiatrie;ICD10-E00-E90;Endokrine, Ernährungs- und Stoffwechselkrankheiten;3773;2040;135;-;-;-;-;12092;3901;2178;178;3;1;-;-;11975;7674;4218;313;3;1;-;-;24067
+2022;Pädiatrie;ICD10-F00-F99;Psychische und Verhaltensstörungen;2626;4921;46;-;-;-;-;13150;5256;7264;88;-;-;-;-;15546;7882;12185;134;-;-;-;-;28696
+2022;Pädiatrie;ICD10-G00-G99;Krankheiten des Nervensystems;5338;3509;175;-;-;-;-;21710;5624;4426;134;-;-;-;-;20391;10962;7935;309;-;-;-;-;42101
+2022;Pädiatrie;ICD10-H00-H59;Krankheiten des Auges und der Augenanhangsgebilde;464;177;-;-;-;-;-;2367;545;292;9;-;-;-;-;2327;1009;469;9;-;-;-;-;4694
+2022;Pädiatrie;ICD10-H60-H95;Krankheiten des Ohres und des Warzenfortsatzes;232;91;2;-;-;-;-;2907;216;113;4;-;-;-;-;2187;448;204;6;-;-;-;-;5094
+2022;Pädiatrie;ICD10-I00-I99;Krankheiten des Kreislaufsystems;1461;1331;20;-;-;-;-;4576;1838;1627;46;-;-;-;-;4889;3299;2958;66;-;-;-;-;9465
+2022;Pädiatrie;ICD10-J00-J99;Krankheiten des Atmungssystems;4554;2352;73;-;-;-;-;98894;3792;2860;61;-;1;-;-;71551;8346;5212;134;-;1;-;-;170445
+2022;Pädiatrie;ICD10-K00-K93;Krankheiten des Verdauungssystems;5821;3626;92;-;-;-;-;20012;6047;5480;94;1;-;-;-;19945;11868;9106;186;1;-;-;-;39957
+2022;Pädiatrie;ICD10-L00-L99;Krankheiten der Haut und der Unterhaut;1139;653;13;-;-;-;-;7446;994;725;16;-;-;-;-;5857;2133;1378;29;-;-;-;-;13303
+2022;Pädiatrie;ICD10-M00-M99;Krankh. d. Muskel-Skelett-Systems u.d.Bindegewebes;1672;863;42;-;-;-;-;5511;2427;1810;167;-;-;-;-;7555;4099;2673;209;-;-;-;-;13066
+2022;Pädiatrie;ICD10-N00-N99;Krankheiten des Urogenitalsystems;1450;797;24;-;-;-;-;8953;2030;2339;10;-;-;-;-;13116;3480;3136;34;-;-;-;-;22069
+2022;Pädiatrie;ICD10-O00-O99;Schwangerschaft, Geburt und Wochenbett;-;-;-;-;-;-;-;-;13;72;4;-;-;-;-;135;13;72;4;-;-;-;-;135
+2022;Pädiatrie;ICD10-P00-P96;Best. Zustände mit Ursprung i.d Perinatalperiode;1;-;-;-;-;-;-;38499;-;-;-;-;-;-;-;30789;1;-;-;-;-;-;-;69288
+2022;Pädiatrie;ICD10-Q00-Q99;Angeb.Fehlbild.,Deformitäten,Chromosomenanomalien;640;201;29;-;-;-;-;8184;456;193;20;1;-;-;-;5135;1096;394;49;1;-;-;-;13319
+2022;Pädiatrie;ICD10-R00-R99;Symptome u.abnorme klin. u.Laborbefunde,ao.n.kl.;8604;6000;66;-;-;-;-;37801;12819;11398;103;-;-;-;-;44729;21423;17398;169;-;-;-;-;82530
+2022;Pädiatrie;ICD10-S00-T98;Verletzungen und Vergiftungen;9040;4224;72;-;-;-;-;50139;6491;4570;58;1;-;-;-;39766;15531;8794;130;1;-;-;-;89905
+2022;Pädiatrie;ICD10-Z00-Z99;Faktoren,die zur Inanspruchn.d.Gesundheitsw.führen;717;382;27;1;2;-;-;9544;641;462;45;1;-;1;-;9561;1358;844;72;2;2;1;-;19105
+2022;Pädiatrie;ICD10-U00-U85;Schlüsselnummern für besondere Zwecke;149;50;-;-;-;-;-;611;83;33;-;-;-;-;-;419;232;83;-;-;-;-;-;1030
+2022;Pädiatrie;UNBEKANNT;unbekannt;-;-;-;-;-;-;-;3;-;-;-;-;-;-;-;8;-;-;-;-;-;-;-;11
+2022;Pädiatrie;;Insgesamt;56319;36348;1314;1;2;-;-;415114;61184;51917;1416;7;2;1;-;371714;117503;88265;2730;8;4;1;-;786828
+2022;Kinderkardiologie;ICD10-A00-B99;Bestimmte infektiöse und parasitäre Krankheiten;8;3;4;-;-;-;-;80;2;7;1;-;-;-;-;61;10;10;5;-;-;-;-;141
+2022;Kinderkardiologie;ICD10-C00-C97;Bösartige Neubildungen;6;3;1;-;-;-;-;18;7;3;-;-;-;-;-;17;13;6;1;-;-;-;-;35
+2022;Kinderkardiologie;ICD10-D00-D48;Übrige Neubildungen;5;-;1;-;-;-;-;27;7;3;-;-;-;-;-;47;12;3;1;-;-;-;-;74
+2022;Kinderkardiologie;ICD10-D50-D90;Krankheiten des Blutes;2;3;2;-;-;-;-;23;2;1;1;-;-;-;-;20;4;4;3;-;-;-;-;43
+2022;Kinderkardiologie;ICD10-E00-E90;Endokrine, Ernährungs- und Stoffwechselkrankheiten;5;5;-;-;-;-;-;26;8;2;-;-;-;-;-;28;13;7;-;-;-;-;-;54
+2022;Kinderkardiologie;ICD10-F00-F99;Psychische und Verhaltensstörungen;1;11;-;-;-;-;-;16;6;13;-;-;-;-;-;20;7;24;-;-;-;-;-;36
+2022;Kinderkardiologie;ICD10-G00-G99;Krankheiten des Nervensystems;8;4;-;-;-;-;-;45;2;5;-;-;-;-;-;30;10;9;-;-;-;-;-;75
+2022;Kinderkardiologie;ICD10-H00-H59;Krankheiten des Auges und der Augenanhangsgebilde;2;-;-;-;-;-;-;13;4;1;-;-;-;-;-;7;6;1;-;-;-;-;-;20
+2022;Kinderkardiologie;ICD10-H60-H95;Krankheiten des Ohres und des Warzenfortsatzes;1;1;-;-;-;-;-;24;-;-;-;-;-;-;-;13;1;1;-;-;-;-;-;37
+2022;Kinderkardiologie;ICD10-I00-I99;Krankheiten des Kreislaufsystems;306;289;51;5;4;2;-;1489;281;188;33;13;9;1;-;1227;587;477;84;18;13;3;-;2716
+2022;Kinderkardiologie;ICD10-J00-J99;Krankheiten des Atmungssystems;25;20;3;-;-;-;-;341;26;16;3;-;-;-;-;256;51;36;6;-;-;-;-;597
+2022;Kinderkardiologie;ICD10-K00-K93;Krankheiten des Verdauungssystems;17;12;7;-;-;-;-;120;9;4;4;-;-;-;-;79;26;16;11;-;-;-;-;199
+2022;Kinderkardiologie;ICD10-L00-L99;Krankheiten der Haut und der Unterhaut;4;-;1;-;-;-;-;12;-;2;1;-;-;-;-;11;4;2;2;-;-;-;-;23
+2022;Kinderkardiologie;ICD10-M00-M99;Krankh. d. Muskel-Skelett-Systems u.d.Bindegewebes;4;2;-;-;-;-;-;30;5;9;1;-;-;-;-;33;9;11;1;-;-;-;-;63
+2022;Kinderkardiologie;ICD10-N00-N99;Krankheiten des Urogenitalsystems;5;2;-;-;-;-;-;23;1;2;-;-;-;-;-;12;6;4;-;-;-;-;-;35
+2022;Kinderkardiologie;ICD10-O00-O99;Schwangerschaft, Geburt und Wochenbett;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;6;-;-;-;-;-;-;-;6
+2022;Kinderkardiologie;ICD10-P00-P96;Best. Zustände mit Ursprung i.d Perinatalperiode;-;-;-;-;-;-;-;361;-;-;-;-;-;-;-;314;-;-;-;-;-;-;-;675
+2022;Kinderkardiologie;ICD10-Q00-Q99;Angeb.Fehlbild.,Deformitäten,Chromosomenanomalien;317;183;61;3;6;-;1;4333;265;129;51;12;1;-;-;3592;582;312;112;15;7;-;1;7925
+2022;Kinderkardiologie;ICD10-R00-R99;Symptome u.abnorme klin. u.Laborbefunde,ao.n.kl.;62;62;8;-;-;-;-;277;56;61;5;-;-;-;-;227;118;123;13;-;-;-;-;504
+2022;Kinderkardiologie;ICD10-S00-T98;Verletzungen und Vergiftungen;117;72;27;1;2;-;-;629;79;62;12;-;-;1;-;434;196;134;39;1;2;1;-;1063
+2022;Kinderkardiologie;ICD10-Z00-Z99;Faktoren,die zur Inanspruchn.d.Gesundheitsw.führen;69;45;26;-;1;1;-;330;59;42;16;-;-;-;-;267;128;87;42;-;1;1;-;597
+2022;Kinderkardiologie;ICD10-U00-U85;Schlüsselnummern für besondere Zwecke;4;1;-;-;-;-;-;14;-;3;-;-;-;-;-;11;4;4;-;-;-;-;-;25
+2022;Kinderkardiologie;UNBEKANNT;unbekannt;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2022;Kinderkardiologie;;Insgesamt;968;718;192;9;13;3;1;8231;819;553;128;25;10;2;-;6712;1787;1271;320;34;23;5;1;14943
+2022;Neonatologie;ICD10-A00-B99;Bestimmte infektiöse und parasitäre Krankheiten;-;-;-;-;-;-;-;215;-;-;-;-;-;-;-;142;-;-;-;-;-;-;-;357
+2022;Neonatologie;ICD10-C00-C97;Bösartige Neubildungen;-;-;-;-;-;-;-;10;-;-;-;-;-;-;-;5;-;-;-;-;-;-;-;15
+2022;Neonatologie;ICD10-D00-D48;Übrige Neubildungen;-;-;-;-;-;-;-;43;-;-;-;-;-;-;-;49;-;-;-;-;-;-;-;92
+2022;Neonatologie;ICD10-D50-D90;Krankheiten des Blutes;-;-;-;-;-;-;-;37;-;-;-;-;-;-;-;25;-;-;-;-;-;-;-;62
+2022;Neonatologie;ICD10-E00-E90;Endokrine, Ernährungs- und Stoffwechselkrankheiten;-;-;-;-;-;-;-;79;-;-;-;-;-;-;-;74;-;-;-;-;-;-;-;153
+2022;Neonatologie;ICD10-F00-F99;Psychische und Verhaltensstörungen;-;-;-;-;-;-;-;6;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;7
+2022;Neonatologie;ICD10-G00-G99;Krankheiten des Nervensystems;-;-;-;-;-;-;-;203;-;-;-;-;-;-;-;134;-;-;-;-;-;-;-;337
+2022;Neonatologie;ICD10-H00-H59;Krankheiten des Auges und der Augenanhangsgebilde;-;-;-;-;-;-;-;32;-;-;-;-;-;-;-;38;-;-;-;-;-;-;-;70
+2022;Neonatologie;ICD10-H60-H95;Krankheiten des Ohres und des Warzenfortsatzes;-;-;-;-;-;-;-;7;-;-;-;-;-;-;-;5;-;-;-;-;-;-;-;12
+2022;Neonatologie;ICD10-I00-I99;Krankheiten des Kreislaufsystems;-;-;-;-;-;-;-;60;-;-;-;-;-;-;-;44;-;-;-;-;-;-;-;104
+2022;Neonatologie;ICD10-J00-J99;Krankheiten des Atmungssystems;-;-;-;-;-;-;-;578;-;-;-;-;-;-;-;478;-;-;-;-;-;-;-;1056
+2022;Neonatologie;ICD10-K00-K93;Krankheiten des Verdauungssystems;-;-;-;-;-;-;-;110;-;-;-;-;-;-;-;56;-;-;-;-;-;-;-;166
+2022;Neonatologie;ICD10-L00-L99;Krankheiten der Haut und der Unterhaut;-;-;-;-;-;-;-;45;-;-;-;-;-;-;-;36;-;-;-;-;-;-;-;81
+2022;Neonatologie;ICD10-M00-M99;Krankh. d. Muskel-Skelett-Systems u.d.Bindegewebes;-;-;-;-;-;-;-;4;-;-;-;-;-;-;-;2;-;-;-;-;-;-;-;6
+2022;Neonatologie;ICD10-N00-N99;Krankheiten des Urogenitalsystems;-;-;-;-;-;-;-;118;-;-;-;-;-;-;-;42;-;-;-;-;-;-;-;160
+2022;Neonatologie;ICD10-O00-O99;Schwangerschaft, Geburt und Wochenbett;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2022;Neonatologie;ICD10-P00-P96;Best. Zustände mit Ursprung i.d Perinatalperiode;-;-;-;-;-;-;-;20642;-;-;-;-;-;-;-;16191;-;-;-;-;-;-;-;36833
+2022;Neonatologie;ICD10-Q00-Q99;Angeb.Fehlbild.,Deformitäten,Chromosomenanomalien;-;-;-;-;-;-;-;1138;-;-;-;-;-;-;-;953;-;-;-;-;-;-;-;2091
+2022;Neonatologie;ICD10-R00-R99;Symptome u.abnorme klin. u.Laborbefunde,ao.n.kl.;-;-;-;-;-;-;-;355;-;-;-;-;-;-;-;270;-;-;-;-;-;-;-;625
+2022;Neonatologie;ICD10-S00-T98;Verletzungen und Vergiftungen;-;-;-;-;-;-;-;136;-;-;-;-;-;-;-;116;-;-;-;-;-;-;-;252
+2022;Neonatologie;ICD10-Z00-Z99;Faktoren,die zur Inanspruchn.d.Gesundheitsw.führen;-;-;-;-;-;-;-;932;-;-;-;-;-;-;-;833;-;-;-;-;-;-;-;1765
+2022;Neonatologie;ICD10-U00-U85;Schlüsselnummern für besondere Zwecke;-;-;-;-;-;-;-;3;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;4
+2022;Neonatologie;UNBEKANNT;unbekannt;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2022;Neonatologie;;Insgesamt;-;-;-;-;-;-;-;24753;-;-;-;-;-;-;-;19495;-;-;-;-;-;-;-;44248
+2022;Kinderchirurgie;ICD10-A00-B99;Bestimmte infektiöse und parasitäre Krankheiten;350;86;-;-;-;-;-;1168;377;152;1;-;-;-;-;1071;727;238;1;-;-;-;-;2239
+2022;Kinderchirurgie;ICD10-C00-C97;Bösartige Neubildungen;77;54;9;-;-;-;-;505;88;60;4;-;-;-;-;404;165;114;13;-;-;-;-;909
+2022;Kinderchirurgie;ICD10-D00-D48;Übrige Neubildungen;149;56;2;-;1;-;-;923;215;61;6;-;-;-;-;1282;364;117;8;-;1;-;-;2205
+2022;Kinderchirurgie;ICD10-D50-D90;Krankheiten des Blutes;21;7;3;-;-;-;-;109;21;17;4;-;-;-;-;101;42;24;7;-;-;-;-;210
+2022;Kinderchirurgie;ICD10-E00-E90;Endokrine, Ernährungs- und Stoffwechselkrankheiten;17;9;-;-;-;-;-;71;13;19;-;-;-;-;-;87;30;28;-;-;-;-;-;158
+2022;Kinderchirurgie;ICD10-F00-F99;Psychische und Verhaltensstörungen;20;7;-;-;-;-;-;47;24;14;-;-;-;-;-;59;44;21;-;-;-;-;-;106
+2022;Kinderchirurgie;ICD10-G00-G99;Krankheiten des Nervensystems;55;39;2;-;-;-;-;356;59;29;5;-;-;-;-;230;114;68;7;-;-;-;-;586
+2022;Kinderchirurgie;ICD10-H00-H59;Krankheiten des Auges und der Augenanhangsgebilde;20;7;-;-;-;-;-;94;31;4;-;-;-;-;-;104;51;11;-;-;-;-;-;198
+2022;Kinderchirurgie;ICD10-H60-H95;Krankheiten des Ohres und des Warzenfortsatzes;11;-;-;-;-;-;-;88;9;3;-;-;-;-;-;73;20;3;-;-;-;-;-;161
+2022;Kinderchirurgie;ICD10-I00-I99;Krankheiten des Kreislaufsystems;210;53;2;-;-;-;-;488;128;33;1;-;-;-;-;298;338;86;3;-;-;-;-;786
+2022;Kinderchirurgie;ICD10-J00-J99;Krankheiten des Atmungssystems;45;28;4;-;-;-;-;867;42;22;2;-;-;-;-;564;87;50;6;-;-;-;-;1431
+2022;Kinderchirurgie;ICD10-K00-K93;Krankheiten des Verdauungssystems;2240;679;11;1;-;-;-;9588;1711;690;12;-;-;-;-;5531;3951;1369;23;1;-;-;-;15119
+2022;Kinderchirurgie;ICD10-L00-L99;Krankheiten der Haut und der Unterhaut;547;337;2;-;-;-;-;2142;511;301;2;-;-;-;-;1845;1058;638;4;-;-;-;-;3987
+2022;Kinderchirurgie;ICD10-M00-M99;Krankh. d. Muskel-Skelett-Systems u.d.Bindegewebes;801;217;7;-;-;-;-;1649;588;165;4;-;-;-;-;1209;1389;382;11;-;-;-;-;2858
+2022;Kinderchirurgie;ICD10-N00-N99;Krankheiten des Urogenitalsystems;1504;494;9;-;-;-;-;4551;590;298;7;-;-;-;-;1649;2094;792;16;-;-;-;-;6200
+2022;Kinderchirurgie;ICD10-O00-O99;Schwangerschaft, Geburt und Wochenbett;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;2;-;1;-;-;-;-;-;2
+2022;Kinderchirurgie;ICD10-P00-P96;Best. Zustände mit Ursprung i.d Perinatalperiode;-;-;-;-;-;-;-;141;-;-;-;-;-;-;-;104;-;-;-;-;-;-;-;245
+2022;Kinderchirurgie;ICD10-Q00-Q99;Angeb.Fehlbild.,Deformitäten,Chromosomenanomalien;638;369;110;-;-;-;-;10886;329;166;21;-;-;-;-;3799;967;535;131;-;-;-;-;14685
+2022;Kinderchirurgie;ICD10-R00-R99;Symptome u.abnorme klin. u.Laborbefunde,ao.n.kl.;422;114;2;-;-;-;-;1171;590;299;8;-;-;-;-;1496;1012;413;10;-;-;-;-;2667
+2022;Kinderchirurgie;ICD10-S00-T98;Verletzungen und Vergiftungen;7525;1685;24;-;-;-;-;27990;4270;1025;14;-;-;-;-;19227;11795;2710;38;-;-;-;-;47217
+2022;Kinderchirurgie;ICD10-Z00-Z99;Faktoren,die zur Inanspruchn.d.Gesundheitsw.führen;76;22;2;-;-;-;-;532;39;24;-;-;-;-;-;424;115;46;2;-;-;-;-;956
+2022;Kinderchirurgie;ICD10-U00-U85;Schlüsselnummern für besondere Zwecke;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;2;-;-;-;-;-;-;-;2
+2022;Kinderchirurgie;UNBEKANNT;unbekannt;-;-;-;-;-;-;-;4;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;4
+2022;Kinderchirurgie;;Insgesamt;14728;4263;189;1;1;-;-;63370;9635;3383;91;-;-;-;-;39561;24363;7646;280;1;1;-;-;102931
+2022;Lungen- und Bronchialheilkunde;ICD10-A00-B99;Bestimmte infektiöse und parasitäre Krankheiten;-;4;8;50;55;53;62;630;-;1;4;39;41;31;50;351;-;5;12;89;96;84;112;981
+2022;Lungen- und Bronchialheilkunde;ICD10-C00-C97;Bösartige Neubildungen;-;1;-;931;851;613;490;4613;-;1;-;651;624;488;246;3359;-;2;-;1582;1475;1101;736;7972
+2022;Lungen- und Bronchialheilkunde;ICD10-D00-D48;Übrige Neubildungen;-;-;-;148;140;98;100;810;-;-;-;120;93;79;85;619;-;-;-;268;233;177;185;1429
+2022;Lungen- und Bronchialheilkunde;ICD10-D50-D90;Krankheiten des Blutes;-;-;-;29;17;10;12;288;-;-;-;25;27;11;11;210;-;-;-;54;44;21;23;498
+2022;Lungen- und Bronchialheilkunde;ICD10-E00-E90;Endokrine, Ernährungs- und Stoffwechselkrankheiten;-;-;-;23;25;18;23;189;-;-;-;26;26;25;21;212;-;-;-;49;51;43;44;401
+2022;Lungen- und Bronchialheilkunde;ICD10-F00-F99;Psychische und Verhaltensstörungen;-;-;2;3;2;-;1;48;-;-;1;1;1;2;-;23;-;-;3;4;3;2;1;71
+2022;Lungen- und Bronchialheilkunde;ICD10-G00-G99;Krankheiten des Nervensystems;1;1;1;239;202;184;100;2211;-;-;-;118;91;90;61;949;1;1;1;357;293;274;161;3160
+2022;Lungen- und Bronchialheilkunde;ICD10-H00-H59;Krankheiten des Auges und der Augenanhangsgebilde;-;-;-;-;-;-;-;-;-;-;1;1;-;-;-;3;-;-;1;1;-;-;-;3
+2022;Lungen- und Bronchialheilkunde;ICD10-H60-H95;Krankheiten des Ohres und des Warzenfortsatzes;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2022;Lungen- und Bronchialheilkunde;ICD10-I00-I99;Krankheiten des Kreislaufsystems;-;-;-;101;138;151;198;1008;-;-;1;82;106;133;158;849;-;-;1;183;244;284;356;1857
+2022;Lungen- und Bronchialheilkunde;ICD10-J00-J99;Krankheiten des Atmungssystems;-;11;19;1573;1531;1292;1313;9970;-;5;18;1213;1285;939;907;7885;-;16;37;2786;2816;2231;2220;17855
+2022;Lungen- und Bronchialheilkunde;ICD10-K00-K93;Krankheiten des Verdauungssystems;-;-;1;10;8;8;10;92;-;-;-;14;11;9;13;103;-;-;1;24;19;17;23;195
+2022;Lungen- und Bronchialheilkunde;ICD10-L00-L99;Krankheiten der Haut und der Unterhaut;-;-;1;4;2;5;2;23;-;-;-;2;-;-;-;15;-;-;1;6;2;5;2;38
+2022;Lungen- und Bronchialheilkunde;ICD10-M00-M99;Krankh. d. Muskel-Skelett-Systems u.d.Bindegewebes;-;-;-;17;20;7;15;144;-;1;-;24;24;28;18;181;-;1;-;41;44;35;33;325
+2022;Lungen- und Bronchialheilkunde;ICD10-N00-N99;Krankheiten des Urogenitalsystems;-;-;-;16;17;12;23;135;-;-;-;6;16;18;26;136;-;-;-;22;33;30;49;271
+2022;Lungen- und Bronchialheilkunde;ICD10-O00-O99;Schwangerschaft, Geburt und Wochenbett;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;9;-;1;-;-;-;-;-;9
+2022;Lungen- und Bronchialheilkunde;ICD10-P00-P96;Best. Zustände mit Ursprung i.d Perinatalperiode;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2022;Lungen- und Bronchialheilkunde;ICD10-Q00-Q99;Angeb.Fehlbild.,Deformitäten,Chromosomenanomalien;-;-;-;1;-;-;-;7;-;-;-;-;-;-;-;3;-;-;-;1;-;-;-;10
+2022;Lungen- und Bronchialheilkunde;ICD10-R00-R99;Symptome u.abnorme klin. u.Laborbefunde,ao.n.kl.;-;1;6;134;128;105;88;1060;-;3;2;86;96;91;64;834;-;4;8;220;224;196;152;1894
+2022;Lungen- und Bronchialheilkunde;ICD10-S00-T98;Verletzungen und Vergiftungen;-;2;3;15;17;11;14;139;1;2;-;24;9;12;12;127;1;4;3;39;26;23;26;266
+2022;Lungen- und Bronchialheilkunde;ICD10-Z00-Z99;Faktoren,die zur Inanspruchn.d.Gesundheitsw.führen;2;-;4;29;26;11;9;267;2;4;3;36;38;16;15;411;4;4;7;65;64;27;24;678
+2022;Lungen- und Bronchialheilkunde;ICD10-U00-U85;Schlüsselnummern für besondere Zwecke;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1
+2022;Lungen- und Bronchialheilkunde;UNBEKANNT;unbekannt;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2022;Lungen- und Bronchialheilkunde;;Insgesamt;3;20;45;3323;3179;2578;2460;21635;3;18;30;2468;2488;1972;1687;16279;6;38;75;5791;5667;4550;4147;37914
+2022;Chirurgie;ICD10-A00-B99;Bestimmte infektiöse und parasitäre Krankheiten;228;284;308;1223;1255;985;1271;14567;233;409;440;898;849;967;1462;12929;461;693;748;2121;2104;1952;2733;27496
+2022;Chirurgie;ICD10-C00-C97;Bösartige Neubildungen;19;50;60;12598;13130;10620;10176;81979;27;35;49;9033;9530;8389;9424;69214;46;85;109;21631;22660;19009;19600;151193
+2022;Chirurgie;ICD10-D00-D48;Übrige Neubildungen;62;57;35;1859;1797;1364;1207;15229;86;79;85;1866;1868;1445;1312;17608;148;136;120;3725;3665;2809;2519;32837
+2022;Chirurgie;ICD10-D50-D90;Krankheiten des Blutes;3;5;10;102;92;67;103;900;5;12;18;89;92;102;127;1076;8;17;28;191;184;169;230;1976
+2022;Chirurgie;ICD10-E00-E90;Endokrine, Ernährungs- und Stoffwechselkrankheiten;15;46;104;4258;3985;2698;2734;36384;28;106;246;4196;3356;2082;1826;60857;43;152;350;8454;7341;4780;4560;97241
+2022;Chirurgie;ICD10-F00-F99;Psychische und Verhaltensstörungen;2;27;66;126;74;65;64;2108;3;13;39;183;140;149;125;2750;5;40;105;309;214;214;189;4858
+2022;Chirurgie;ICD10-G00-G99;Krankheiten des Nervensystems;57;39;47;318;358;315;387;3928;30;45;39;313;346;383;581;4584;87;84;86;631;704;698;968;8512
+2022;Chirurgie;ICD10-H00-H59;Krankheiten des Auges und der Augenanhangsgebilde;1;2;-;18;8;9;13;99;1;-;2;27;19;13;8;205;2;2;2;45;27;22;21;304
+2022;Chirurgie;ICD10-H60-H95;Krankheiten des Ohres und des Warzenfortsatzes;6;-;1;5;6;6;5;60;6;1;1;3;2;7;4;53;12;1;2;8;8;13;9;113
+2022;Chirurgie;ICD10-I00-I99;Krankheiten des Kreislaufsystems;75;82;62;11748;11381;9146;10125;74769;58;83;109;6084;6492;6152;8176;52647;133;165;171;17832;17873;15298;18301;127416
+2022;Chirurgie;ICD10-J00-J99;Krankheiten des Atmungssystems;21;112;207;1037;998;871;873;9686;22;30;42;540;525;460;493;4757;43;142;249;1577;1523;1331;1366;14443
+2022;Chirurgie;ICD10-K00-K93;Krankheiten des Verdauungssystems;2049;2707;3531;42378;39073;30486;31096;436301;1768;3257;4067;29875;27594;22537;26448;336866;3817;5964;7598;72253;66667;53023;57544;773168
+2022;Chirurgie;ICD10-L00-L99;Krankheiten der Haut und der Unterhaut;336;1404;1747;3335;2872;2479;2828;55420;388;855;778;2079;2131;2156;3442;37036;724;2259;2525;5414;5003;4635;6270;92456
+2022;Chirurgie;ICD10-M00-M99;Krankh. d. Muskel-Skelett-Systems u.d.Bindegewebes;1051;990;910;22733;21677;16727;14513;196064;961;1026;772;27582;29923;25774;25744;234310;2012;2016;1682;50315;51600;42501;40257;430374
+2022;Chirurgie;ICD10-N00-N99;Krankheiten des Urogenitalsystems;107;92;125;1711;1673;1282;1626;17657;180;520;720;1530;1351;1119;1547;21168;287;612;845;3241;3024;2401;3173;38825
+2022;Chirurgie;ICD10-O00-O99;Schwangerschaft, Geburt und Wochenbett;-;-;-;-;-;-;-;-;-;2;14;-;-;-;-;699;-;2;14;-;-;-;-;699
+2022;Chirurgie;ICD10-P00-P96;Best. Zustände mit Ursprung i.d Perinatalperiode;-;-;-;-;-;-;-;11;-;-;-;-;-;-;-;12;-;-;-;-;-;-;-;23
+2022;Chirurgie;ICD10-Q00-Q99;Angeb.Fehlbild.,Deformitäten,Chromosomenanomalien;451;199;113;56;54;22;17;3609;323;157;117;89;64;44;40;3290;774;356;230;145;118;66;57;6899
+2022;Chirurgie;ICD10-R00-R99;Symptome u.abnorme klin. u.Laborbefunde,ao.n.kl.;450;534;610;973;944;768;954;15067;711;1226;1344;1136;1099;970;1228;23056;1161;1760;1954;2109;2043;1738;2182;38123
+2022;Chirurgie;ICD10-S00-T98;Verletzungen und Vergiftungen;4141;5434;4850;16903;16191;14980;21753;228893;2339;2524;2399;20941;23359;25828;42821;269408;6480;7958;7249;37844;39550;40808;64574;498301
+2022;Chirurgie;ICD10-Z00-Z99;Faktoren,die zur Inanspruchn.d.Gesundheitsw.führen;39;23;41;175;165;107;136;1892;35;13;30;182;113;97;123;2415;74;36;71;357;278;204;259;4307
+2022;Chirurgie;ICD10-U00-U85;Schlüsselnummern für besondere Zwecke;1;-;-;2;-;1;-;7;-;-;-;-;-;-;-;2;1;-;-;2;-;1;-;9
+2022;Chirurgie;UNBEKANNT;unbekannt;-;-;-;-;1;-;1;9;-;-;-;-;-;2;1;8;-;-;-;-;1;2;2;17
+2022;Chirurgie;;Insgesamt;9114;12087;12827;121558;115734;92998;99882;1194639;7204;10393;11311;106646;108853;98676;124932;1154950;16318;22480;24138;228204;224587;191674;224814;2349590
+2022;Unfallchirurgie;ICD10-A00-B99;Bestimmte infektiöse und parasitäre Krankheiten;6;9;11;143;148;147;157;1715;1;2;9;92;96;133;183;1174;7;11;20;235;244;280;340;2889
+2022;Unfallchirurgie;ICD10-C00-C97;Bösartige Neubildungen;14;11;16;363;407;343;418;2811;16;13;7;300;337;270;334;2544;30;24;23;663;744;613;752;5355
+2022;Unfallchirurgie;ICD10-D00-D48;Übrige Neubildungen;32;30;27;81;70;50;33;1132;21;31;23;104;66;66;64;1207;53;61;50;185;136;116;97;2339
+2022;Unfallchirurgie;ICD10-D50-D90;Krankheiten des Blutes;-;-;-;2;7;4;16;55;-;1;-;13;11;9;18;97;-;1;-;15;18;13;34;152
+2022;Unfallchirurgie;ICD10-E00-E90;Endokrine, Ernährungs- und Stoffwechselkrankheiten;-;1;-;141;126;92;105;1025;-;1;-;47;54;37;89;603;-;2;-;188;180;129;194;1628
+2022;Unfallchirurgie;ICD10-F00-F99;Psychische und Verhaltensstörungen;2;10;15;40;31;19;20;629;5;12;12;26;22;20;35;373;7;22;27;66;53;39;55;1002
+2022;Unfallchirurgie;ICD10-G00-G99;Krankheiten des Nervensystems;9;9;12;134;131;135;144;1495;6;9;5;122;137;126;238;1687;15;18;17;256;268;261;382;3182
+2022;Unfallchirurgie;ICD10-H00-H59;Krankheiten des Auges und der Augenanhangsgebilde;1;-;-;1;2;-;-;16;2;-;-;1;3;1;4;20;3;-;-;2;5;1;4;36
+2022;Unfallchirurgie;ICD10-H60-H95;Krankheiten des Ohres und des Warzenfortsatzes;-;-;-;2;-;-;4;10;1;-;-;2;1;3;4;19;1;-;-;4;1;3;8;29
+2022;Unfallchirurgie;ICD10-I00-I99;Krankheiten des Kreislaufsystems;7;5;4;125;142;142;230;1313;1;5;2;58;111;125;249;1183;8;10;6;183;253;267;479;2496
+2022;Unfallchirurgie;ICD10-J00-J99;Krankheiten des Atmungssystems;2;8;18;37;41;38;66;510;1;1;3;37;31;42;70;381;3;9;21;74;72;80;136;891
+2022;Unfallchirurgie;ICD10-K00-K93;Krankheiten des Verdauungssystems;-;7;9;80;77;76;72;922;4;5;4;29;30;41;66;418;4;12;13;109;107;117;138;1340
+2022;Unfallchirurgie;ICD10-L00-L99;Krankheiten der Haut und der Unterhaut;66;89;87;496;406;390;412;6847;38;57;52;308;350;333;537;4930;104;146;139;804;756;723;949;11777
+2022;Unfallchirurgie;ICD10-M00-M99;Krankh. d. Muskel-Skelett-Systems u.d.Bindegewebes;920;845;553;9159;8728;7216;6781;91690;824;688;486;10498;11816;11163;12519;102481;1744;1533;1039;19657;20544;18379;19300;194171
+2022;Unfallchirurgie;ICD10-N00-N99;Krankheiten des Urogenitalsystems;2;1;2;11;30;32;32;261;-;1;10;24;26;33;47;346;2;2;12;35;56;65;79;607
+2022;Unfallchirurgie;ICD10-O00-O99;Schwangerschaft, Geburt und Wochenbett;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;29;-;-;-;-;-;-;-;29
+2022;Unfallchirurgie;ICD10-P00-P96;Best. Zustände mit Ursprung i.d Perinatalperiode;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2022;Unfallchirurgie;ICD10-Q00-Q99;Angeb.Fehlbild.,Deformitäten,Chromosomenanomalien;263;87;25;-;1;2;-;841;204;81;48;7;4;1;4;883;467;168;73;7;5;3;4;1724
+2022;Unfallchirurgie;ICD10-R00-R99;Symptome u.abnorme klin. u.Laborbefunde,ao.n.kl.;15;20;21;104;84;101;142;1689;11;15;13;83;106;115;221;1523;26;35;34;187;190;216;363;3212
+2022;Unfallchirurgie;ICD10-S00-T98;Verletzungen und Vergiftungen;6028;6686;5587;14632;13633;13454;19782;239245;3180;3010;2693;20118;22142;25267;41912;273273;9208;9696;8280;34750;35775;38721;61694;512518
+2022;Unfallchirurgie;ICD10-Z00-Z99;Faktoren,die zur Inanspruchn.d.Gesundheitsw.führen;11;19;26;23;15;15;30;512;15;10;11;17;13;23;35;374;26;29;37;40;28;38;65;886
+2022;Unfallchirurgie;ICD10-U00-U85;Schlüsselnummern für besondere Zwecke;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2022;Unfallchirurgie;UNBEKANNT;unbekannt;-;-;-;-;-;-;1;2;-;-;-;-;-;-;-;1;-;-;-;-;-;-;1;3
+2022;Unfallchirurgie;;Insgesamt;7378;7837;6413;25574;24079;22256;28445;352720;4330;3942;3378;31886;35356;37808;56629;393546;11708;11779;9791;57460;59435;60064;85074;746266
+2022;Neurochirurgie;ICD10-A00-B99;Bestimmte infektiöse und parasitäre Krankheiten;2;-;2;23;21;31;21;229;-;1;1;14;22;16;17;152;2;1;3;37;43;47;38;381
+2022;Neurochirurgie;ICD10-C00-C97;Bösartige Neubildungen;15;22;37;1641;1514;992;805;11176;9;13;26;1229;1075;761;631;8737;24;35;63;2870;2589;1753;1436;19913
+2022;Neurochirurgie;ICD10-D00-D48;Übrige Neubildungen;27;45;58;664;632;451;338;6588;24;45;53;1074;938;677;541;9636;51;90;111;1738;1570;1128;879;16224
+2022;Neurochirurgie;ICD10-D50-D90;Krankheiten des Blutes;-;-;-;3;2;-;3;19;-;-;-;2;1;2;4;29;-;-;-;5;3;2;7;48
+2022;Neurochirurgie;ICD10-E00-E90;Endokrine, Ernährungs- und Stoffwechselkrankheiten;2;2;1;15;12;14;15;146;1;1;2;23;24;14;16;243;3;3;3;38;36;28;31;389
+2022;Neurochirurgie;ICD10-F00-F99;Psychische und Verhaltensstörungen;-;1;2;20;17;13;8;222;1;4;4;26;25;15;20;303;1;5;6;46;42;28;28;525
+2022;Neurochirurgie;ICD10-G00-G99;Krankheiten des Nervensystems;71;62;91;962;986;828;720;8861;48;60;85;733;787;672;574;8154;119;122;176;1695;1773;1500;1294;17015
+2022;Neurochirurgie;ICD10-H00-H59;Krankheiten des Auges und der Augenanhangsgebilde;-;-;-;1;4;3;3;43;1;-;-;4;2;2;4;34;1;-;-;5;6;5;7;77
+2022;Neurochirurgie;ICD10-H60-H95;Krankheiten des Ohres und des Warzenfortsatzes;2;-;-;1;4;1;1;28;-;-;2;3;5;1;2;37;2;-;2;4;9;2;3;65
+2022;Neurochirurgie;ICD10-I00-I99;Krankheiten des Kreislaufsystems;12;15;23;1281;1217;1018;1262;10893;8;8;14;1384;1193;909;997;12145;20;23;37;2665;2410;1927;2259;23038
+2022;Neurochirurgie;ICD10-J00-J99;Krankheiten des Atmungssystems;2;4;1;15;11;17;15;132;-;-;-;4;10;11;15;93;2;4;1;19;21;28;30;225
+2022;Neurochirurgie;ICD10-K00-K93;Krankheiten des Verdauungssystems;-;-;3;11;11;6;6;89;-;1;2;7;9;9;9;67;-;1;5;18;20;15;15;156
+2022;Neurochirurgie;ICD10-L00-L99;Krankheiten der Haut und der Unterhaut;-;-;-;16;24;18;9;197;1;2;1;15;8;5;10;155;1;2;1;31;32;23;19;352
+2022;Neurochirurgie;ICD10-M00-M99;Krankh. d. Muskel-Skelett-Systems u.d.Bindegewebes;18;42;44;4552;4637;3915;3567;42484;27;44;69;4365;4645;4265;4619;42003;45;86;113;8917;9282;8180;8186;84487
+2022;Neurochirurgie;ICD10-N00-N99;Krankheiten des Urogenitalsystems;1;-;-;10;11;13;12;95;1;-;-;12;7;6;10;90;2;-;-;22;18;19;22;185
+2022;Neurochirurgie;ICD10-O00-O99;Schwangerschaft, Geburt und Wochenbett;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;28;-;1;-;-;-;-;-;28
+2022;Neurochirurgie;ICD10-P00-P96;Best. Zustände mit Ursprung i.d Perinatalperiode;-;-;-;-;-;-;-;5;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;6
+2022;Neurochirurgie;ICD10-Q00-Q99;Angeb.Fehlbild.,Deformitäten,Chromosomenanomalien;19;15;29;38;26;11;13;731;15;17;37;55;36;19;6;899;34;32;66;93;62;30;19;1630
+2022;Neurochirurgie;ICD10-R00-R99;Symptome u.abnorme klin. u.Laborbefunde,ao.n.kl.;2;8;11;76;84;77;94;867;3;6;15;93;78;96;85;970;5;14;26;169;162;173;179;1837
+2022;Neurochirurgie;ICD10-S00-T98;Verletzungen und Vergiftungen;68;144;211;1507;1632;1757;2669;18402;47;59;113;1040;1283;1519;2562;13874;115;203;324;2547;2915;3276;5231;32276
+2022;Neurochirurgie;ICD10-Z00-Z99;Faktoren,die zur Inanspruchn.d.Gesundheitsw.führen;1;-;2;21;11;11;4;175;-;6;3;11;10;7;14;194;1;6;5;32;21;18;18;369
+2022;Neurochirurgie;ICD10-U00-U85;Schlüsselnummern für besondere Zwecke;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2022;Neurochirurgie;UNBEKANNT;unbekannt;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;2;-;-;-;-;-;-;-;2
+2022;Neurochirurgie;;Insgesamt;242;360;515;10857;10856;9176;9565;101382;186;268;427;10094;10158;9006;10136;97846;428;628;942;20951;21014;18182;19701;199228
+2022;Gefäßchirurgie;ICD10-A00-B99;Bestimmte infektiöse und parasitäre Krankheiten;-;1;-;220;211;155;204;1685;-;-;1;89;121;143;186;1138;-;1;1;309;332;298;390;2823
+2022;Gefäßchirurgie;ICD10-C00-C97;Bösartige Neubildungen;-;-;-;90;99;56;55;494;-;-;-;76;81;66;54;468;-;-;-;166;180;122;109;962
+2022;Gefäßchirurgie;ICD10-D00-D48;Übrige Neubildungen;-;-;-;11;9;4;9;97;-;-;-;13;18;13;11;122;-;-;-;24;27;17;20;219
+2022;Gefäßchirurgie;ICD10-D50-D90;Krankheiten des Blutes;-;-;-;7;4;5;10;43;-;-;-;2;9;16;10;61;-;-;-;9;13;21;20;104
+2022;Gefäßchirurgie;ICD10-E00-E90;Endokrine, Ernährungs- und Stoffwechselkrankheiten;-;-;5;1421;1635;1383;1530;9908;-;-;5;341;454;427;643;3467;-;-;10;1762;2089;1810;2173;13375
+2022;Gefäßchirurgie;ICD10-F00-F99;Psychische und Verhaltensstörungen;-;-;-;-;-;1;1;14;-;-;-;-;2;1;-;10;-;-;-;-;2;2;1;24
+2022;Gefäßchirurgie;ICD10-G00-G99;Krankheiten des Nervensystems;-;-;2;41;38;34;33;328;1;-;4;24;19;22;27;307;1;-;6;65;57;56;60;635
+2022;Gefäßchirurgie;ICD10-H00-H59;Krankheiten des Auges und der Augenanhangsgebilde;-;-;-;1;-;3;3;13;-;-;-;3;1;1;1;9;-;-;-;4;1;4;4;22
+2022;Gefäßchirurgie;ICD10-H60-H95;Krankheiten des Ohres und des Warzenfortsatzes;-;-;-;-;-;-;1;4;-;-;-;-;2;1;-;5;-;-;-;-;2;1;1;9
+2022;Gefäßchirurgie;ICD10-I00-I99;Krankheiten des Kreislaufsystems;2;16;22;11798;11643;9404;9801;71289;4;12;23;5708;6174;5957;7030;44731;6;28;45;17506;17817;15361;16831;116020
+2022;Gefäßchirurgie;ICD10-J00-J99;Krankheiten des Atmungssystems;-;-;4;31;43;41;38;292;-;-;-;18;14;11;9;118;-;-;4;49;57;52;47;410
+2022;Gefäßchirurgie;ICD10-K00-K93;Krankheiten des Verdauungssystems;1;1;3;111;129;87;71;990;-;1;3;79;98;93;108;821;1;2;6;190;227;180;179;1811
+2022;Gefäßchirurgie;ICD10-L00-L99;Krankheiten der Haut und der Unterhaut;2;5;6;213;233;212;261;1941;-;2;3;113;127;159;291;1394;2;7;9;326;360;371;552;3335
+2022;Gefäßchirurgie;ICD10-M00-M99;Krankh. d. Muskel-Skelett-Systems u.d.Bindegewebes;-;1;1;95;82;82;107;701;-;-;-;39;59;62;89;489;-;1;1;134;141;144;196;1190
+2022;Gefäßchirurgie;ICD10-N00-N99;Krankheiten des Urogenitalsystems;2;3;2;301;395;358;399;2624;-;2;2;208;216;205;261;1684;2;5;4;509;611;563;660;4308
+2022;Gefäßchirurgie;ICD10-O00-O99;Schwangerschaft, Geburt und Wochenbett;-;-;-;-;-;-;-;-;-;-;2;-;-;-;-;21;-;-;2;-;-;-;-;21
+2022;Gefäßchirurgie;ICD10-P00-P96;Best. Zustände mit Ursprung i.d Perinatalperiode;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2022;Gefäßchirurgie;ICD10-Q00-Q99;Angeb.Fehlbild.,Deformitäten,Chromosomenanomalien;2;5;6;6;1;3;-;128;3;7;14;6;2;-;-;169;5;12;20;12;3;3;-;297
+2022;Gefäßchirurgie;ICD10-R00-R99;Symptome u.abnorme klin. u.Laborbefunde,ao.n.kl.;-;-;1;37;54;37;48;359;1;-;3;32;38;26;55;298;1;-;4;69;92;63;103;657
+2022;Gefäßchirurgie;ICD10-S00-T98;Verletzungen und Vergiftungen;-;8;3;1659;1609;1390;1437;10946;-;4;9;860;918;921;1008;6617;-;12;12;2519;2527;2311;2445;17563
+2022;Gefäßchirurgie;ICD10-Z00-Z99;Faktoren,die zur Inanspruchn.d.Gesundheitsw.führen;-;-;1;18;9;5;11;111;-;-;-;18;8;10;4;83;-;-;1;36;17;15;15;194
+2022;Gefäßchirurgie;ICD10-U00-U85;Schlüsselnummern für besondere Zwecke;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;1;-;-;-;-;-;-;1;1
+2022;Gefäßchirurgie;UNBEKANNT;unbekannt;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2022;Gefäßchirurgie;;Insgesamt;9;40;56;16060;16194;13260;14019;101967;9;28;69;7629;8361;8134;9788;62013;18;68;125;23689;24555;21394;23807;163980
+2022;Plastische Chirurgie;ICD10-A00-B99;Bestimmte infektiöse und parasitäre Krankheiten;-;-;2;20;14;11;13;170;-;-;2;15;21;13;13;191;-;-;4;35;35;24;26;361
+2022;Plastische Chirurgie;ICD10-C00-C97;Bösartige Neubildungen;-;1;6;263;408;520;796;3474;1;4;1;369;377;439;604;5104;1;5;7;632;785;959;1400;8578
+2022;Plastische Chirurgie;ICD10-D00-D48;Übrige Neubildungen;15;14;14;75;71;47;56;1055;18;15;8;114;88;66;54;1414;33;29;22;189;159;113;110;2469
+2022;Plastische Chirurgie;ICD10-D50-D90;Krankheiten des Blutes;-;-;-;5;-;-;-;16;-;-;-;-;1;2;1;32;-;-;-;5;1;2;1;48
+2022;Plastische Chirurgie;ICD10-E00-E90;Endokrine, Ernährungs- und Stoffwechselkrankheiten;-;-;1;57;57;36;34;642;-;8;18;139;101;35;42;5470;-;8;19;196;158;71;76;6112
+2022;Plastische Chirurgie;ICD10-F00-F99;Psychische und Verhaltensstörungen;-;33;82;1;-;-;-;557;-;22;45;6;1;-;-;292;-;55;127;7;1;-;-;849
+2022;Plastische Chirurgie;ICD10-G00-G99;Krankheiten des Nervensystems;4;10;7;61;60;61;97;880;3;8;12;81;79;91;117;1029;7;18;19;142;139;152;214;1909
+2022;Plastische Chirurgie;ICD10-H00-H59;Krankheiten des Auges und der Augenanhangsgebilde;-;1;-;14;9;10;12;113;-;-;-;34;18;16;17;271;-;1;-;48;27;26;29;384
+2022;Plastische Chirurgie;ICD10-H60-H95;Krankheiten des Ohres und des Warzenfortsatzes;-;1;-;3;1;4;1;20;-;-;1;1;-;3;-;16;-;1;1;4;1;7;1;36
+2022;Plastische Chirurgie;ICD10-I00-I99;Krankheiten des Kreislaufsystems;1;-;2;50;59;41;59;438;-;-;1;45;46;37;75;511;1;-;3;95;105;78;134;949
+2022;Plastische Chirurgie;ICD10-J00-J99;Krankheiten des Atmungssystems;1;5;13;9;4;3;4;233;-;23;39;14;4;7;7;668;1;28;52;23;8;10;11;901
+2022;Plastische Chirurgie;ICD10-K00-K93;Krankheiten des Verdauungssystems;1;7;12;18;22;15;17;303;1;9;14;21;16;20;26;408;2;16;26;39;38;35;43;711
+2022;Plastische Chirurgie;ICD10-L00-L99;Krankheiten der Haut und der Unterhaut;63;66;62;373;301;252;271;5524;44;68;68;405;332;277;381;7886;107;134;130;778;633;529;652;13410
+2022;Plastische Chirurgie;ICD10-M00-M99;Krankh. d. Muskel-Skelett-Systems u.d.Bindegewebes;30;102;116;753;624;414;343;8113;21;38;54;506;485;386;376;6018;51;140;170;1259;1109;800;719;14131
+2022;Plastische Chirurgie;ICD10-N00-N99;Krankheiten des Urogenitalsystems;2;42;63;16;14;3;11;643;-;43;142;115;48;17;4;4187;2;85;205;131;62;20;15;4830
+2022;Plastische Chirurgie;ICD10-O00-O99;Schwangerschaft, Geburt und Wochenbett;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;6;-;-;-;-;-;-;-;6
+2022;Plastische Chirurgie;ICD10-P00-P96;Best. Zustände mit Ursprung i.d Perinatalperiode;-;1;-;-;-;-;-;18;1;-;-;-;-;-;-;21;1;1;-;-;-;-;-;39
+2022;Plastische Chirurgie;ICD10-Q00-Q99;Angeb.Fehlbild.,Deformitäten,Chromosomenanomalien;26;16;14;6;4;2;-;318;31;52;108;20;12;4;1;2278;57;68;122;26;16;6;1;2596
+2022;Plastische Chirurgie;ICD10-R00-R99;Symptome u.abnorme klin. u.Laborbefunde,ao.n.kl.;4;7;1;25;23;19;28;317;-;1;7;25;29;22;23;353;4;8;8;50;52;41;51;670
+2022;Plastische Chirurgie;ICD10-S00-T98;Verletzungen und Vergiftungen;222;428;493;798;589;446;410;16392;92;145;181;588;481;429;485;9461;314;573;674;1386;1070;875;895;25853
+2022;Plastische Chirurgie;ICD10-Z00-Z99;Faktoren,die zur Inanspruchn.d.Gesundheitsw.führen;-;1;13;17;10;4;-;577;3;20;52;75;44;19;17;3691;3;21;65;92;54;23;17;4268
+2022;Plastische Chirurgie;ICD10-U00-U85;Schlüsselnummern für besondere Zwecke;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2022;Plastische Chirurgie;UNBEKANNT;unbekannt;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;3;-;-;-;-;-;-;-;3
+2022;Plastische Chirurgie;;Insgesamt;369;735;901;2564;2270;1888;2152;39803;215;456;753;2573;2183;1883;2243;49310;584;1191;1654;5137;4453;3771;4395;89113
+2022;Thoraxchirurgie;ICD10-A00-B99;Bestimmte infektiöse und parasitäre Krankheiten;-;2;-;24;17;13;14;209;-;-;-;16;13;7;15;108;-;2;-;40;30;20;29;317
+2022;Thoraxchirurgie;ICD10-C00-C97;Bösartige Neubildungen;3;4;16;1557;1607;1218;806;8598;10;5;5;1261;1153;826;585;7035;13;9;21;2818;2760;2044;1391;15633
+2022;Thoraxchirurgie;ICD10-D00-D48;Übrige Neubildungen;1;1;2;243;202;154;105;1427;1;2;5;188;180;118;83;1315;2;3;7;431;382;272;188;2742
+2022;Thoraxchirurgie;ICD10-D50-D90;Krankheiten des Blutes;-;-;-;17;11;12;2;188;-;-;-;12;7;10;5;144;-;-;-;29;18;22;7;332
+2022;Thoraxchirurgie;ICD10-E00-E90;Endokrine, Ernährungs- und Stoffwechselkrankheiten;-;-;-;8;10;4;5;78;-;-;-;8;16;5;5;87;-;-;-;16;26;9;10;165
+2022;Thoraxchirurgie;ICD10-F00-F99;Psychische und Verhaltensstörungen;-;-;-;1;-;-;-;3;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;3
+2022;Thoraxchirurgie;ICD10-G00-G99;Krankheiten des Nervensystems;2;-;2;10;10;4;3;77;1;1;2;-;2;2;1;92;3;1;4;10;12;6;4;169
+2022;Thoraxchirurgie;ICD10-H00-H59;Krankheiten des Auges und der Augenanhangsgebilde;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2022;Thoraxchirurgie;ICD10-H60-H95;Krankheiten des Ohres und des Warzenfortsatzes;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;1
+2022;Thoraxchirurgie;ICD10-I00-I99;Krankheiten des Kreislaufsystems;-;1;2;604;580;358;260;3445;-;1;-;264;312;197;133;1543;-;2;2;868;892;555;393;4988
+2022;Thoraxchirurgie;ICD10-J00-J99;Krankheiten des Atmungssystems;5;36;95;748;718;538;571;5808;1;6;11;346;332;253;236;2664;6;42;106;1094;1050;791;807;8472
+2022;Thoraxchirurgie;ICD10-K00-K93;Krankheiten des Verdauungssystems;-;-;-;6;1;5;5;42;-;-;-;4;5;-;5;37;-;-;-;10;6;5;10;79
+2022;Thoraxchirurgie;ICD10-L00-L99;Krankheiten der Haut und der Unterhaut;-;1;1;4;5;2;3;42;-;-;1;5;5;-;5;62;-;1;2;9;10;2;8;104
+2022;Thoraxchirurgie;ICD10-M00-M99;Krankh. d. Muskel-Skelett-Systems u.d.Bindegewebes;-;1;-;37;14;8;12;226;-;-;1;14;14;8;10;106;-;1;1;51;28;16;22;332
+2022;Thoraxchirurgie;ICD10-N00-N99;Krankheiten des Urogenitalsystems;-;-;-;4;-;3;4;16;-;-;-;2;2;-;6;23;-;-;-;6;2;3;10;39
+2022;Thoraxchirurgie;ICD10-O00-O99;Schwangerschaft, Geburt und Wochenbett;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;5;-;-;-;-;-;-;-;5
+2022;Thoraxchirurgie;ICD10-P00-P96;Best. Zustände mit Ursprung i.d Perinatalperiode;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2022;Thoraxchirurgie;ICD10-Q00-Q99;Angeb.Fehlbild.,Deformitäten,Chromosomenanomalien;4;51;51;3;1;3;-;332;4;4;6;4;5;3;-;134;8;55;57;7;6;6;-;466
+2022;Thoraxchirurgie;ICD10-R00-R99;Symptome u.abnorme klin. u.Laborbefunde,ao.n.kl.;-;2;5;65;72;42;33;532;-;7;8;48;39;32;19;386;-;9;13;113;111;74;52;918
+2022;Thoraxchirurgie;ICD10-S00-T98;Verletzungen und Vergiftungen;2;7;15;142;153;125;148;1372;-;1;2;65;69;59;104;681;2;8;17;207;222;184;252;2053
+2022;Thoraxchirurgie;ICD10-Z00-Z99;Faktoren,die zur Inanspruchn.d.Gesundheitsw.führen;-;-;-;33;26;17;16;169;-;-;-;24;12;10;4;106;-;-;-;57;38;27;20;275
+2022;Thoraxchirurgie;ICD10-U00-U85;Schlüsselnummern für besondere Zwecke;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2022;Thoraxchirurgie;UNBEKANNT;unbekannt;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2022;Thoraxchirurgie;;Insgesamt;17;106;189;3506;3427;2506;1987;22564;17;27;41;2261;2166;1530;1216;14529;34;133;230;5767;5593;4036;3203;37093
+2022;Herzchirurgie;ICD10-A00-B99;Bestimmte infektiöse und parasitäre Krankheiten;-;-;1;61;48;21;24;317;-;-;-;11;11;4;3;93;-;-;1;72;59;25;27;410
+2022;Herzchirurgie;ICD10-C00-C97;Bösartige Neubildungen;1;5;4;249;221;163;109;1309;-;1;2;179;168;113;56;976;1;6;6;428;389;276;165;2285
+2022;Herzchirurgie;ICD10-D00-D48;Übrige Neubildungen;-;1;1;57;49;27;21;362;-;-;3;68;76;45;27;506;-;1;4;125;125;72;48;868
+2022;Herzchirurgie;ICD10-D50-D90;Krankheiten des Blutes;-;-;-;30;21;10;8;148;-;-;-;8;6;4;4;81;-;-;-;38;27;14;12;229
+2022;Herzchirurgie;ICD10-E00-E90;Endokrine, Ernährungs- und Stoffwechselkrankheiten;-;1;-;73;48;28;36;298;-;-;-;10;10;9;9;99;-;1;-;83;58;37;45;397
+2022;Herzchirurgie;ICD10-F00-F99;Psychische und Verhaltensstörungen;-;-;1;6;-;-;-;11;-;-;-;-;-;-;-;1;-;-;1;6;-;-;-;12
+2022;Herzchirurgie;ICD10-G00-G99;Krankheiten des Nervensystems;-;-;-;-;6;5;4;35;-;1;2;4;4;2;3;43;-;1;2;4;10;7;7;78
+2022;Herzchirurgie;ICD10-H00-H59;Krankheiten des Auges und der Augenanhangsgebilde;-;-;-;1;2;-;-;3;-;-;-;-;-;-;-;1;-;-;-;1;2;-;-;4
+2022;Herzchirurgie;ICD10-H60-H95;Krankheiten des Ohres und des Warzenfortsatzes;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2022;Herzchirurgie;ICD10-I00-I99;Krankheiten des Kreislaufsystems;5;10;24;8875;8831;6343;4914;51485;2;5;15;3032;3693;2951;2980;19677;7;15;39;11907;12524;9294;7894;71162
+2022;Herzchirurgie;ICD10-J00-J99;Krankheiten des Atmungssystems;-;8;21;197;159;96;80;1312;-;2;1;60;52;58;47;563;-;10;22;257;211;154;127;1875
+2022;Herzchirurgie;ICD10-K00-K93;Krankheiten des Verdauungssystems;1;-;-;53;35;20;9;253;-;-;-;12;15;10;13;84;1;-;-;65;50;30;22;337
+2022;Herzchirurgie;ICD10-L00-L99;Krankheiten der Haut und der Unterhaut;-;1;-;26;22;13;8;138;-;-;-;9;20;7;7;69;-;1;-;35;42;20;15;207
+2022;Herzchirurgie;ICD10-M00-M99;Krankh. d. Muskel-Skelett-Systems u.d.Bindegewebes;-;1;4;53;42;29;17;310;-;1;-;18;18;12;3;107;-;2;4;71;60;41;20;417
+2022;Herzchirurgie;ICD10-N00-N99;Krankheiten des Urogenitalsystems;-;1;-;43;25;24;8;154;-;-;1;9;11;8;12;72;-;1;1;52;36;32;20;226
+2022;Herzchirurgie;ICD10-O00-O99;Schwangerschaft, Geburt und Wochenbett;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;9;-;-;-;-;-;-;-;9
+2022;Herzchirurgie;ICD10-P00-P96;Best. Zustände mit Ursprung i.d Perinatalperiode;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1
+2022;Herzchirurgie;ICD10-Q00-Q99;Angeb.Fehlbild.,Deformitäten,Chromosomenanomalien;15;16;16;49;29;16;5;859;6;11;7;29;21;6;1;512;21;27;23;78;50;22;6;1371
+2022;Herzchirurgie;ICD10-R00-R99;Symptome u.abnorme klin. u.Laborbefunde,ao.n.kl.;1;1;2;60;43;24;18;378;2;-;3;32;19;15;8;190;3;1;5;92;62;39;26;568
+2022;Herzchirurgie;ICD10-S00-T98;Verletzungen und Vergiftungen;5;7;8;712;673;445;384;4445;4;5;4;294;293;234;244;1985;9;12;12;1006;966;679;628;6430
+2022;Herzchirurgie;ICD10-Z00-Z99;Faktoren,die zur Inanspruchn.d.Gesundheitsw.führen;1;2;1;125;132;121;143;971;1;2;3;39;51;43;93;511;2;4;4;164;183;164;236;1482
+2022;Herzchirurgie;ICD10-U00-U85;Schlüsselnummern für besondere Zwecke;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2022;Herzchirurgie;UNBEKANNT;unbekannt;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2022;Herzchirurgie;;Insgesamt;29;54;83;10670;10386;7385;5788;62789;15;28;41;3814;4468;3521;3510;25579;44;82;124;14484;14854;10906;9298;88368
+2022;Urologie;ICD10-A00-B99;Bestimmte infektiöse und parasitäre Krankheiten;3;4;8;649;965;894;1196;6174;-;4;12;299;374;373;509;2959;3;8;20;948;1339;1267;1705;9133
+2022;Urologie;ICD10-C00-C97;Bösartige Neubildungen;1;35;113;28325;30116;23803;22219;167509;1;1;3;4236;4608;4392;5024;29457;2;36;116;32561;34724;28195;27243;196966
+2022;Urologie;ICD10-D00-D48;Übrige Neubildungen;4;10;12;2061;2296;1965;2014;14283;2;3;11;696;716;650;742;5381;6;13;23;2757;3012;2615;2756;19664
+2022;Urologie;ICD10-D50-D90;Krankheiten des Blutes;-;1;-;89;125;105;105;730;-;-;-;16;21;24;25;151;-;1;-;105;146;129;130;881
+2022;Urologie;ICD10-E00-E90;Endokrine, Ernährungs- und Stoffwechselkrankheiten;1;-;1;63;69;72;102;523;1;-;-;20;22;29;47;228;2;-;1;83;91;101;149;751
+2022;Urologie;ICD10-F00-F99;Psychische und Verhaltensstörungen;2;2;39;15;6;5;3;945;1;3;20;8;6;2;-;611;3;5;59;23;12;7;3;1556
+2022;Urologie;ICD10-G00-G99;Krankheiten des Nervensystems;1;4;3;45;32;15;14;463;2;2;1;13;12;8;12;212;3;6;4;58;44;23;26;675
+2022;Urologie;ICD10-H00-H59;Krankheiten des Auges und der Augenanhangsgebilde;-;-;-;2;1;-;5;14;-;-;-;-;3;-;2;6;-;-;-;2;4;-;7;20
+2022;Urologie;ICD10-H60-H95;Krankheiten des Ohres und des Warzenfortsatzes;-;-;-;-;1;1;1;4;-;-;-;-;-;-;-;3;-;-;-;-;1;1;1;7
+2022;Urologie;ICD10-I00-I99;Krankheiten des Kreislaufsystems;34;77;78;632;591;396;258;4091;-;1;-;29;28;38;50;289;34;78;78;661;619;434;308;4380
+2022;Urologie;ICD10-J00-J99;Krankheiten des Atmungssystems;-;1;-;40;62;45;68;433;-;1;1;21;13;14;28;147;-;2;1;61;75;59;96;580
+2022;Urologie;ICD10-K00-K93;Krankheiten des Verdauungssystems;20;10;12;314;362;311;292;2766;-;2;9;90;90;85;81;833;20;12;21;404;452;396;373;3599
+2022;Urologie;ICD10-L00-L99;Krankheiten der Haut und der Unterhaut;4;13;13;110;113;79;99;1325;-;-;-;15;16;13;11;115;4;13;13;125;129;92;110;1440
+2022;Urologie;ICD10-M00-M99;Krankh. d. Muskel-Skelett-Systems u.d.Bindegewebes;1;-;3;93;84;79;88;767;1;3;9;51;49;46;54;685;2;3;12;144;133;125;142;1452
+2022;Urologie;ICD10-N00-N99;Krankheiten des Urogenitalsystems;1470;1404;1417;38842;41161;33708;34913;333098;115;558;1318;11785;11911;10259;12890;132007;1585;1962;2735;50627;53072;43967;47803;465105
+2022;Urologie;ICD10-O00-O99;Schwangerschaft, Geburt und Wochenbett;-;-;-;-;-;-;-;-;1;2;24;-;-;-;-;414;1;2;24;-;-;-;-;414
+2022;Urologie;ICD10-P00-P96;Best. Zustände mit Ursprung i.d Perinatalperiode;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2022;Urologie;ICD10-Q00-Q99;Angeb.Fehlbild.,Deformitäten,Chromosomenanomalien;175;94;53;46;33;17;13;2629;13;10;9;33;18;13;7;473;188;104;62;79;51;30;20;3102
+2022;Urologie;ICD10-R00-R99;Symptome u.abnorme klin. u.Laborbefunde,ao.n.kl.;11;28;40;2590;3352;3565;5433;25579;7;22;61;409;480;546;900;5691;18;50;101;2999;3832;4111;6333;31270
+2022;Urologie;ICD10-S00-T98;Verletzungen und Vergiftungen;69;115;108;931;998;936;1203;9146;5;9;13;348;324;277;378;3210;74;124;121;1279;1322;1213;1581;12356
+2022;Urologie;ICD10-Z00-Z99;Faktoren,die zur Inanspruchn.d.Gesundheitsw.führen;2;1;1;84;80;77;80;628;-;-;1;32;27;23;32;311;2;1;2;116;107;100;112;939
+2022;Urologie;ICD10-U00-U85;Schlüsselnummern für besondere Zwecke;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2022;Urologie;UNBEKANNT;unbekannt;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2022;Urologie;;Insgesamt;1798;1799;1901;74931;80447;66073;68106;571107;149;621;1492;18101;18718;16792;20792;183183;1947;2420;3393;93032;99165;82865;88898;754290
+2022;Orthopädie;ICD10-A00-B99;Bestimmte infektiöse und parasitäre Krankheiten;7;3;4;72;83;56;76;755;3;3;3;56;76;51;111;596;10;6;7;128;159;107;187;1351
+2022;Orthopädie;ICD10-C00-C97;Bösartige Neubildungen;27;23;12;400;398;330;381;2836;27;25;5;297;279;249;287;2421;54;48;17;697;677;579;668;5257
+2022;Orthopädie;ICD10-D00-D48;Übrige Neubildungen;115;130;55;111;74;65;50;1633;81;69;31;145;112;79;58;1696;196;199;86;256;186;144;108;3329
+2022;Orthopädie;ICD10-D50-D90;Krankheiten des Blutes;-;-;-;2;7;5;11;43;-;-;-;2;3;6;17;59;-;-;-;4;10;11;28;102
+2022;Orthopädie;ICD10-E00-E90;Endokrine, Ernährungs- und Stoffwechselkrankheiten;7;1;1;130;113;59;65;810;9;1;4;39;37;28;41;570;16;2;5;169;150;87;106;1380
+2022;Orthopädie;ICD10-F00-F99;Psychische und Verhaltensstörungen;4;4;5;111;98;76;76;1308;-;4;5;273;268;227;224;3190;4;8;10;384;366;303;300;4498
+2022;Orthopädie;ICD10-G00-G99;Krankheiten des Nervensystems;13;19;14;266;213;171;169;2375;19;8;17;268;272;239;225;2725;32;27;31;534;485;410;394;5100
+2022;Orthopädie;ICD10-H00-H59;Krankheiten des Auges und der Augenanhangsgebilde;-;-;-;-;1;2;2;11;-;-;-;-;3;3;-;11;-;-;-;-;4;5;2;22
+2022;Orthopädie;ICD10-H60-H95;Krankheiten des Ohres und des Warzenfortsatzes;-;-;-;2;-;-;-;33;-;-;-;1;-;1;3;11;-;-;-;3;-;1;3;44
+2022;Orthopädie;ICD10-I00-I99;Krankheiten des Kreislaufsystems;2;2;2;108;113;89;151;931;-;-;2;59;63;103;153;769;2;2;4;167;176;192;304;1700
+2022;Orthopädie;ICD10-J00-J99;Krankheiten des Atmungssystems;2;2;2;18;17;23;31;239;1;-;1;7;10;19;16;121;3;2;3;25;27;42;47;360
+2022;Orthopädie;ICD10-K00-K93;Krankheiten des Verdauungssystems;-;-;-;44;32;30;25;343;1;2;-;19;19;14;23;206;1;2;-;63;51;44;48;549
+2022;Orthopädie;ICD10-L00-L99;Krankheiten der Haut und der Unterhaut;29;38;36;241;222;171;200;2943;14;19;17;208;189;156;214;2205;43;57;53;449;411;327;414;5148
+2022;Orthopädie;ICD10-M00-M99;Krankh. d. Muskel-Skelett-Systems u.d.Bindegewebes;2966;2124;1146;23241;22605;17066;14418;202111;2727;1887;1007;30369;32500;27693;26674;251853;5693;4011;2153;53610;55105;44759;41092;453964
+2022;Orthopädie;ICD10-N00-N99;Krankheiten des Urogenitalsystems;-;-;1;21;22;20;18;172;-;1;6;11;10;21;31;198;-;1;7;32;32;41;49;370
+2022;Orthopädie;ICD10-O00-O99;Schwangerschaft, Geburt und Wochenbett;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;13;-;-;-;-;-;-;-;13
+2022;Orthopädie;ICD10-P00-P96;Best. Zustände mit Ursprung i.d Perinatalperiode;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1
+2022;Orthopädie;ICD10-Q00-Q99;Angeb.Fehlbild.,Deformitäten,Chromosomenanomalien;838;252;72;15;8;3;1;2755;616;299;169;29;18;14;5;3481;1454;551;241;44;26;17;6;6236
+2022;Orthopädie;ICD10-R00-R99;Symptome u.abnorme klin. u.Laborbefunde,ao.n.kl.;6;9;4;60;48;46;58;583;4;6;6;52;71;63;111;743;10;15;10;112;119;109;169;1326
+2022;Orthopädie;ICD10-S00-T98;Verletzungen und Vergiftungen;1718;2460;2116;6325;6250;5653;7787;90964;1004;1153;976;8854;9709;10531;16452;106533;2722;3613;3092;15179;15959;16184;24239;197497
+2022;Orthopädie;ICD10-Z00-Z99;Faktoren,die zur Inanspruchn.d.Gesundheitsw.führen;4;6;7;17;13;7;10;193;4;3;7;13;20;13;20;281;8;9;14;30;33;20;30;474
+2022;Orthopädie;ICD10-U00-U85;Schlüsselnummern für besondere Zwecke;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;1
+2022;Orthopädie;UNBEKANNT;unbekannt;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2022;Orthopädie;;Insgesamt;5738;5073;3477;31184;30317;23872;23529;311039;4510;3480;2256;40702;43659;39510;44665;377683;10248;8553;5733;71886;73976;63382;68194;688722
+2022;Frauenheilkunde und Geburtshilfe;ICD10-A00-B99;Bestimmte infektiöse und parasitäre Krankheiten;-;-;-;-;1;2;1;18;16;145;229;161;143;120;112;3125;16;145;229;161;144;122;113;3143
+2022;Frauenheilkunde und Geburtshilfe;ICD10-C00-C97;Bösartige Neubildungen;-;-;-;126;100;104;97;734;11;35;65;18620;15910;13252;13212;144582;11;35;65;18746;16010;13356;13309;145316
+2022;Frauenheilkunde und Geburtshilfe;ICD10-D00-D48;Übrige Neubildungen;-;1;3;22;22;10;13;224;109;493;612;5904;4013;2648;1898;99220;109;494;615;5926;4035;2658;1911;99444
+2022;Frauenheilkunde und Geburtshilfe;ICD10-D50-D90;Krankheiten des Blutes;-;-;-;-;1;2;1;12;3;11;3;240;253;163;95;2075;3;11;3;240;254;165;96;2087
+2022;Frauenheilkunde und Geburtshilfe;ICD10-E00-E90;Endokrine, Ernährungs- und Stoffwechselkrankheiten;-;-;-;-;-;-;1;82;1;3;7;48;40;36;32;686;1;3;7;48;40;36;33;768
+2022;Frauenheilkunde und Geburtshilfe;ICD10-F00-F99;Psychische und Verhaltensstörungen;-;37;162;1;-;1;-;1210;1;10;31;-;8;3;2;395;1;47;193;1;8;4;2;1605
+2022;Frauenheilkunde und Geburtshilfe;ICD10-G00-G99;Krankheiten des Nervensystems;-;-;-;-;-;-;-;9;-;-;3;10;8;5;7;236;-;-;3;10;8;5;7;245
+2022;Frauenheilkunde und Geburtshilfe;ICD10-H00-H59;Krankheiten des Auges und der Augenanhangsgebilde;-;-;-;-;-;-;-;28;-;-;2;-;-;-;2;40;-;-;2;-;-;-;2;68
+2022;Frauenheilkunde und Geburtshilfe;ICD10-H60-H95;Krankheiten des Ohres und des Warzenfortsatzes;-;-;-;-;-;-;-;95;-;-;-;1;-;2;1;88;-;-;-;1;-;2;1;183
+2022;Frauenheilkunde und Geburtshilfe;ICD10-I00-I99;Krankheiten des Kreislaufsystems;-;-;-;-;-;-;-;17;1;3;7;124;117;101;91;1160;1;3;7;124;117;101;91;1177
+2022;Frauenheilkunde und Geburtshilfe;ICD10-J00-J99;Krankheiten des Atmungssystems;-;-;-;-;-;-;1;10;-;3;6;82;69;42;47;805;-;3;6;82;69;42;48;815
+2022;Frauenheilkunde und Geburtshilfe;ICD10-K00-K93;Krankheiten des Verdauungssystems;-;-;-;3;1;-;-;35;15;53;102;244;244;166;157;4983;15;53;102;247;245;166;157;5018
+2022;Frauenheilkunde und Geburtshilfe;ICD10-L00-L99;Krankheiten der Haut und der Unterhaut;-;2;3;1;1;1;1;88;2;10;14;156;126;115;142;1991;2;12;17;157;127;116;143;2079
+2022;Frauenheilkunde und Geburtshilfe;ICD10-M00-M99;Krankh. d. Muskel-Skelett-Systems u.d.Bindegewebes;-;-;-;-;1;1;1;8;2;3;5;28;36;21;40;467;2;3;5;28;37;22;41;475
+2022;Frauenheilkunde und Geburtshilfe;ICD10-N00-N99;Krankheiten des Urogenitalsystems;4;24;38;63;53;29;27;955;505;1862;2840;12024;11892;9095;7637;191061;509;1886;2878;12087;11945;9124;7664;192016
+2022;Frauenheilkunde und Geburtshilfe;ICD10-O00-O99;Schwangerschaft, Geburt und Wochenbett;-;-;-;-;-;-;-;-;204;4232;11648;-;-;-;-;785592;204;4232;11648;-;-;-;-;785592
+2022;Frauenheilkunde und Geburtshilfe;ICD10-P00-P96;Best. Zustände mit Ursprung i.d Perinatalperiode;-;-;-;-;-;-;-;33406;-;-;-;-;-;-;-;28526;-;-;-;-;-;-;-;61932
+2022;Frauenheilkunde und Geburtshilfe;ICD10-Q00-Q99;Angeb.Fehlbild.,Deformitäten,Chromosomenanomalien;-;2;-;1;1;-;-;2322;48;119;127;40;30;22;17;3928;48;121;127;41;31;22;17;6250
+2022;Frauenheilkunde und Geburtshilfe;ICD10-R00-R99;Symptome u.abnorme klin. u.Laborbefunde,ao.n.kl.;-;1;3;2;1;3;-;745;30;281;458;402;373;280;247;10541;30;282;461;404;374;283;247;11286
+2022;Frauenheilkunde und Geburtshilfe;ICD10-S00-T98;Verletzungen und Vergiftungen;-;1;7;1;3;3;3;92;25;62;91;912;776;618;555;12572;25;63;98;913;779;621;558;12664
+2022;Frauenheilkunde und Geburtshilfe;ICD10-Z00-Z99;Faktoren,die zur Inanspruchn.d.Gesundheitsw.führen;-;1;-;1;-;-;-;3196;3;28;64;148;82;35;19;9455;3;29;64;149;82;35;19;12651
+2022;Frauenheilkunde und Geburtshilfe;ICD10-U00-U85;Schlüsselnummern für besondere Zwecke;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2022;Frauenheilkunde und Geburtshilfe;UNBEKANNT;unbekannt;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;14;-;-;-;-;-;-;-;14
+2022;Frauenheilkunde und Geburtshilfe;;Insgesamt;4;69;216;221;185;156;146;43286;976;7353;16314;39144;34120;26724;24313;1301542;980;7422;16530;39365;34305;26880;24459;1344828
+2022;Geburtshilfe;ICD10-A00-B99;Bestimmte infektiöse und parasitäre Krankheiten;-;-;-;-;-;-;-;3;-;1;4;-;-;-;-;49;-;1;4;-;-;-;-;52
+2022;Geburtshilfe;ICD10-C00-C97;Bösartige Neubildungen;-;-;-;-;-;-;-;-;-;-;-;1;1;1;-;5;-;-;-;1;1;1;-;5
+2022;Geburtshilfe;ICD10-D00-D48;Übrige Neubildungen;-;-;-;-;-;-;-;13;-;-;-;2;-;-;-;17;-;-;-;2;-;-;-;30
+2022;Geburtshilfe;ICD10-D50-D90;Krankheiten des Blutes;-;-;-;-;-;-;-;2;-;-;-;-;-;-;-;7;-;-;-;-;-;-;-;9
+2022;Geburtshilfe;ICD10-E00-E90;Endokrine, Ernährungs- und Stoffwechselkrankheiten;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;3;-;-;-;-;-;-;-;3
+2022;Geburtshilfe;ICD10-F00-F99;Psychische und Verhaltensstörungen;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;1
+2022;Geburtshilfe;ICD10-G00-G99;Krankheiten des Nervensystems;-;-;-;-;-;-;-;1;-;-;1;-;-;-;-;13;-;-;1;-;-;-;-;14
+2022;Geburtshilfe;ICD10-H00-H59;Krankheiten des Auges und der Augenanhangsgebilde;-;-;-;-;-;-;-;3;-;-;-;-;-;-;-;3;-;-;-;-;-;-;-;6
+2022;Geburtshilfe;ICD10-H60-H95;Krankheiten des Ohres und des Warzenfortsatzes;-;-;-;-;-;-;-;61;-;-;-;-;-;-;-;78;-;-;-;-;-;-;-;139
+2022;Geburtshilfe;ICD10-I00-I99;Krankheiten des Kreislaufsystems;-;-;-;-;-;-;-;3;-;-;1;-;-;-;-;13;-;-;1;-;-;-;-;16
+2022;Geburtshilfe;ICD10-J00-J99;Krankheiten des Atmungssystems;-;-;-;-;-;-;-;1;-;1;-;-;-;-;-;26;-;1;-;-;-;-;-;27
+2022;Geburtshilfe;ICD10-K00-K93;Krankheiten des Verdauungssystems;-;-;-;-;-;-;-;2;-;-;1;-;-;-;-;46;-;-;1;-;-;-;-;48
+2022;Geburtshilfe;ICD10-L00-L99;Krankheiten der Haut und der Unterhaut;-;-;-;-;-;-;-;3;-;1;-;-;-;-;-;5;-;1;-;-;-;-;-;8
+2022;Geburtshilfe;ICD10-M00-M99;Krankh. d. Muskel-Skelett-Systems u.d.Bindegewebes;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;14;-;-;-;-;-;-;-;14
+2022;Geburtshilfe;ICD10-N00-N99;Krankheiten des Urogenitalsystems;-;-;-;-;-;-;-;7;1;1;3;-;-;1;1;87;1;1;3;-;-;1;1;94
+2022;Geburtshilfe;ICD10-O00-O99;Schwangerschaft, Geburt und Wochenbett;-;-;-;-;-;-;-;-;39;642;1845;-;-;-;-;137154;39;642;1845;-;-;-;-;137154
+2022;Geburtshilfe;ICD10-P00-P96;Best. Zustände mit Ursprung i.d Perinatalperiode;-;-;-;-;-;-;-;6249;-;-;-;-;-;-;-;5644;-;-;-;-;-;-;-;11893
+2022;Geburtshilfe;ICD10-Q00-Q99;Angeb.Fehlbild.,Deformitäten,Chromosomenanomalien;-;-;-;-;-;-;-;422;-;-;-;-;-;-;-;367;-;-;-;-;-;-;-;789
+2022;Geburtshilfe;ICD10-R00-R99;Symptome u.abnorme klin. u.Laborbefunde,ao.n.kl.;-;-;-;-;-;-;-;69;-;-;3;-;-;-;-;166;-;-;3;-;-;-;-;235
+2022;Geburtshilfe;ICD10-S00-T98;Verletzungen und Vergiftungen;-;-;-;-;-;-;-;4;-;-;3;-;1;-;-;89;-;-;3;-;1;-;-;93
+2022;Geburtshilfe;ICD10-Z00-Z99;Faktoren,die zur Inanspruchn.d.Gesundheitsw.führen;-;-;-;-;-;-;-;261323;-;5;8;-;-;-;-;259456;-;5;8;-;-;-;-;520779
+2022;Geburtshilfe;ICD10-U00-U85;Schlüsselnummern für besondere Zwecke;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2022;Geburtshilfe;UNBEKANNT;unbekannt;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;2;-;-;-;-;-;-;-;2
+2022;Geburtshilfe;;Insgesamt;-;-;-;-;-;-;-;268166;40;651;1869;3;2;2;1;403245;40;651;1869;3;2;2;1;671411
+2022;Hals-Nasen-Ohrenheilkunde;ICD10-A00-B99;Bestimmte infektiöse und parasitäre Krankheiten;25;188;312;225;204;157;164;3822;69;277;351;229;166;149;152;3649;94;465;663;454;370;306;316;7471
+2022;Hals-Nasen-Ohrenheilkunde;ICD10-C00-C97;Bösartige Neubildungen;14;22;26;6047;5087;3709;3640;36411;8;20;21;2065;1743;1430;1492;13885;22;42;47;8112;6830;5139;5132;50296
+2022;Hals-Nasen-Ohrenheilkunde;ICD10-D00-D48;Übrige Neubildungen;62;76;49;1593;1304;792;652;12834;64;53;44;1200;939;651;514;9873;126;129;93;2793;2243;1443;1166;22707
+2022;Hals-Nasen-Ohrenheilkunde;ICD10-D50-D90;Krankheiten des Blutes;1;2;-;14;10;10;7;128;-;-;-;6;11;10;10;139;1;2;-;20;21;20;17;267
+2022;Hals-Nasen-Ohrenheilkunde;ICD10-E00-E90;Endokrine, Ernährungs- und Stoffwechselkrankheiten;4;1;1;47;28;26;16;499;5;5;7;116;74;48;34;1082;9;6;8;163;102;74;50;1581
+2022;Hals-Nasen-Ohrenheilkunde;ICD10-F00-F99;Psychische und Verhaltensstörungen;1;1;2;14;10;7;9;192;2;1;3;12;15;10;8;235;3;2;5;26;25;17;17;427
+2022;Hals-Nasen-Ohrenheilkunde;ICD10-G00-G99;Krankheiten des Nervensystems;22;22;32;529;428;246;180;7180;8;15;18;264;259;146;109;3010;30;37;50;793;687;392;289;10191
+2022;Hals-Nasen-Ohrenheilkunde;ICD10-H00-H59;Krankheiten des Auges und der Augenanhangsgebilde;32;14;8;66;48;45;55;653;20;2;3;83;99;69;74;900;52;16;11;149;147;114;129;1553
+2022;Hals-Nasen-Ohrenheilkunde;ICD10-H60-H95;Krankheiten des Ohres und des Warzenfortsatzes;1056;678;336;2854;2458;1818;1701;34998;846;596;458;2801;2468;1904;1928;34786;1902;1274;794;5655;4926;3722;3629;69784
+2022;Hals-Nasen-Ohrenheilkunde;ICD10-I00-I99;Krankheiten des Kreislaufsystems;17;37;8;119;86;56;57;1030;13;23;29;82;101;59;61;1207;30;60;37;201;187;115;118;2237
+2022;Hals-Nasen-Ohrenheilkunde;ICD10-J00-J99;Krankheiten des Atmungssystems;1194;1958;3204;4520;3263;2019;1514;102670;1309;2969;4132;3087;2228;1404;1087;79861;2503;4927;7336;7607;5491;3423;2601;182531
+2022;Hals-Nasen-Ohrenheilkunde;ICD10-K00-K93;Krankheiten des Verdauungssystems;51;55;75;847;739;536;469;8062;46;49;67;769;610;487;535;7473;97;104;142;1616;1349;1023;1004;15535
+2022;Hals-Nasen-Ohrenheilkunde;ICD10-L00-L99;Krankheiten der Haut und der Unterhaut;50;71;49;169;119;93;100;2573;46;54;53;100;106;90;87;1926;96;125;102;269;225;183;187;4499
+2022;Hals-Nasen-Ohrenheilkunde;ICD10-M00-M99;Krankh. d. Muskel-Skelett-Systems u.d.Bindegewebes;10;56;188;84;48;30;31;2875;7;67;170;53;37;22;20;2164;17;123;358;137;85;52;51;5039
+2022;Hals-Nasen-Ohrenheilkunde;ICD10-N00-N99;Krankheiten des Urogenitalsystems;-;-;-;6;3;2;8;28;-;-;-;1;1;1;-;8;-;-;-;7;4;3;8;36
+2022;Hals-Nasen-Ohrenheilkunde;ICD10-O00-O99;Schwangerschaft, Geburt und Wochenbett;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;52;-;-;1;-;-;-;-;52
+2022;Hals-Nasen-Ohrenheilkunde;ICD10-P00-P96;Best. Zustände mit Ursprung i.d Perinatalperiode;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;1
+2022;Hals-Nasen-Ohrenheilkunde;ICD10-Q00-Q99;Angeb.Fehlbild.,Deformitäten,Chromosomenanomalien;124;66;67;64;56;11;22;2263;162;123;97;84;66;44;21;2630;286;189;164;148;122;55;43;4893
+2022;Hals-Nasen-Ohrenheilkunde;ICD10-R00-R99;Symptome u.abnorme klin. u.Laborbefunde,ao.n.kl.;61;97;102;1181;1185;1119;1305;11372;72;97;122;788;741;739;1049;8312;133;194;224;1969;1926;1858;2354;19684
+2022;Hals-Nasen-Ohrenheilkunde;ICD10-S00-T98;Verletzungen und Vergiftungen;294;362;385;622;526;451;531;10887;166;214;235;417;453;443;540;7222;460;576;620;1039;979;894;1071;18109
+2022;Hals-Nasen-Ohrenheilkunde;ICD10-Z00-Z99;Faktoren,die zur Inanspruchn.d.Gesundheitsw.führen;10;5;6;485;377;237;133;2615;7;6;5;171;142;91;68;1150;17;11;11;656;519;328;201;3765
+2022;Hals-Nasen-Ohrenheilkunde;ICD10-U00-U85;Schlüsselnummern für besondere Zwecke;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2022;Hals-Nasen-Ohrenheilkunde;UNBEKANNT;unbekannt;-;-;-;-;1;-;-;4;-;-;-;-;1;-;-;6;-;-;-;-;2;-;-;10
+2022;Hals-Nasen-Ohrenheilkunde;;Insgesamt;3028;3711;4850;19486;15980;11364;10594;241096;2850;4571;5816;12328;10260;7797;7789;179571;5878;8282;10666;31814;26240;19161;18383;420668
+2022;Augenheilkunde;ICD10-A00-B99;Bestimmte infektiöse und parasitäre Krankheiten;4;5;6;124;145;132;188;1364;5;4;12;125;148;155;222;1419;9;9;18;249;293;287;410;2783
+2022;Augenheilkunde;ICD10-C00-C97;Bösartige Neubildungen;3;1;1;379;498;447;711;3537;2;2;1;423;543;634;1038;4677;5;3;2;802;1041;1081;1749;8214
+2022;Augenheilkunde;ICD10-D00-D48;Übrige Neubildungen;28;9;5;83;109;117;108;990;44;17;6;98;117;93;161;1238;72;26;11;181;226;210;269;2228
+2022;Augenheilkunde;ICD10-D50-D90;Krankheiten des Blutes;-;-;-;2;-;1;1;18;1;-;-;1;2;2;4;26;1;-;-;3;2;3;5;44
+2022;Augenheilkunde;ICD10-E00-E90;Endokrine, Ernährungs- und Stoffwechselkrankheiten;-;-;-;171;132;69;42;1331;2;3;3;155;103;72;77;1574;2;3;3;326;235;141;119;2905
+2022;Augenheilkunde;ICD10-F00-F99;Psychische und Verhaltensstörungen;-;-;-;-;1;-;-;8;-;-;-;1;-;-;-;2;-;-;-;1;1;-;-;10
+2022;Augenheilkunde;ICD10-G00-G99;Krankheiten des Nervensystems;-;1;3;14;13;4;11;129;-;1;6;15;16;13;15;209;-;2;9;29;29;17;26;338
+2022;Augenheilkunde;ICD10-H00-H59;Krankheiten des Auges und der Augenanhangsgebilde;732;614;404;17097;18737;16157;17924;131977;701;445;355;16782;19787;19528;23923;139477;1433;1059;759;33879;38524;35685;41847;271454
+2022;Augenheilkunde;ICD10-H60-H95;Krankheiten des Ohres und des Warzenfortsatzes;-;-;-;-;-;1;-;1;-;-;-;1;-;1;-;3;-;-;-;1;-;2;-;4
+2022;Augenheilkunde;ICD10-I00-I99;Krankheiten des Kreislaufsystems;-;1;-;14;14;12;13;77;-;-;-;5;9;11;9;61;-;1;-;19;23;23;22;138
+2022;Augenheilkunde;ICD10-J00-J99;Krankheiten des Atmungssystems;-;-;-;-;1;1;2;17;-;-;-;1;2;1;1;17;-;-;-;1;3;2;3;34
+2022;Augenheilkunde;ICD10-K00-K93;Krankheiten des Verdauungssystems;-;-;-;1;1;-;-;7;-;1;-;2;-;2;1;11;-;1;-;3;1;2;1;18
+2022;Augenheilkunde;ICD10-L00-L99;Krankheiten der Haut und der Unterhaut;4;2;1;35;32;38;34;269;2;1;-;14;24;22;31;207;6;3;1;49;56;60;65;476
+2022;Augenheilkunde;ICD10-M00-M99;Krankh. d. Muskel-Skelett-Systems u.d.Bindegewebes;3;-;2;20;30;23;44;207;4;3;1;36;39;53;67;297;7;3;3;56;69;76;111;504
+2022;Augenheilkunde;ICD10-N00-N99;Krankheiten des Urogenitalsystems;-;-;-;-;1;-;-;6;-;1;-;-;-;-;-;4;-;1;-;-;1;-;-;10
+2022;Augenheilkunde;ICD10-O00-O99;Schwangerschaft, Geburt und Wochenbett;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;7;-;-;-;-;-;-;-;7
+2022;Augenheilkunde;ICD10-P00-P96;Best. Zustände mit Ursprung i.d Perinatalperiode;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;3;-;-;-;-;-;-;-;3
+2022;Augenheilkunde;ICD10-Q00-Q99;Angeb.Fehlbild.,Deformitäten,Chromosomenanomalien;77;42;23;6;5;6;4;1100;65;34;28;9;15;4;9;994;142;76;51;15;20;10;13;2094
+2022;Augenheilkunde;ICD10-R00-R99;Symptome u.abnorme klin. u.Laborbefunde,ao.n.kl.;1;-;-;1;1;2;3;15;-;-;1;1;2;3;4;50;1;-;1;2;3;5;7;65
+2022;Augenheilkunde;ICD10-S00-T98;Verletzungen und Vergiftungen;123;100;95;526;568;490;654;7134;53;33;24;320;459;525;788;4142;176;133;119;846;1027;1015;1442;11276
+2022;Augenheilkunde;ICD10-Z00-Z99;Faktoren,die zur Inanspruchn.d.Gesundheitsw.führen;2;2;-;17;9;19;19;122;-;1;2;10;16;17;17;124;2;3;2;27;25;36;36;246
+2022;Augenheilkunde;ICD10-U00-U85;Schlüsselnummern für besondere Zwecke;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2022;Augenheilkunde;UNBEKANNT;unbekannt;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2022;Augenheilkunde;;Insgesamt;977;777;540;18490;20297;17519;19758;148309;879;546;439;17999;21282;21136;26367;154542;1856;1323;979;36489;41579;38655;46125;302851
+2022;Neurologie;ICD10-A00-B99;Bestimmte infektiöse und parasitäre Krankheiten;3;12;92;668;726;613;786;7666;3;22;98;716;697;670;955;7845;6;34;190;1384;1423;1283;1741;15511
+2022;Neurologie;ICD10-C00-C97;Bösartige Neubildungen;1;2;5;704;701;536;488;4862;-;1;4;621;556;437;444;4332;1;3;9;1325;1257;973;932;9194
+2022;Neurologie;ICD10-D00-D48;Übrige Neubildungen;1;2;14;305;304;251;255;2468;-;3;16;266;279;243;318;2522;1;5;30;571;583;494;573;4990
+2022;Neurologie;ICD10-D50-D90;Krankheiten des Blutes;1;-;2;30;30;14;22;458;2;1;4;43;34;24;24;600;3;1;6;73;64;38;46;1058
+2022;Neurologie;ICD10-E00-E90;Endokrine, Ernährungs- und Stoffwechselkrankheiten;-;-;8;623;668;613;903;5338;2;1;17;391;480;581;1158;5456;2;1;25;1014;1148;1194;2061;10794
+2022;Neurologie;ICD10-F00-F99;Psychische und Verhaltensstörungen;96;92;207;1204;1328;1370;1765;17096;96;133;498;1125;1270;1488;2050;18681;192;225;705;2329;2598;2858;3815;35777
+2022;Neurologie;ICD10-G00-G99;Krankheiten des Nervensystems;544;633;1976;18522;20562;19375;20943;183021;475;769;2684;14984;16385;16560;21588;184618;1019;1402;4660;33506;36947;35935;42531;367639
+2022;Neurologie;ICD10-H00-H59;Krankheiten des Auges und der Augenanhangsgebilde;2;17;57;734;678;532;534;6699;6;35;140;567;582;536;635;7625;8;52;197;1301;1260;1068;1169;14324
+2022;Neurologie;ICD10-H60-H95;Krankheiten des Ohres und des Warzenfortsatzes;-;3;26;1201;1302;1021;1038;11627;2;11;47;1765;1859;1669;2058;16953;2;14;73;2966;3161;2690;3096;28580
+2022;Neurologie;ICD10-I00-I99;Krankheiten des Kreislaufsystems;6;37;74;15327;16838;15937;20209;123174;8;41;100;9083;11692;14197;22600;106513;14;78;174;24410;28530;30134;42809;229687
+2022;Neurologie;ICD10-J00-J99;Krankheiten des Atmungssystems;9;11;44;254;290;347;393;2809;5;14;48;144;151;170;241;1939;14;25;92;398;441;517;634;4748
+2022;Neurologie;ICD10-K00-K93;Krankheiten des Verdauungssystems;5;3;3;68;71;82;87;636;1;4;2;70;79;62;98;659;6;7;5;138;150;144;185;1295
+2022;Neurologie;ICD10-L00-L99;Krankheiten der Haut und der Unterhaut;-;1;-;10;6;9;10;105;-;-;2;8;12;12;12;107;-;1;2;18;18;21;22;212
+2022;Neurologie;ICD10-M00-M99;Krankh. d. Muskel-Skelett-Systems u.d.Bindegewebes;8;13;59;1371;1394;1194;1232;14510;14;40;98;1538;1690;1638;2133;18244;22;53;157;2909;3084;2832;3365;32755
+2022;Neurologie;ICD10-N00-N99;Krankheiten des Urogenitalsystems;-;-;2;131;166;173;276;1292;-;2;7;104;171;185;317;1623;-;2;9;235;337;358;593;2915
+2022;Neurologie;ICD10-O00-O99;Schwangerschaft, Geburt und Wochenbett;-;-;-;-;-;-;-;-;-;2;18;-;-;-;-;375;-;2;18;-;-;-;-;375
+2022;Neurologie;ICD10-P00-P96;Best. Zustände mit Ursprung i.d Perinatalperiode;-;-;-;-;-;-;-;5;-;-;-;-;-;-;-;5;-;-;-;-;-;-;-;10
+2022;Neurologie;ICD10-Q00-Q99;Angeb.Fehlbild.,Deformitäten,Chromosomenanomalien;13;5;13;16;21;9;1;275;9;6;8;10;12;9;8;220;22;11;21;26;33;18;9;495
+2022;Neurologie;ICD10-R00-R99;Symptome u.abnorme klin. u.Laborbefunde,ao.n.kl.;46;101;560;2198;2462;2504;2888;31030;47;186;997;2493;2677;2708;3623;41179;93;287;1557;4691;5139;5212;6511;72209
+2022;Neurologie;ICD10-S00-T98;Verletzungen und Vergiftungen;9;34;92;623;670;768;1119;6932;8;21;68;365;503;652;1107;5612;17;55;160;988;1173;1420;2226;12544
+2022;Neurologie;ICD10-Z00-Z99;Faktoren,die zur Inanspruchn.d.Gesundheitsw.führen;7;4;2;53;51;39;35;615;4;3;11;36;27;29;43;598;11;7;13;89;78;68;78;1213
+2022;Neurologie;ICD10-U00-U85;Schlüsselnummern für besondere Zwecke;1;-;-;-;-;-;-;2;1;-;2;1;1;-;-;5;2;-;2;1;1;-;-;7
+2022;Neurologie;UNBEKANNT;unbekannt;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2022;Neurologie;;Insgesamt;752;970;3236;44042;48268;45387;52984;420620;683;1295;4869;34330;39157;41870;59412;425711;1435;2265;8105;78372;87425;87257;112396;846332
+2022;Allgemeine Psychiatrie;ICD10-A00-B99;Bestimmte infektiöse und parasitäre Krankheiten;-;-;-;2;1;3;1;13;-;-;-;-;3;1;-;10;-;-;-;2;4;4;1;23
+2022;Allgemeine Psychiatrie;ICD10-C00-C97;Bösartige Neubildungen;-;-;-;1;-;2;-;7;-;-;-;-;-;-;1;3;-;-;-;1;-;2;1;10
+2022;Allgemeine Psychiatrie;ICD10-D00-D48;Übrige Neubildungen;-;-;-;-;-;1;-;1;-;-;-;-;-;-;-;1;-;-;-;-;-;1;-;2
+2022;Allgemeine Psychiatrie;ICD10-D50-D90;Krankheiten des Blutes;-;-;-;-;-;-;-;2;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;2
+2022;Allgemeine Psychiatrie;ICD10-E00-E90;Endokrine, Ernährungs- und Stoffwechselkrankheiten;-;-;-;9;4;-;2;45;-;-;-;7;-;1;-;34;-;-;-;16;4;1;2;79
+2022;Allgemeine Psychiatrie;ICD10-F00-F99;Psychische und Verhaltensstörungen;16;342;9383;15744;10539;8367;10134;373780;28;323;13136;15785;13245;12262;15721;299589;44;665;22519;31529;23784;20629;25855;673369
+2022;Allgemeine Psychiatrie;ICD10-G00-G99;Krankheiten des Nervensystems;1;-;5;533;800;1197;1836;6812;-;1;3;390;835;1433;2268;8098;1;1;8;923;1635;2630;4104;14910
+2022;Allgemeine Psychiatrie;ICD10-H00-H59;Krankheiten des Auges und der Augenanhangsgebilde;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2022;Allgemeine Psychiatrie;ICD10-H60-H95;Krankheiten des Ohres und des Warzenfortsatzes;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;1
+2022;Allgemeine Psychiatrie;ICD10-I00-I99;Krankheiten des Kreislaufsystems;-;-;1;3;6;3;3;43;-;-;2;4;-;3;4;40;-;-;3;7;6;6;7;83
+2022;Allgemeine Psychiatrie;ICD10-J00-J99;Krankheiten des Atmungssystems;-;-;-;1;-;-;-;1;-;-;-;-;1;-;-;2;-;-;-;1;1;-;-;3
+2022;Allgemeine Psychiatrie;ICD10-K00-K93;Krankheiten des Verdauungssystems;-;-;-;-;-;-;-;2;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;3
+2022;Allgemeine Psychiatrie;ICD10-L00-L99;Krankheiten der Haut und der Unterhaut;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1
+2022;Allgemeine Psychiatrie;ICD10-M00-M99;Krankh. d. Muskel-Skelett-Systems u.d.Bindegewebes;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;2;-;-;-;-;-;1;-;2
+2022;Allgemeine Psychiatrie;ICD10-N00-N99;Krankheiten des Urogenitalsystems;-;-;-;1;-;-;-;3;-;-;-;-;1;-;-;1;-;-;-;1;1;-;-;4
+2022;Allgemeine Psychiatrie;ICD10-O00-O99;Schwangerschaft, Geburt und Wochenbett;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;4;-;-;-;-;-;-;-;4
+2022;Allgemeine Psychiatrie;ICD10-P00-P96;Best. Zustände mit Ursprung i.d Perinatalperiode;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2022;Allgemeine Psychiatrie;ICD10-Q00-Q99;Angeb.Fehlbild.,Deformitäten,Chromosomenanomalien;-;-;1;-;-;-;-;4;-;-;1;-;-;-;-;1;-;-;2;-;-;-;-;5
+2022;Allgemeine Psychiatrie;ICD10-R00-R99;Symptome u.abnorme klin. u.Laborbefunde,ao.n.kl.;-;-;2;-;2;2;3;51;-;1;5;7;3;8;7;64;-;1;7;7;5;10;10;115
+2022;Allgemeine Psychiatrie;ICD10-S00-T98;Verletzungen und Vergiftungen;-;-;1;1;1;-;-;16;-;-;-;1;1;2;3;19;-;-;1;2;2;2;3;35
+2022;Allgemeine Psychiatrie;ICD10-Z00-Z99;Faktoren,die zur Inanspruchn.d.Gesundheitsw.führen;-;-;5;3;4;2;5;97;-;-;5;-;1;7;4;57;-;-;10;3;5;9;9;154
+2022;Allgemeine Psychiatrie;ICD10-U00-U85;Schlüsselnummern für besondere Zwecke;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;2;-;-;-;-;-;-;-;3
+2022;Allgemeine Psychiatrie;UNBEKANNT;unbekannt;-;-;-;-;1;-;1;2;-;-;-;-;-;-;-;-;-;-;-;-;1;-;1;2
+2022;Allgemeine Psychiatrie;;Insgesamt;17;342;9398;16298;11358;9577;11985;380881;28;325;13152;16194;14090;13718;18008;307929;45;667;22550;32492;25448;23295;29993;688810
+2022;Kinder- und Jugendpsychiatrie;ICD10-A00-B99;Bestimmte infektiöse und parasitäre Krankheiten;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2022;Kinder- und Jugendpsychiatrie;ICD10-C00-C97;Bösartige Neubildungen;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2022;Kinder- und Jugendpsychiatrie;ICD10-D00-D48;Übrige Neubildungen;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2022;Kinder- und Jugendpsychiatrie;ICD10-D50-D90;Krankheiten des Blutes;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2022;Kinder- und Jugendpsychiatrie;ICD10-E00-E90;Endokrine, Ernährungs- und Stoffwechselkrankheiten;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2022;Kinder- und Jugendpsychiatrie;ICD10-F00-F99;Psychische und Verhaltensstörungen;7423;8747;315;-;-;-;-;19876;16902;21858;506;-;-;-;-;40556;24325;30605;821;-;-;-;-;60432
+2022;Kinder- und Jugendpsychiatrie;ICD10-G00-G99;Krankheiten des Nervensystems;3;4;-;-;-;-;-;11;6;1;-;-;-;-;-;21;9;5;-;-;-;-;-;32
+2022;Kinder- und Jugendpsychiatrie;ICD10-H00-H59;Krankheiten des Auges und der Augenanhangsgebilde;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2022;Kinder- und Jugendpsychiatrie;ICD10-H60-H95;Krankheiten des Ohres und des Warzenfortsatzes;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2022;Kinder- und Jugendpsychiatrie;ICD10-I00-I99;Krankheiten des Kreislaufsystems;1;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;1
+2022;Kinder- und Jugendpsychiatrie;ICD10-J00-J99;Krankheiten des Atmungssystems;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2022;Kinder- und Jugendpsychiatrie;ICD10-K00-K93;Krankheiten des Verdauungssystems;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2022;Kinder- und Jugendpsychiatrie;ICD10-L00-L99;Krankheiten der Haut und der Unterhaut;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2022;Kinder- und Jugendpsychiatrie;ICD10-M00-M99;Krankh. d. Muskel-Skelett-Systems u.d.Bindegewebes;-;-;-;-;-;-;-;2;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;2
+2022;Kinder- und Jugendpsychiatrie;ICD10-N00-N99;Krankheiten des Urogenitalsystems;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2022;Kinder- und Jugendpsychiatrie;ICD10-O00-O99;Schwangerschaft, Geburt und Wochenbett;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2022;Kinder- und Jugendpsychiatrie;ICD10-P00-P96;Best. Zustände mit Ursprung i.d Perinatalperiode;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2022;Kinder- und Jugendpsychiatrie;ICD10-Q00-Q99;Angeb.Fehlbild.,Deformitäten,Chromosomenanomalien;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1
+2022;Kinder- und Jugendpsychiatrie;ICD10-R00-R99;Symptome u.abnorme klin. u.Laborbefunde,ao.n.kl.;1;3;-;-;-;-;-;20;2;3;-;-;-;-;-;21;3;6;-;-;-;-;-;41
+2022;Kinder- und Jugendpsychiatrie;ICD10-S00-T98;Verletzungen und Vergiftungen;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;2;-;-;-;-;-;-;-;3
+2022;Kinder- und Jugendpsychiatrie;ICD10-Z00-Z99;Faktoren,die zur Inanspruchn.d.Gesundheitsw.führen;1;-;-;-;-;-;-;2;3;-;-;-;-;-;-;3;4;-;-;-;-;-;-;5
+2022;Kinder- und Jugendpsychiatrie;ICD10-U00-U85;Schlüsselnummern für besondere Zwecke;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2022;Kinder- und Jugendpsychiatrie;UNBEKANNT;unbekannt;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2022;Kinder- und Jugendpsychiatrie;;Insgesamt;7429;8754;315;-;-;-;-;19914;16913;21862;506;-;-;-;-;40603;24342;30616;821;-;-;-;-;60517
+2022;Psychosomatik/Psychotherapie;ICD10-A00-B99;Bestimmte infektiöse und parasitäre Krankheiten;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2022;Psychosomatik/Psychotherapie;ICD10-C00-C97;Bösartige Neubildungen;-;-;-;-;-;1;1;2;-;-;-;1;-;-;-;1;-;-;-;1;-;1;1;3
+2022;Psychosomatik/Psychotherapie;ICD10-D00-D48;Übrige Neubildungen;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2022;Psychosomatik/Psychotherapie;ICD10-D50-D90;Krankheiten des Blutes;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2022;Psychosomatik/Psychotherapie;ICD10-E00-E90;Endokrine, Ernährungs- und Stoffwechselkrankheiten;-;-;1;-;-;-;-;2;-;-;-;-;-;-;-;2;-;-;1;-;-;-;-;4
+2022;Psychosomatik/Psychotherapie;ICD10-F00-F99;Psychische und Verhaltensstörungen;165;245;765;794;443;225;127;27067;621;1594;2823;1774;1125;567;355;56552;786;1839;3588;2568;1568;792;482;83619
+2022;Psychosomatik/Psychotherapie;ICD10-G00-G99;Krankheiten des Nervensystems;-;-;-;36;41;28;32;254;-;-;1;10;11;12;15;124;-;-;1;46;52;40;47;378
+2022;Psychosomatik/Psychotherapie;ICD10-H00-H59;Krankheiten des Auges und der Augenanhangsgebilde;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2022;Psychosomatik/Psychotherapie;ICD10-H60-H95;Krankheiten des Ohres und des Warzenfortsatzes;-;-;-;1;-;1;-;4;-;-;-;-;1;-;-;2;-;-;-;1;1;1;-;6
+2022;Psychosomatik/Psychotherapie;ICD10-I00-I99;Krankheiten des Kreislaufsystems;-;-;-;-;-;1;1;3;-;-;-;-;-;1;-;5;-;-;-;-;-;2;1;8
+2022;Psychosomatik/Psychotherapie;ICD10-J00-J99;Krankheiten des Atmungssystems;-;-;-;1;-;-;-;1;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;1
+2022;Psychosomatik/Psychotherapie;ICD10-K00-K93;Krankheiten des Verdauungssystems;-;-;-;-;2;-;-;2;-;-;-;-;-;-;-;1;-;-;-;-;2;-;-;3
+2022;Psychosomatik/Psychotherapie;ICD10-L00-L99;Krankheiten der Haut und der Unterhaut;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2022;Psychosomatik/Psychotherapie;ICD10-M00-M99;Krankh. d. Muskel-Skelett-Systems u.d.Bindegewebes;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;4;-;-;-;-;-;-;-;4
+2022;Psychosomatik/Psychotherapie;ICD10-N00-N99;Krankheiten des Urogenitalsystems;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2022;Psychosomatik/Psychotherapie;ICD10-O00-O99;Schwangerschaft, Geburt und Wochenbett;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2022;Psychosomatik/Psychotherapie;ICD10-P00-P96;Best. Zustände mit Ursprung i.d Perinatalperiode;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2022;Psychosomatik/Psychotherapie;ICD10-Q00-Q99;Angeb.Fehlbild.,Deformitäten,Chromosomenanomalien;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2022;Psychosomatik/Psychotherapie;ICD10-R00-R99;Symptome u.abnorme klin. u.Laborbefunde,ao.n.kl.;-;-;-;-;2;-;-;5;-;-;-;-;-;1;-;6;-;-;-;-;2;1;-;11
+2022;Psychosomatik/Psychotherapie;ICD10-S00-T98;Verletzungen und Vergiftungen;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;2;-;-;-;-;-;-;-;3
+2022;Psychosomatik/Psychotherapie;ICD10-Z00-Z99;Faktoren,die zur Inanspruchn.d.Gesundheitsw.führen;1;-;-;-;-;-;-;10;-;-;-;-;-;-;-;3;1;-;-;-;-;-;-;13
+2022;Psychosomatik/Psychotherapie;ICD10-U00-U85;Schlüsselnummern für besondere Zwecke;-;-;-;-;1;-;-;14;-;-;-;-;1;2;1;36;-;-;-;-;2;2;1;50
+2022;Psychosomatik/Psychotherapie;UNBEKANNT;unbekannt;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2022;Psychosomatik/Psychotherapie;;Insgesamt;166;245;766;832;489;256;161;27365;621;1594;2824;1785;1138;583;371;56738;787;1839;3590;2617;1627;839;532;84103
+2022;Nuklearmedizin;ICD10-A00-B99;Bestimmte infektiöse und parasitäre Krankheiten;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2022;Nuklearmedizin;ICD10-C00-C97;Bösartige Neubildungen;13;19;18;1526;1807;1559;1315;10632;17;32;45;631;572;426;334;7540;30;51;63;2157;2379;1985;1649;18172
+2022;Nuklearmedizin;ICD10-D00-D48;Übrige Neubildungen;-;-;-;8;9;7;2;63;-;-;-;14;16;12;10;107;-;-;-;22;25;19;12;170
+2022;Nuklearmedizin;ICD10-D50-D90;Krankheiten des Blutes;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2022;Nuklearmedizin;ICD10-E00-E90;Endokrine, Ernährungs- und Stoffwechselkrankheiten;-;3;8;536;523;394;246;3534;1;7;20;1107;1043;815;702;8644;1;10;28;1643;1566;1209;948;12178
+2022;Nuklearmedizin;ICD10-F00-F99;Psychische und Verhaltensstörungen;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2022;Nuklearmedizin;ICD10-G00-G99;Krankheiten des Nervensystems;-;-;-;-;-;-;1;1;-;-;-;-;-;-;-;1;-;-;-;-;-;-;1;2
+2022;Nuklearmedizin;ICD10-H00-H59;Krankheiten des Auges und der Augenanhangsgebilde;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2022;Nuklearmedizin;ICD10-H60-H95;Krankheiten des Ohres und des Warzenfortsatzes;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;1
+2022;Nuklearmedizin;ICD10-I00-I99;Krankheiten des Kreislaufsystems;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;5;-;-;-;-;-;1;-;5
+2022;Nuklearmedizin;ICD10-J00-J99;Krankheiten des Atmungssystems;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2022;Nuklearmedizin;ICD10-K00-K93;Krankheiten des Verdauungssystems;-;-;-;-;-;-;-;3;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;3
+2022;Nuklearmedizin;ICD10-L00-L99;Krankheiten der Haut und der Unterhaut;-;-;-;-;1;-;-;1;-;-;-;-;-;-;-;1;-;-;-;-;1;-;-;2
+2022;Nuklearmedizin;ICD10-M00-M99;Krankh. d. Muskel-Skelett-Systems u.d.Bindegewebes;-;-;1;14;7;14;6;74;-;-;-;15;16;16;23;135;-;-;1;29;23;30;29;209
+2022;Nuklearmedizin;ICD10-N00-N99;Krankheiten des Urogenitalsystems;-;-;-;-;1;2;-;5;-;-;-;-;-;-;-;-;-;-;-;-;1;2;-;5
+2022;Nuklearmedizin;ICD10-O00-O99;Schwangerschaft, Geburt und Wochenbett;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2022;Nuklearmedizin;ICD10-P00-P96;Best. Zustände mit Ursprung i.d Perinatalperiode;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2022;Nuklearmedizin;ICD10-Q00-Q99;Angeb.Fehlbild.,Deformitäten,Chromosomenanomalien;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;2
+2022;Nuklearmedizin;ICD10-R00-R99;Symptome u.abnorme klin. u.Laborbefunde,ao.n.kl.;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;1;-;-;-;1;-;-;-;1
+2022;Nuklearmedizin;ICD10-S00-T98;Verletzungen und Vergiftungen;-;-;1;-;-;-;-;7;-;-;-;1;-;1;-;4;-;-;1;1;-;1;-;11
+2022;Nuklearmedizin;ICD10-Z00-Z99;Faktoren,die zur Inanspruchn.d.Gesundheitsw.führen;1;3;1;14;18;12;5;213;1;3;3;40;25;10;11;480;2;6;4;54;43;22;16;693
+2022;Nuklearmedizin;ICD10-U00-U85;Schlüsselnummern für besondere Zwecke;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2022;Nuklearmedizin;UNBEKANNT;unbekannt;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2022;Nuklearmedizin;;Insgesamt;14;25;29;2098;2366;1988;1575;14534;19;42;68;1809;1672;1281;1080;16920;33;67;97;3907;4038;3269;2655;31454
+2022;Strahlenheilkunde;ICD10-A00-B99;Bestimmte infektiöse und parasitäre Krankheiten;-;-;1;6;7;7;2;45;-;-;-;7;5;4;5;38;-;-;1;13;12;11;7;83
+2022;Strahlenheilkunde;ICD10-C00-C97;Bösartige Neubildungen;-;2;9;5096;4406;2839;2349;27617;-;-;2;3142;2677;1873;1621;19866;-;2;11;8238;7083;4712;3970;47483
+2022;Strahlenheilkunde;ICD10-D00-D48;Übrige Neubildungen;-;-;-;24;33;18;22;179;1;-;-;33;34;21;31;285;1;-;-;57;67;39;53;464
+2022;Strahlenheilkunde;ICD10-D50-D90;Krankheiten des Blutes;-;-;-;5;6;4;6;44;-;-;1;8;3;6;2;32;-;-;1;13;9;10;8;76
+2022;Strahlenheilkunde;ICD10-E00-E90;Endokrine, Ernährungs- und Stoffwechselkrankheiten;-;-;-;4;5;1;1;22;-;-;-;4;1;1;2;15;-;-;-;8;6;2;3;37
+2022;Strahlenheilkunde;ICD10-F00-F99;Psychische und Verhaltensstörungen;-;-;-;-;-;-;-;1;-;-;-;1;2;-;-;3;-;-;-;1;2;-;-;4
+2022;Strahlenheilkunde;ICD10-G00-G99;Krankheiten des Nervensystems;-;-;-;6;6;4;2;48;-;-;-;3;3;8;4;76;-;-;-;9;9;12;6;124
+2022;Strahlenheilkunde;ICD10-H00-H59;Krankheiten des Auges und der Augenanhangsgebilde;-;-;-;1;-;-;-;3;-;-;-;-;1;-;-;1;-;-;-;1;1;-;-;4
+2022;Strahlenheilkunde;ICD10-H60-H95;Krankheiten des Ohres und des Warzenfortsatzes;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2022;Strahlenheilkunde;ICD10-I00-I99;Krankheiten des Kreislaufsystems;4;1;-;64;83;56;46;524;-;2;1;74;73;53;45;549;4;3;1;138;156;109;91;1073
+2022;Strahlenheilkunde;ICD10-J00-J99;Krankheiten des Atmungssystems;-;-;-;17;9;6;14;80;-;-;-;5;14;7;11;58;-;-;-;22;23;13;25;138
+2022;Strahlenheilkunde;ICD10-K00-K93;Krankheiten des Verdauungssystems;-;-;-;28;28;14;18;146;-;4;-;20;12;8;6;89;-;4;-;48;40;22;24;235
+2022;Strahlenheilkunde;ICD10-L00-L99;Krankheiten der Haut und der Unterhaut;-;-;-;-;3;1;-;9;-;-;-;5;3;7;3;27;-;-;-;5;6;8;3;36
+2022;Strahlenheilkunde;ICD10-M00-M99;Krankh. d. Muskel-Skelett-Systems u.d.Bindegewebes;-;-;-;5;2;2;5;27;-;-;-;4;3;4;3;35;-;-;-;9;5;6;8;62
+2022;Strahlenheilkunde;ICD10-N00-N99;Krankheiten des Urogenitalsystems;-;-;-;23;20;23;19;121;-;-;-;3;2;2;4;44;-;-;-;26;22;25;23;165
+2022;Strahlenheilkunde;ICD10-O00-O99;Schwangerschaft, Geburt und Wochenbett;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2022;Strahlenheilkunde;ICD10-P00-P96;Best. Zustände mit Ursprung i.d Perinatalperiode;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2022;Strahlenheilkunde;ICD10-Q00-Q99;Angeb.Fehlbild.,Deformitäten,Chromosomenanomalien;4;2;3;1;2;-;-;62;6;7;-;-;-;-;-;61;10;9;3;1;2;-;-;123
+2022;Strahlenheilkunde;ICD10-R00-R99;Symptome u.abnorme klin. u.Laborbefunde,ao.n.kl.;-;2;-;4;11;5;4;59;-;1;-;4;4;8;6;56;-;3;-;8;15;13;10;115
+2022;Strahlenheilkunde;ICD10-S00-T98;Verletzungen und Vergiftungen;-;-;-;7;8;4;6;52;-;-;-;4;24;6;5;55;-;-;-;11;32;10;11;107
+2022;Strahlenheilkunde;ICD10-Z00-Z99;Faktoren,die zur Inanspruchn.d.Gesundheitsw.führen;-;-;-;10;6;2;5;31;-;-;-;7;5;8;13;36;-;-;-;17;11;10;18;67
+2022;Strahlenheilkunde;ICD10-U00-U85;Schlüsselnummern für besondere Zwecke;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2022;Strahlenheilkunde;UNBEKANNT;unbekannt;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2022;Strahlenheilkunde;;Insgesamt;8;7;13;5301;4635;2986;2499;29070;7;14;4;3324;2866;2016;1761;21326;15;21;17;8625;7501;5002;4260;50396
+2022;Dermatologie;ICD10-A00-B99;Bestimmte infektiöse und parasitäre Krankheiten;172;149;138;1068;964;884;1068;12197;130;125;120;924;969;915;1414;11578;302;274;258;1992;1933;1799;2482;23775
+2022;Dermatologie;ICD10-C00-C97;Bösartige Neubildungen;7;4;11;4048;5440;7172;10800;45286;1;5;12;2790;3672;4227;6588;31926;8;9;23;6838;9112;11399;17388;77212
+2022;Dermatologie;ICD10-D00-D48;Übrige Neubildungen;29;21;20;314;432;488;695;3610;37;39;19;269;289;400;557;3261;66;60;39;583;721;888;1252;6871
+2022;Dermatologie;ICD10-D50-D90;Krankheiten des Blutes;1;6;7;52;52;42;60;537;2;7;7;38;52;34;65;487;3;13;14;90;104;76;125;1024
+2022;Dermatologie;ICD10-E00-E90;Endokrine, Ernährungs- und Stoffwechselkrankheiten;-;-;-;32;60;26;31;342;-;-;-;20;34;32;27;619;-;-;-;52;94;58;58;961
+2022;Dermatologie;ICD10-F00-F99;Psychische und Verhaltensstörungen;-;-;-;-;2;2;2;20;-;1;-;2;-;2;1;28;-;1;-;2;2;4;3;48
+2022;Dermatologie;ICD10-G00-G99;Krankheiten des Nervensystems;-;-;-;8;12;5;8;146;-;1;3;26;14;10;4;332;-;1;3;34;26;15;12;478
+2022;Dermatologie;ICD10-H00-H59;Krankheiten des Auges und der Augenanhangsgebilde;-;-;-;4;2;3;11;37;-;1;-;4;8;1;6;48;-;1;-;8;10;4;17;85
+2022;Dermatologie;ICD10-H60-H95;Krankheiten des Ohres und des Warzenfortsatzes;-;-;-;5;8;7;14;55;-;-;-;7;12;7;8;67;-;-;-;12;20;14;22;122
+2022;Dermatologie;ICD10-I00-I99;Krankheiten des Kreislaufsystems;1;6;3;430;425;345;440;3183;-;4;5;298;336;444;741;3536;1;10;8;728;761;789;1181;6719
+2022;Dermatologie;ICD10-J00-J99;Krankheiten des Atmungssystems;1;-;1;9;7;4;11;98;-;-;2;10;9;10;13;76;1;-;3;19;16;14;24;174
+2022;Dermatologie;ICD10-K00-K93;Krankheiten des Verdauungssystems;1;-;6;37;37;36;47;705;2;2;1;34;30;26;29;343;3;2;7;71;67;62;76;1048
+2022;Dermatologie;ICD10-L00-L99;Krankheiten der Haut und der Unterhaut;185;369;347;2279;2097;1954;2509;26208;236;365;413;2181;2109;2008;2900;27740;421;734;760;4460;4206;3962;5409;53948
+2022;Dermatologie;ICD10-M00-M99;Krankh. d. Muskel-Skelett-Systems u.d.Bindegewebes;1;5;1;141;98;82;60;1005;1;11;8;288;246;162;210;2566;2;16;9;429;344;244;270;3571
+2022;Dermatologie;ICD10-N00-N99;Krankheiten des Urogenitalsystems;-;5;3;29;28;11;12;734;1;1;1;19;8;12;14;198;1;6;4;48;36;23;26;932
+2022;Dermatologie;ICD10-O00-O99;Schwangerschaft, Geburt und Wochenbett;-;-;-;-;-;-;-;-;-;2;5;-;-;-;-;106;-;2;5;-;-;-;-;106
+2022;Dermatologie;ICD10-P00-P96;Best. Zustände mit Ursprung i.d Perinatalperiode;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;1
+2022;Dermatologie;ICD10-Q00-Q99;Angeb.Fehlbild.,Deformitäten,Chromosomenanomalien;6;2;2;15;11;5;11;275;13;9;3;29;20;12;15;416;19;11;5;44;31;17;26;691
+2022;Dermatologie;ICD10-R00-R99;Symptome u.abnorme klin. u.Laborbefunde,ao.n.kl.;-;1;2;17;12;14;15;156;2;1;6;19;19;21;24;237;2;2;8;36;31;35;39;393
+2022;Dermatologie;ICD10-S00-T98;Verletzungen und Vergiftungen;5;16;22;277;199;118;149;2889;9;21;56;266;183;171;145;3108;14;37;78;543;382;289;294;5997
+2022;Dermatologie;ICD10-Z00-Z99;Faktoren,die zur Inanspruchn.d.Gesundheitsw.führen;45;57;48;295;188;95;79;3369;33;70;65;645;392;161;143;6787;78;127;113;940;580;256;222;10156
+2022;Dermatologie;ICD10-U00-U85;Schlüsselnummern für besondere Zwecke;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2022;Dermatologie;UNBEKANNT;unbekannt;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2022;Dermatologie;;Insgesamt;454;641;611;9060;10074;11293;16022;100852;467;665;726;7869;8402;8655;12904;93460;921;1306;1337;16929;18476;19948;28926;194312
+2022;Zahn- u. Kieferheilkunde, Mund- u. Kieferchirurgie;ICD10-A00-B99;Bestimmte infektiöse und parasitäre Krankheiten;-;2;3;15;18;15;15;224;1;1;-;15;12;16;16;182;1;3;3;30;30;31;31;406
+2022;Zahn- u. Kieferheilkunde, Mund- u. Kieferchirurgie;ICD10-C00-C97;Bösartige Neubildungen;-;4;5;1186;1157;1100;1516;9428;2;4;4;768;742;850;1176;6523;2;8;9;1954;1899;1950;2692;15951
+2022;Zahn- u. Kieferheilkunde, Mund- u. Kieferchirurgie;ICD10-D00-D48;Übrige Neubildungen;42;30;21;167;119;91;104;1658;34;29;15;132;120;74;106;1467;76;59;36;299;239;165;210;3125
+2022;Zahn- u. Kieferheilkunde, Mund- u. Kieferchirurgie;ICD10-D50-D90;Krankheiten des Blutes;-;-;-;3;5;3;11;47;-;1;-;2;3;4;7;36;-;1;-;5;8;7;18;83
+2022;Zahn- u. Kieferheilkunde, Mund- u. Kieferchirurgie;ICD10-E00-E90;Endokrine, Ernährungs- und Stoffwechselkrankheiten;-;-;-;2;-;-;1;23;-;-;-;4;1;3;2;41;-;-;-;6;1;3;3;64
+2022;Zahn- u. Kieferheilkunde, Mund- u. Kieferchirurgie;ICD10-F00-F99;Psychische und Verhaltensstörungen;-;-;1;-;-;-;-;11;-;1;-;-;-;-;-;6;-;1;1;-;-;-;-;17
+2022;Zahn- u. Kieferheilkunde, Mund- u. Kieferchirurgie;ICD10-G00-G99;Krankheiten des Nervensystems;-;-;-;10;7;6;13;114;-;2;2;5;9;5;2;80;-;2;2;15;16;11;15;194
+2022;Zahn- u. Kieferheilkunde, Mund- u. Kieferchirurgie;ICD10-H00-H59;Krankheiten des Auges und der Augenanhangsgebilde;-;1;-;13;14;23;20;164;1;1;2;14;14;22;23;166;1;2;2;27;28;45;43;330
+2022;Zahn- u. Kieferheilkunde, Mund- u. Kieferchirurgie;ICD10-H60-H95;Krankheiten des Ohres und des Warzenfortsatzes;-;-;-;-;2;1;2;17;-;-;-;3;1;2;3;19;-;-;-;3;3;3;5;36
+2022;Zahn- u. Kieferheilkunde, Mund- u. Kieferchirurgie;ICD10-I00-I99;Krankheiten des Kreislaufsystems;1;1;1;8;10;4;3;68;-;1;2;4;4;3;5;59;1;2;3;12;14;7;8;127
+2022;Zahn- u. Kieferheilkunde, Mund- u. Kieferchirurgie;ICD10-J00-J99;Krankheiten des Atmungssystems;9;18;19;75;58;37;35;1016;2;13;13;72;51;37;27;904;11;31;32;147;109;74;62;1920
+2022;Zahn- u. Kieferheilkunde, Mund- u. Kieferchirurgie;ICD10-K00-K93;Krankheiten des Verdauungssystems;378;417;552;1555;1463;1344;1408;21312;331;480;597;1298;1380;1360;1818;20673;709;897;1149;2853;2843;2704;3226;41985
+2022;Zahn- u. Kieferheilkunde, Mund- u. Kieferchirurgie;ICD10-L00-L99;Krankheiten der Haut und der Unterhaut;5;18;7;59;52;44;52;717;7;10;10;60;38;51;69;634;12;28;17;119;90;95;121;1351
+2022;Zahn- u. Kieferheilkunde, Mund- u. Kieferchirurgie;ICD10-M00-M99;Krankh. d. Muskel-Skelett-Systems u.d.Bindegewebes;2;4;12;38;24;27;31;427;3;5;8;34;33;25;27;364;5;9;20;72;57;52;58;791
+2022;Zahn- u. Kieferheilkunde, Mund- u. Kieferchirurgie;ICD10-N00-N99;Krankheiten des Urogenitalsystems;-;1;1;3;2;1;2;20;-;-;1;-;1;1;-;27;-;1;2;3;3;2;2;47
+2022;Zahn- u. Kieferheilkunde, Mund- u. Kieferchirurgie;ICD10-O00-O99;Schwangerschaft, Geburt und Wochenbett;-;-;-;-;-;-;-;-;-;1;1;-;-;-;-;16;-;1;1;-;-;-;-;16
+2022;Zahn- u. Kieferheilkunde, Mund- u. Kieferchirurgie;ICD10-P00-P96;Best. Zustände mit Ursprung i.d Perinatalperiode;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2022;Zahn- u. Kieferheilkunde, Mund- u. Kieferchirurgie;ICD10-Q00-Q99;Angeb.Fehlbild.,Deformitäten,Chromosomenanomalien;133;56;39;10;3;1;2;1295;98;75;53;9;4;5;1;1033;231;131;92;19;7;6;3;2328
+2022;Zahn- u. Kieferheilkunde, Mund- u. Kieferchirurgie;ICD10-R00-R99;Symptome u.abnorme klin. u.Laborbefunde,ao.n.kl.;2;3;5;20;19;12;11;182;4;1;7;17;17;10;20;215;6;4;12;37;36;22;31;397
+2022;Zahn- u. Kieferheilkunde, Mund- u. Kieferchirurgie;ICD10-S00-T98;Verletzungen und Vergiftungen;217;511;583;692;671;554;752;15285;125;166;135;518;530;622;941;8070;342;677;718;1210;1201;1176;1693;23355
+2022;Zahn- u. Kieferheilkunde, Mund- u. Kieferchirurgie;ICD10-Z00-Z99;Faktoren,die zur Inanspruchn.d.Gesundheitsw.führen;-;-;1;8;5;6;4;63;-;-;1;5;1;7;10;41;-;-;2;13;6;13;14;104
+2022;Zahn- u. Kieferheilkunde, Mund- u. Kieferchirurgie;ICD10-U00-U85;Schlüsselnummern für besondere Zwecke;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2022;Zahn- u. Kieferheilkunde, Mund- u. Kieferchirurgie;UNBEKANNT;unbekannt;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;1
+2022;Zahn- u. Kieferheilkunde, Mund- u. Kieferchirurgie;;Insgesamt;789;1066;1250;3864;3629;3269;3982;52071;608;791;851;2960;2961;3097;4253;40557;1397;1857;2101;6824;6590;6366;8235;92628
+2022;Intensivmedizin;ICD10-A00-B99;Bestimmte infektiöse und parasitäre Krankheiten;14;8;8;440;473;434;424;3289;6;4;7;243;280;246;348;2102;20;12;15;683;753;680;772;5391
+2022;Intensivmedizin;ICD10-C00-C97;Bösartige Neubildungen;30;36;8;371;351;227;218;2388;56;18;4;168;173;128;135;1378;86;54;12;539;524;355;353;3766
+2022;Intensivmedizin;ICD10-D00-D48;Übrige Neubildungen;1;5;-;28;24;27;29;233;-;2;-;29;24;17;16;196;1;7;-;57;48;44;45;429
+2022;Intensivmedizin;ICD10-D50-D90;Krankheiten des Blutes;8;3;2;17;18;19;16;190;8;3;3;13;10;19;24;180;16;6;5;30;28;38;40;370
+2022;Intensivmedizin;ICD10-E00-E90;Endokrine, Ernährungs- und Stoffwechselkrankheiten;10;10;26;118;105;100;83;1119;6;15;30;94;102;84;148;1077;16;25;56;212;207;184;231;2196
+2022;Intensivmedizin;ICD10-F00-F99;Psychische und Verhaltensstörungen;15;165;254;146;66;49;41;4699;38;163;175;70;66;46;51;2466;53;328;429;216;132;95;92;7165
+2022;Intensivmedizin;ICD10-G00-G99;Krankheiten des Nervensystems;39;46;34;337;330;280;240;3070;24;26;37;209;199;173;235;2053;63;72;71;546;529;453;475;5123
+2022;Intensivmedizin;ICD10-H00-H59;Krankheiten des Auges und der Augenanhangsgebilde;-;1;-;8;4;6;2;49;-;-;-;4;2;5;5;39;-;1;-;12;6;11;7;88
+2022;Intensivmedizin;ICD10-H60-H95;Krankheiten des Ohres und des Warzenfortsatzes;1;2;1;9;5;3;3;62;1;-;1;8;11;10;4;78;2;2;2;17;16;13;7;140
+2022;Intensivmedizin;ICD10-I00-I99;Krankheiten des Kreislaufsystems;44;53;32;2240;2242;1955;2189;16374;44;31;29;1029;1273;1259;1724;9598;88;84;61;3269;3515;3214;3913;25972
+2022;Intensivmedizin;ICD10-J00-J99;Krankheiten des Atmungssystems;81;77;43;1330;1321;1073;1083;9716;62;45;27;805;787;619;752;5912;143;122;70;2135;2108;1692;1835;15628
+2022;Intensivmedizin;ICD10-K00-K93;Krankheiten des Verdauungssystems;6;8;10;474;503;410;488;4091;12;11;15;274;275;258;417;2610;18;19;25;748;778;668;905;6701
+2022;Intensivmedizin;ICD10-L00-L99;Krankheiten der Haut und der Unterhaut;2;2;-;19;12;12;18;177;1;3;1;12;13;9;14;135;3;5;1;31;25;21;32;312
+2022;Intensivmedizin;ICD10-M00-M99;Krankh. d. Muskel-Skelett-Systems u.d.Bindegewebes;15;8;4;80;92;72;96;721;15;7;5;63;63;61;94;667;30;15;9;143;155;133;190;1388
+2022;Intensivmedizin;ICD10-N00-N99;Krankheiten des Urogenitalsystems;5;2;1;145;162;159;152;1157;3;9;1;95;93;94;147;867;8;11;2;240;255;253;299;2024
+2022;Intensivmedizin;ICD10-O00-O99;Schwangerschaft, Geburt und Wochenbett;-;-;-;-;-;-;-;-;-;-;4;-;-;-;-;138;-;-;4;-;-;-;-;138
+2022;Intensivmedizin;ICD10-P00-P96;Best. Zustände mit Ursprung i.d Perinatalperiode;-;-;-;-;-;-;-;1243;-;-;-;-;-;-;-;881;-;-;-;-;-;-;-;2124
+2022;Intensivmedizin;ICD10-Q00-Q99;Angeb.Fehlbild.,Deformitäten,Chromosomenanomalien;15;12;1;5;5;3;-;420;12;9;-;1;2;1;1;313;27;21;1;6;7;4;1;733
+2022;Intensivmedizin;ICD10-R00-R99;Symptome u.abnorme klin. u.Laborbefunde,ao.n.kl.;14;50;69;213;208;186;202;2950;38;91;81;178;163;156;204;2728;52;141;150;391;371;342;406;5678
+2022;Intensivmedizin;ICD10-S00-T98;Verletzungen und Vergiftungen;60;137;180;619;623;603;916;8688;68;147;180;316;348;379;614;5463;128;284;360;935;971;982;1530;14151
+2022;Intensivmedizin;ICD10-Z00-Z99;Faktoren,die zur Inanspruchn.d.Gesundheitsw.führen;8;6;6;20;6;14;11;254;7;13;5;10;5;9;5;182;15;19;11;30;11;23;16;436
+2022;Intensivmedizin;ICD10-U00-U85;Schlüsselnummern für besondere Zwecke;2;1;-;2;-;1;-;11;1;1;-;-;-;-;-;11;3;2;-;2;-;1;-;22
+2022;Intensivmedizin;UNBEKANNT;unbekannt;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2022;Intensivmedizin;;Insgesamt;370;632;679;6621;6550;5633;6211;60901;402;598;605;3621;3889;3573;4938;39074;772;1230;1284;10242;10439;9206;11149;99975
+2022;Sonstige Fachabteilung;ICD10-A00-B99;Bestimmte infektiöse und parasitäre Krankheiten;3;2;13;81;99;90;142;946;-;4;16;71;73;78;119;806;3;6;29;152;172;168;261;1752
+2022;Sonstige Fachabteilung;ICD10-C00-C97;Bösartige Neubildungen;-;2;46;2869;2833;2406;2618;18415;1;5;21;2419;2498;2248;2660;18695;1;7;67;5288;5331;4654;5278;37110
+2022;Sonstige Fachabteilung;ICD10-D00-D48;Übrige Neubildungen;6;2;6;65;65;69;98;655;1;6;5;71;62;61;100;828;7;8;11;136;127;130;198;1483
+2022;Sonstige Fachabteilung;ICD10-D50-D90;Krankheiten des Blutes;-;1;4;17;13;23;24;164;-;-;2;17;22;28;37;218;-;1;6;34;35;51;61;382
+2022;Sonstige Fachabteilung;ICD10-E00-E90;Endokrine, Ernährungs- und Stoffwechselkrankheiten;1;-;3;163;160;152;157;1234;1;4;21;104;111;130;214;2392;2;4;24;267;271;282;371;3626
+2022;Sonstige Fachabteilung;ICD10-F00-F99;Psychische und Verhaltensstörungen;45;49;78;241;195;115;120;4416;112;154;78;372;329;285;279;5513;157;203;156;613;524;400;399;9929
+2022;Sonstige Fachabteilung;ICD10-G00-G99;Krankheiten des Nervensystems;42;39;47;437;406;300;289;4847;74;81;86;327;299;272;242;4683;116;120;133;764;705;572;531;9530
+2022;Sonstige Fachabteilung;ICD10-H00-H59;Krankheiten des Auges und der Augenanhangsgebilde;-;-;-;3;5;6;6;36;-;-;-;4;3;3;-;31;-;-;-;7;8;9;6;67
+2022;Sonstige Fachabteilung;ICD10-H60-H95;Krankheiten des Ohres und des Warzenfortsatzes;-;1;1;6;6;6;6;76;-;-;1;5;13;18;10;112;-;1;2;11;19;24;16;188
+2022;Sonstige Fachabteilung;ICD10-I00-I99;Krankheiten des Kreislaufsystems;17;15;8;1215;1240;1176;1199;8948;8;13;12;733;837;851;1294;7236;25;28;20;1948;2077;2027;2493;16184
+2022;Sonstige Fachabteilung;ICD10-J00-J99;Krankheiten des Atmungssystems;3;5;17;209;224;235;321;1900;4;6;10;148;165;193;249;1530;7;11;27;357;389;428;570;3430
+2022;Sonstige Fachabteilung;ICD10-K00-K93;Krankheiten des Verdauungssystems;1;13;36;569;545;481;438;5678;5;23;52;401;434;407;496;4971;6;36;88;970;979;888;934;10649
+2022;Sonstige Fachabteilung;ICD10-L00-L99;Krankheiten der Haut und der Unterhaut;1;4;7;75;83;39;65;892;1;4;8;40;33;24;51;465;2;8;15;115;116;63;116;1357
+2022;Sonstige Fachabteilung;ICD10-M00-M99;Krankh. d. Muskel-Skelett-Systems u.d.Bindegewebes;24;57;37;1152;990;867;752;10991;58;65;39;1156;1221;1143;1239;11777;82;122;76;2308;2211;2010;1991;22768
+2022;Sonstige Fachabteilung;ICD10-N00-N99;Krankheiten des Urogenitalsystems;3;2;7;144;134;156;171;1273;-;5;11;60;69;101;141;1131;3;7;18;204;203;257;312;2404
+2022;Sonstige Fachabteilung;ICD10-O00-O99;Schwangerschaft, Geburt und Wochenbett;-;-;-;-;-;-;-;-;-;-;2;-;-;-;-;61;-;-;2;-;-;-;-;61
+2022;Sonstige Fachabteilung;ICD10-P00-P96;Best. Zustände mit Ursprung i.d Perinatalperiode;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2022;Sonstige Fachabteilung;ICD10-Q00-Q99;Angeb.Fehlbild.,Deformitäten,Chromosomenanomalien;16;12;9;15;6;9;-;220;18;27;17;9;7;1;1;357;34;39;26;24;13;10;1;577
+2022;Sonstige Fachabteilung;ICD10-R00-R99;Symptome u.abnorme klin. u.Laborbefunde,ao.n.kl.;6;10;38;146;157;142;226;1831;10;16;37;124;157;157;267;2008;16;26;75;270;314;299;493;3839
+2022;Sonstige Fachabteilung;ICD10-S00-T98;Verletzungen und Vergiftungen;52;83;84;362;313;280;345;4363;32;36;47;293;288;309;413;3327;84;119;131;655;601;589;758;7690
+2022;Sonstige Fachabteilung;ICD10-Z00-Z99;Faktoren,die zur Inanspruchn.d.Gesundheitsw.führen;5;5;4;17;17;15;13;223;5;5;5;19;12;13;13;256;10;10;9;36;29;28;26;479
+2022;Sonstige Fachabteilung;ICD10-U00-U85;Schlüsselnummern für besondere Zwecke;1;-;1;1;-;-;-;7;-;-;-;1;1;-;1;22;1;-;1;2;1;-;1;29
+2022;Sonstige Fachabteilung;UNBEKANNT;unbekannt;1;-;-;1;2;1;1;12;-;-;1;-;1;-;1;4;1;-;1;1;3;1;2;16
+2022;Sonstige Fachabteilung;;Insgesamt;227;302;446;7788;7493;6568;6991;67127;330;454;471;6374;6635;6322;7827;66423;557;756;917;14162;14128;12890;14818;133550
+2022;Unbekannte Fachabteilung;ICD10-A00-B99;Bestimmte infektiöse und parasitäre Krankheiten;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2022;Unbekannte Fachabteilung;ICD10-C00-C97;Bösartige Neubildungen;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2022;Unbekannte Fachabteilung;ICD10-D00-D48;Übrige Neubildungen;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2022;Unbekannte Fachabteilung;ICD10-D50-D90;Krankheiten des Blutes;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2022;Unbekannte Fachabteilung;ICD10-E00-E90;Endokrine, Ernährungs- und Stoffwechselkrankheiten;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2022;Unbekannte Fachabteilung;ICD10-F00-F99;Psychische und Verhaltensstörungen;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2022;Unbekannte Fachabteilung;ICD10-G00-G99;Krankheiten des Nervensystems;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2022;Unbekannte Fachabteilung;ICD10-H00-H59;Krankheiten des Auges und der Augenanhangsgebilde;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2022;Unbekannte Fachabteilung;ICD10-H60-H95;Krankheiten des Ohres und des Warzenfortsatzes;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2022;Unbekannte Fachabteilung;ICD10-I00-I99;Krankheiten des Kreislaufsystems;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2022;Unbekannte Fachabteilung;ICD10-J00-J99;Krankheiten des Atmungssystems;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2022;Unbekannte Fachabteilung;ICD10-K00-K93;Krankheiten des Verdauungssystems;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2022;Unbekannte Fachabteilung;ICD10-L00-L99;Krankheiten der Haut und der Unterhaut;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2022;Unbekannte Fachabteilung;ICD10-M00-M99;Krankh. d. Muskel-Skelett-Systems u.d.Bindegewebes;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2022;Unbekannte Fachabteilung;ICD10-N00-N99;Krankheiten des Urogenitalsystems;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2022;Unbekannte Fachabteilung;ICD10-O00-O99;Schwangerschaft, Geburt und Wochenbett;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2022;Unbekannte Fachabteilung;ICD10-P00-P96;Best. Zustände mit Ursprung i.d Perinatalperiode;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2022;Unbekannte Fachabteilung;ICD10-Q00-Q99;Angeb.Fehlbild.,Deformitäten,Chromosomenanomalien;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2022;Unbekannte Fachabteilung;ICD10-R00-R99;Symptome u.abnorme klin. u.Laborbefunde,ao.n.kl.;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2022;Unbekannte Fachabteilung;ICD10-S00-T98;Verletzungen und Vergiftungen;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2022;Unbekannte Fachabteilung;ICD10-Z00-Z99;Faktoren,die zur Inanspruchn.d.Gesundheitsw.führen;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2022;Unbekannte Fachabteilung;ICD10-U00-U85;Schlüsselnummern für besondere Zwecke;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2022;Unbekannte Fachabteilung;UNBEKANNT;unbekannt;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2022;Unbekannte Fachabteilung;;Insgesamt;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+__________
+"Fachabteilungen (bis 2017):
+Eine Addition der Werte nach Fachabteilung ist nicht
+möglich, da in dieser Gliederung Haupt- und
+Unterfachabteilungen dargestellt werden."
+© Statistisches Bundesamt (Destatis), 2023
+Stand: 30.10.2024 / 16:23:32
