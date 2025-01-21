@@ -1,6 +1,6 @@
 import numpy as np
 import pandas as pd
-from tkinter.filedialog import askopenfilename
+from tkinter.filedialog import askopenfilename, asksaveasfilename
 from tkinter import messagebox
 
 file = pd.read_excel(askopenfilename())
@@ -15,7 +15,8 @@ else:
 
 # Bereinigte Datei speichern
 try:
-    cleaned_file.to_excel("test_cleaned.xlsx", index=False)
+    ausgabe_dateipfad = asksaveasfilename(defaultextension=".xlsx", filetypes=[("Excel Dateien", "*.xlsx")], title="Speicherort auswählen")
+    cleaned_file.to_excel(ausgabe_dateipfad, index=False)
     messagebox.showinfo("Erfolg", "Bereinigte Datei wurde als 'test_cleaned.xlsx' gespeichert")
 except Exception as e:
     messagebox.showerror("Fehler", f"Fehler beim Speichern der Datei: {e}")
