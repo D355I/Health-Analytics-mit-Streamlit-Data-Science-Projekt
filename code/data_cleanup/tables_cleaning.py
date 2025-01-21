@@ -17,6 +17,6 @@ else:
 try:
     ausgabe_dateipfad = asksaveasfilename(defaultextension=".xlsx", filetypes=[("Excel Dateien", "*.xlsx")], title="Speicherort auswählen")
     cleaned_file.to_excel(ausgabe_dateipfad, index=False)
-    messagebox.showinfo("Erfolg", "Bereinigte Datei wurde als 'test_cleaned.xlsx' gespeichert")
+    messagebox.showinfo("Erfolg", "Bereinigte Datei wurde gespeichert")
 except Exception as e:
     messagebox.showerror("Fehler", f"Fehler beim Speichern der Datei: {e}")
