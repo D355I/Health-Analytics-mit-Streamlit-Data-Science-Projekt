@@ -16,13 +16,15 @@ d_kh, d_pn, d_dg2018, d_dg2019, d_dg2020, d_dg2021, d_dg2022, d_dg2023 = load_da
 st.header("Entwicklung")
 st.subheader("Entwicklung bei den Krankenhäusern")
 
-interactive_plot_dev(d_kh, 1, 5)
+interactive_plot_dev(d_dg2018,0, 1, 5)
 
 st.subheader("Entwicklung bei dem Personal")
 
-interactive_plot_dev(d_pn, 1, 5)
+interactive_plot_dev(d_pn,0, 1, 5)
 
 col1, col2 = st.columns(2)
 
 with col1:
-    interactive_plot_dev(d_kh, 1, 5)
+    interactive_plot_dev(d_kh,0, 1, 5)
+with col2: 
+    st.write("Hallo")
