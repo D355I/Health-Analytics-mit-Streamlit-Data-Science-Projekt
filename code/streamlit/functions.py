@@ -10,10 +10,10 @@ def interactive_plot_dev(df,x, spalte_von, spalte_bis):
     plot = px.scatter(df, x = x_axis_val, y= y_axis_val)
     st.plotly_chart(plot)
 
-def columns(df, zeile_von, zeile_bis, text):
+def columns(df,x, zeile_von, zeile_bis, text):
     col1, col2 = st.columns(2)
 
     with col1: 
-        interactive_plot_dev(df, zeile_von, zeile_bis)
+        interactive_plot_dev(df,x, zeile_von, zeile_bis)
     with col2: 
         st.write(text)

@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 from get_data import load_data
-from functions import interactive_plot_dev
+from functions import interactive_plot_dev, columns
 
 
 st.set_page_config(page_title = "Data Literacy Dashboard",layout = "wide")
@@ -22,9 +22,4 @@ st.subheader("Entwicklung bei dem Personal")
 
 interactive_plot_dev(d_pn,0, 1, 5)
 
-col1, col2 = st.columns(2)
-
-with col1:
-    interactive_plot_dev(d_kh,0, 1, 5)
-with col2: 
-    st.write("Hallo")
+columns(d_kh,0, 1, 5, "Hallo Welt")
