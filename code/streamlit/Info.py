@@ -5,8 +5,6 @@ import plotly.express as px
 
 st.set_page_config(page_title = "Data Literacy Dashboard",layout = "wide")
 st.sidebar.image("./assets/logo-TH-Köln1.png",caption = "Data Literacy")
-scope = pd.read_excel("./assets/scope.xlsx", index_col=None)
-st.sidebar.write(scope)
 
 #tode_2019 = pd.read_excel("../../data/cleaned_data/data_tode_2019_final.xlsx")
 
