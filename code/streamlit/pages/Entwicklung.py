@@ -11,7 +11,7 @@ scope = pd.read_excel("./assets/scope.xlsx", index_col=False)
 st.sidebar.subheader("Scope:")
 st.sidebar.write(scope)
 
-d_kh, d_pn, d_dg2018, d_dg2019, d_dg2020, d_dg2021, d_dg2022, d_dg2023 = load_data()
+d_kh, d_pn, d_dg2018, d_dg2019, d_dg2020, d_dg2021, d_dg2022, d_dg2023, d_t2010, d_t2011, d_t2012, d_t2013, d_t2014, d_t2015, d_t2016, d_t2017, d_t2018, d_t2019, d_t2020  = load_data()
 
 st.header("Entwicklung")
 st.subheader("Entwicklung bei den Krankenhäusern")
@@ -33,3 +33,4 @@ plot2 = plot_dev(d_pn, 0, 1)
 col1 , col2 = st.columns(2)
 col1.write(plot1)
 col2.write(plot2)
+
