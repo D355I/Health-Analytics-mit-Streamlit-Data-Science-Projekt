@@ -39,5 +39,18 @@ def plot_dev(df, x, y):
     x_axis = df.columns[x]
     y_axis = df.columns[y]
     plot = px.scatter(df, x=x_axis, y=y_axis)
-    return plot
+    st.plotly_chart(plot)
+
+def plot_dev_bar(df, x, y):
+    x_axis = df.columns[x]
+    y_axis = df.columns[y]
+    plot = px.bar(df, x=x_axis, y=y_axis)
+    st.plotly_chart(plot)
+
+def plot_dev_line(df, x, y):
+    x_axis = df.columns[x]
+    y_axis = df.columns[y]
+    plot = px.line(df, x=x_axis, y=y_axis, markers=True)
+    st.plotly_chart(plot)
+
 
