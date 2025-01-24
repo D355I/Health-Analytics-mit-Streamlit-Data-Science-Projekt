@@ -19,7 +19,11 @@ st.write("Wieviele Menschen sterben von Jahr bis Jahr in Krankenhäusern?")
 
 plot_dev_line(d_tode_insg, 0, 1)
 
+st.write("Wieviele Krankenhäuser haben wir in Deutschland mit wievielen Mitarbeitern?")
 
-
-
+col1, col2 = st.columns(2)
+with col1:
+    interactive_plot_dev(d_kh, 0, 1, 4)
+with col2:
+    interactive_plot_dev(d_pn, 0, 1, 3)
 
