@@ -53,4 +53,10 @@ def plot_dev_line(df, x, y):
     plot = px.line(df, x=x_axis, y=y_axis, markers=True)
     st.plotly_chart(plot)
 
+def interactive_plot_dev_line(df,x, spalte_von, spalte_bis):
+    x_axis_val = df.columns[x]
+    y_axis_val = st.selectbox("Optionen", options=df.columns[spalte_von:spalte_bis])
+
+    plot = px.line(df, x = x_axis_val, y= y_axis_val, markers=True)
+    st.plotly_chart(plot)
 

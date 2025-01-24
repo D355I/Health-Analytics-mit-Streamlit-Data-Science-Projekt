@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 from get_data import load_data
-from functions import interactive_plot_dev, columns_one_graph, interactive_plot_bar, columns_graph, plot_dev, plot_dev_bar, plot_dev_line
+from functions import interactive_plot_dev, columns_one_graph, interactive_plot_bar, columns_graph, plot_dev, plot_dev_bar, plot_dev_line, interactive_plot_dev_line
 
 
 st.set_page_config(page_title = "Data Literacy Dashboard",layout = "wide")
@@ -23,7 +23,8 @@ st.write("Wieviele Krankenhäuser haben wir in Deutschland mit wievielen Mitarbe
 
 col1, col2 = st.columns(2)
 with col1:
-    interactive_plot_dev(d_kh, 0, 1, 4)
+    interactive_plot_dev_line(d_kh, 0, 1, 3)
 with col2:
-    interactive_plot_dev(d_pn, 0, 1, 3)
+    st.write("Anzahl Patienten:")
+    plot_dev(d_kh, 0, 3)
 
