@@ -20,4 +20,4 @@ Krankheiten, Behandlungsmethoden oder Krankenhausbedingungen beeinflusst werden.
 
 st.subheader("Datengrundlage:")
 st.write("Als Rohdaten hatten wir eine Basis von 4 Tabellen zur VErfügung. Diese wurden aus Destatis herausgezogen:")
-#st.write(tode_2019.head(10))ç
+#st.write(tode_2019.head(10))
