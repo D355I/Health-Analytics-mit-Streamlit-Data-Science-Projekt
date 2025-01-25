@@ -109,16 +109,18 @@ fig_covid_age_gender = px.bar(
 st.plotly_chart(fig_covid_age_gender)
 
 # Berechnung des Anteils der COVID-19-Todesfälle an den Gesamt-Todesfällen
-covid_percentage = covid_data[['Kind Männlich', 'Jugendlich Männlich', 'Erwachsener Männlich', 'Senior Männlich', 
-                               'Kind Weiblich', 'Jugendlich Weiblich', 'Erwachsener Weiblich', 'Senior Weiblich']].sum() / \
+covid_percentage = covid_data[['Erwachsener Männlich', 'Senior Männlich', 
+                               'Erwachsener Weiblich', 'Senior Weiblich']].sum() / \
                       d_tode_insg[d_tode_insg['Jahr'] == int(year)]['Todesanzahl insgesamt'].sum() * 100
 
-fig_covid_percentage = px.bar(
-    x=covid_percentage.index,
-    y=covid_percentage.values,
-    labels={'x': 'Altersgruppen und Geschlecht', 'y': 'COVID-19 Anteil (%)'},
+# Pie Chart für den Anteil der COVID-19-Todesfälle an den Gesamt-Todesfällen
+fig_covid_percentage_pie = px.pie(
+    names=covid_percentage.index,
+    values=covid_percentage.values,
+    labels={'names': 'Altersgruppen und Geschlecht', 'values': 'COVID-19 Anteil (%)'},
     title=f"Anteil der COVID-19-Todesfälle an den Gesamt-Todesfällen {year}",
-    text=covid_percentage.values
+    hole=0.3  # Ein Loch in der Mitte, wie bei einem Donut-Diagramm (optional)
 )
 
-st.plotly_chart(fig_covid_percentage)
+# Anzeige des Kreisdiagramms
+st.plotly_chart(fig_covid_percentage_pie)
