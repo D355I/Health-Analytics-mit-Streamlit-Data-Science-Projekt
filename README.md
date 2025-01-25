@@ -13,3 +13,5 @@ Die einzelnen Jahrestabellen (Prepcrocessing) wurden auf Abteilungen und insgesa
 In der Tabelle Tode wird die SPalte 75-80 Jahre Weiblich jeweils raudsgenommen, da es keine Daten gibt.
 
 In den Tabellen data_Diagnose.. wurde Zeile 12 Namens Kinderkardiologie , Zeile 14 Kinderchirugie, Zeile 31 Kinder- und Jugendpsychiatrie entfernt, weil offensichtlich falsche Daten sich in den Zeilen befinden.
+
+![Tree Chart](tree_chart_github.png)
