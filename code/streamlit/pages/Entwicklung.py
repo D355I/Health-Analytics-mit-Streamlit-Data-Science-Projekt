@@ -28,3 +28,11 @@ with col2:
     st.write("Anzahl Patienten:")
     plot_dev(d_kh, 0, 3)
 
+
+
+st.write("Ausgaben Gesundheitswesen:")
+st.image("./assets/statistik_gesundheitsausgabe.jpeg")
+st.write("https://de.statista.com/statistik/daten/studie/5463/umfrage/gesundheitssystem-in-deutschland-ausgaben-seit-1992/?utm_source=chatgpt.com")
+
+
+

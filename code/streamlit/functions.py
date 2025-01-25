@@ -60,3 +60,5 @@ def interactive_plot_dev_line(df,x, spalte_von, spalte_bis):
     plot = px.line(df, x = x_axis_val, y= y_axis_val, markers=True)
     st.plotly_chart(plot)
 
+def pie_chart(df):
+    px.pie(df)
