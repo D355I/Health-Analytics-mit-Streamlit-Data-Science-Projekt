@@ -90,7 +90,7 @@ selected_data = globals()[f'd_t{year}']
 covid_data = selected_data[selected_data['Todesursache'] == "COVID019, Virus nachgewiesen"]
 
 # Visualisierung der Gesamtzahl der COVID-19-Todesfälle
-covid_total_deaths = covid_data[['Jahr', 'Kind Männlich', 'Jugendlich Männlich', 'Erwachsener Männlich', 'Senior Männlich', 
+covid_total_deaths = covid_data[['Kind Männlich', 'Jugendlich Männlich', 'Erwachsener Männlich', 'Senior Männlich', 
                                  'Kind Weiblich', 'Jugendlich Weiblich', 'Erwachsener Weiblich', 'Senior Weiblich']].sum()
 
 fig_covid_total_deaths = px.bar(
