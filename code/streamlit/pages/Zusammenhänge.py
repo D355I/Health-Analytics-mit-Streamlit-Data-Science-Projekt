@@ -93,15 +93,6 @@ covid_data = selected_data[selected_data['Todesursache'] == "COVID019, Virus nac
 covid_total_deaths = covid_data[['Kind Männlich', 'Jugendlich Männlich', 'Erwachsener Männlich', 'Senior Männlich', 
                                  'Kind Weiblich', 'Jugendlich Weiblich', 'Erwachsener Weiblich', 'Senior Weiblich']].sum()
 
-fig_covid_total_deaths = px.bar(
-    x=covid_total_deaths.index,
-    y=covid_total_deaths.values,
-    labels={'x': 'Altersgruppen und Geschlecht', 'y': 'Anzahl Todesfälle'},
-    title=f"COVID-19 Todesfälle {year} nach Altersgruppen und Geschlecht",
-    text=covid_total_deaths.values
-)
-
-st.plotly_chart(fig_covid_total_deaths)
 
 # Visualisierung der Verteilung der COVID-19-Todesfälle nach Altersgruppen und Geschlecht
 covid_age_gender_deaths = covid_data[['Kind Männlich', 'Jugendlich Männlich', 'Erwachsener Männlich', 'Senior Männlich', 
