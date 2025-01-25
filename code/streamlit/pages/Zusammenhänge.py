@@ -8,31 +8,30 @@ d_kh, d_pn, d_dg2018, d_dg2019, d_dg2020, d_dg2021, d_dg2022, d_dg2023, d_t2010,
 st.set_page_config(page_title="Data Literacy Dashboard", layout="wide")
 st.sidebar.image("./assets/logo-TH-Köln1.png", caption="Data Literacy")
 
-# Todesanzahl und Personalanzahl-Daten vorbereiten
+
 tode = d_tode_insg["Todesanzahl insgesamt"]
 personal_anzahl = d_pn[["Personal", "Hauptamtliche Ärzte", "Nichtärztliches Personal"]]
 
-# DataFrame erstellen
+
 data = pd.concat([tode, personal_anzahl], axis=1)
 
-# Korrelationsmatrix berechnen
+
 correlation_matrix = data.corr()
 
-# Plotly-Visualisierung der Korrelationsmatrix
 fig = px.imshow(
     correlation_matrix,
-    text_auto=True,  # Werte innerhalb der Matrix anzeigen
-    color_continuous_scale="darkmint",  # Farbschema für die Matrix
-    title="Korrelationsmatrix: Todesanzahl vs Personalanzahl"
+    text_auto=True,  
+    color_continuous_scale="darkmint", 
+    title="Korrelationsmatrix: Todesanzahl vs Anzahl Krankenhauspersonal"
 )
 
-# Achsen beschriften und Layout anpassen
+
 fig.update_layout(
-    xaxis=dict(tickangle=45),  # Achsentitel rotieren
-    coloraxis_colorbar=dict(title="Korrelation")  # Farbbalken beschriften
+    xaxis=dict(tickangle=45),  
+    coloraxis_colorbar=dict(title="Korrelation")  
 )
 
-# Streamlit-Frontend
+
 st.title("Korrelationsmatrix: Todesanzahl vs Personalanzahl")
 st.write("Unten sehen Sie die Korrelation zwischen Todesanzahl und Personalanzahl:")
 st.plotly_chart(fig)
