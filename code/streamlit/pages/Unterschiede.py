@@ -18,7 +18,7 @@ st.write(" ")
 st.write(" ")
 
 # Daten laden
-d_krankenhaus, d_personal, diagnose_2018, diagnose_2019, diagnose_2020, diagnose_2021, diagnose_2022, diagnose_2023, tode_2010, tode_2011, tode_2012, tode_2013, tode_2014, tode_2015, tode_2016, tode_2017, tode_2018, tode_2019, tode_2020, tode_2021, tode_2022, tode_2023, tode_insgesamt, tode_i_alles, bettenauslastung = load_data()
+d_krankenhaus, d_personal, d_kosten,d_ausgaben, diagnose_2018, diagnose_2019, diagnose_2020, diagnose_2021, diagnose_2022, diagnose_2023, tode_2010, tode_2011, tode_2012, tode_2013, tode_2014, tode_2015, tode_2016, tode_2017, tode_2018, tode_2019, tode_2020, tode_2021, tode_2022, tode_2023, tode_insgesamt, tode_i_alles, bettenauslastung, verweildauer = load_data()
 
 # Analyse der häufigsten Todesursachen
 st.write("Analyse der häufigsten Todesursachen")

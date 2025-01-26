@@ -2,9 +2,10 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 from get_data import load_data
+from functions import plot_dev_line
 
 # Daten laden
-d_kh, d_pn, d_dg2018, d_dg2019, d_dg2020, d_dg2021, d_dg2022, d_dg2023, d_t2010, d_t2011, d_t2012, d_t2013, d_t2014, d_t2015, d_t2016, d_t2017, d_t2018, d_t2019, d_t2020,d_t2021,d_t2022,d_t2023, d_tode_insg, d_i_alles, bettenauslastung= load_data()
+d_kh, d_pn, d_kosten,d_ausgaben, d_dg2018, d_dg2019, d_dg2020, d_dg2021, d_dg2022, d_dg2023, d_t2010, d_t2011, d_t2012, d_t2013, d_t2014, d_t2015, d_t2016, d_t2017, d_t2018, d_t2019, d_t2020,d_t2021,d_t2022,d_t2023, d_tode_insg, d_i_alles, bettenauslastung, verweildauer = load_data()
 st.set_page_config(page_title="Data Literacy Dashboard", layout="wide")
 st.sidebar.image("./assets/logo-TH-Köln1.png", caption="Data Literacy")
 scope = pd.read_excel("./assets/scope.xlsx", index_col=False)
@@ -90,13 +91,13 @@ selected_data = globals()[f'd_t{year}']
 covid_data = selected_data[selected_data['Todesursache'] == "COVID019, Virus nachgewiesen"]
 
 # Visualisierung der Gesamtzahl der COVID-19-Todesfälle
-covid_total_deaths = covid_data[['Kind Männlich', 'Jugendlich Männlich', 'Erwachsener Männlich', 'Senior Männlich', 
-                                 'Kind Weiblich', 'Jugendlich Weiblich', 'Erwachsener Weiblich', 'Senior Weiblich']].sum()
+covid_total_deaths = covid_data[['Jugendlich Männlich', 'Erwachsener Männlich', 'Senior Männlich', 
+                                  'Jugendlich Weiblich', 'Erwachsener Weiblich', 'Senior Weiblich']].sum()
 
 
 # Visualisierung der Verteilung der COVID-19-Todesfälle nach Altersgruppen und Geschlecht
-covid_age_gender_deaths = covid_data[['Kind Männlich', 'Erwachsener Männlich', 'Senior Männlich', 
-                                     'Kind Weiblich', 'Erwachsener Weiblich', 'Senior Weiblich']].sum()
+covid_age_gender_deaths = covid_data[['Erwachsener Männlich', 'Senior Männlich', 
+                                      'Erwachsener Weiblich', 'Senior Weiblich']].sum()
 
 fig_covid_age_gender = px.bar(
     x=covid_age_gender_deaths.index,
@@ -123,4 +124,9 @@ fig_covid_percentage_pie = px.pie(
 )
 
 # Anzeige des Kreisdiagramms
+
 st.plotly_chart(fig_covid_percentage_pie)
+
+
+
+
