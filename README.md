@@ -2,7 +2,8 @@
 
 # Allgemein zum Repository:
  Hier ist die zentrale Dokumentationsdatei, die einen Überblick über das Projekt gibt. Hier kann man die Zielsetzung, eingesetzte Methoden und den Ablauf des Projekts verstehen.
-![Tree Chart](treechart.png)
+![Tree Chart](tree-chart.png)
+
 # Struktur des Githubs:
 Unsere Struktur des Projektes in Github ist folgendermaßen Wir haben 3 Bereiche den code, Daten und den Tool Bereich.
 # Code Bereich:
@@ -20,7 +21,7 @@ Der Code-Bereich wird in zwei Hauptbereiche unterteilt: **Data Cleanup** und **S
 ### Streamlit:
 #### Kernmodule:
 - **functions.py:** Zentrale Funktionen für die Datenverarbeitung und Analysen.  
-- **Info.py:** Spezifische Informationen über die Daten, die für die Benutzeroberfläche benötigt werden.  
+- **Info.py:** Einstiegspunkt in das Streamlit!!!  
 - **get_data.py:** Beschafft die Rohdaten und verarbeitet sie für die Analyse.  
 
 #### Assets & Pages:
