@@ -25,5 +25,6 @@ def load_data():
     tode_2023 = pd.read_excel("../../data/cleaned_data/final_cleaned/data_tode_2023_final.xlsx")
     tode_insgesamt = pd.read_excel("../../data/cleaned_data/final_cleaned/final_cleaned_insgesamt/tode_insgesamt_nach_jahr.xlsx")
     tode_i_alles = pd.read_excel("../../data/cleaned_data/final_cleaned/final_cleaned_insgesamt/Data_Final_Tode_Insgesamt.xlsx")
+    bettenauslastung = pd.read_excel("../../data/cleaned_data/bettenauslastung_2010_bis_2023.xlsx")
 
-    return d_krankenhaus, d_personal, diagnose_2018, diagnose_2019, diagnose_2020, diagnose_2021, diagnose_2022, diagnose_2023, tode_2010, tode_2011, tode_2012, tode_2013, tode_2014, tode_2015, tode_2016, tode_2017, tode_2018, tode_2019, tode_2020, tode_2021, tode_2022, tode_2023, tode_insgesamt, tode_i_alles
+    return d_krankenhaus, d_personal, diagnose_2018, diagnose_2019, diagnose_2020, diagnose_2021, diagnose_2022, diagnose_2023, tode_2010, tode_2011, tode_2012, tode_2013, tode_2014, tode_2015, tode_2016, tode_2017, tode_2018, tode_2019, tode_2020, tode_2021, tode_2022, tode_2023, tode_insgesamt, tode_i_alles, bettenauslastung

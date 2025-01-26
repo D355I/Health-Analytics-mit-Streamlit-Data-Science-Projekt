@@ -12,7 +12,7 @@ st.sidebar.subheader("Scope:")
 st.sidebar.write(scope)
 
 
-d_kh, d_pn, d_dg2018, d_dg2019, d_dg2020, d_dg2021, d_dg2022, d_dg2023, d_t2010, d_t2011, d_t2012, d_t2013, d_t2014, d_t2015, d_t2016, d_t2017, d_t2018, d_t2019, d_t2020,d_t2021,d_t2022,d_t2023, d_tode_insg, d_i_alles  = load_data()
+d_kh, d_pn, d_dg2018, d_dg2019, d_dg2020, d_dg2021, d_dg2022, d_dg2023, d_t2010, d_t2011, d_t2012, d_t2013, d_t2014, d_t2015, d_t2016, d_t2017, d_t2018, d_t2019, d_t2020,d_t2021,d_t2022,d_t2023, d_tode_insg, d_i_alles, bettenauslastung  = load_data()
 
 st.header("Entwicklung")
 st.write(" ")
@@ -27,7 +27,10 @@ with col1:
     interactive_plot_dev_line(d_kh, 0, 1, 3)
 with col2:
     st.write("Anzahl Patienten:")
-    plot_dev(d_kh, 0, 3)
+    plot_dev_line(d_kh, 0, 3)
+
+plot_dev_bar(bettenauslastung,0, 1)
+
 
 plot_dev_line(d_pn, 0, 1)
 
