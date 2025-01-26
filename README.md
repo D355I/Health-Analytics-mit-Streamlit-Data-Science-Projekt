@@ -31,41 +31,42 @@ Der Code-Bereich wird in zwei Hauptbereiche unterteilt: **Data Cleanup** und **S
 - **assets:** Zusätzliche Ressourcen wie Bilder oder Stylesheets.  
 
 
-# Daten Bereich:
+# Daten-Bereich
 Dieser Bereich enthält die Roh- und bereinigten Daten. Die Unterstruktur folgt den verschiedenen Verarbeitungsstufen:
 
-  raw_data: 
-    Die unberührten Originaldaten, unterteilt in csv und excel. 
-        preprocessing: Erste Vorbereitungsarbeiten an den Rohdaten.
-    
-  cleaned_data: 
-    Enthält die bereinigten und aggregierten Daten, aufgeteilt in verschiedene Stufen:
-        pre_cleaning: Erste bereinigte Version der Daten.
-        null_cleaned: Entfernt oder aufgefüllte Null-Werte.
-        final_cleaned: Die endgültige Version der bereinigten Daten.
-            Eine zusammengefasste Datei final_cleaned_insgesamt bietet eine Gesamtübersicht.
+## raw_data
+- Die unberührten Originaldaten, unterteilt in **csv** und **excel**.  
+  - **preprocessing:** Erste Vorbereitungsarbeiten an den Rohdaten.
 
-# Tools-Bereich:
+## cleaned_data
+- Enthält die bereinigten und aggregierten Daten, aufgeteilt in verschiedene Stufen:
+  - **pre_cleaning:** Erste bereinigte Version der Daten.  
+  - **null_cleaned:** Entfernt oder aufgefüllte Null-Werte.  
+  - **final_cleaned:** Die endgültige Version der bereinigten Daten.  
+    - Eine zusammengefasste Datei **final_cleaned_insgesamt** bietet eine Gesamtübersicht.
+
+---
+
+# Tools-Bereich
 Enthält Skripte und Programme zur Unterstützung der Datenvorbereitung. Der Fokus liegt hier auf der Automatisierung und Vereinfachung des Preprocessing.
 
+---
 
-# TODOS:
-#Datenaufbereitung:
-    Die Rohdaten (Patientendiagnosen und Todesfälle) wurden nach Jahren sortiert und in Tabellen gespeichert (Vor-Corona, Corona, Nach-Corona).
+# TODOS
 
-Diese Tabellen wurden nach Abteilungen und insgesamt aggregiert, was die Übersichtlichkeit verbessert.
+## Datenaufbereitung
+- Die Rohdaten (Patientendiagnosen und Todesfälle) wurden nach Jahren sortiert und in Tabellen gespeichert (**Vor-Corona**, **Corona**, **Nach-Corona**).  
+- Diese Tabellen wurden nach Abteilungen und insgesamt aggregiert, um die Übersichtlichkeit zu verbessern.
 
-Bereinigung fehlender Daten:
-    Spalten mit ausschließlich fehlenden Daten (z. B. 15-18 Jahre Weiblich, 28-20 Jahre Weiblich) wurden entfernt.
-    Spalten mit vereinzelten Lücken wurden durch Durchschnittswerte aufgefüllt.
+## Bereinigung fehlender Daten
+- Spalten mit ausschließlich fehlenden Daten (z. B. **15-18 Jahre Weiblich**, **28-20 Jahre Weiblich**) wurden entfernt.  
+- Spalten mit vereinzelten Lücken wurden durch Durchschnittswerte aufgefüllt.
 
-Sonderfall 2023:
-    ine zusätzliche leere Spalte wurde durch Durchschnittswerte aus früheren Jahren ergänzt.
+## Sonderfall 2023
+- Eine zusätzliche leere Spalte wurde durch Durchschnittswerte aus früheren Jahren ergänzt.
 
-Falsche Werte:
-    In den Patientendiagnosen wurden Daten aus Zeilen (z. B. Kinderkardiologie, Kinderchirurgie) entfernt, da diese offensichtlich fehlerhaft waren.
+## Falsche Werte
+- In den Patientendiagnosen wurden Daten aus Zeilen (z. B. **Kinderkardiologie**, **Kinderchirurgie**) entfernt, da diese offensichtlich fehlerhaft waren.
 
-Daten zu Todesfällen:
-    Die Spalte 75-80 Jahre Weiblich wurde entfernt, da sie durchweg keine Daten enthielt.
-
-
+## Daten zu Todesfällen
+- Die Spalte **75-80 Jahre Weiblich** wurde entfernt, da sie durchweg keine Daten enthielt.
