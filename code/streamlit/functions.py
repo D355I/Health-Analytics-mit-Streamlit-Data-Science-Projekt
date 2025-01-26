@@ -62,3 +62,8 @@ def interactive_plot_dev_line(df,x, spalte_von, spalte_bis):
 
 def pie_chart(df):
     px.pie(df)
+
+def plot_heatmap(df):
+    correlation_matrix = df.corr()
+    plot = px.imshow(correlation_matrix, text_auto=True, color_continuous_scale='plasma')
+    st.plotly_chart(plot)
