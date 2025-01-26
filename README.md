@@ -1,6 +1,6 @@
 
 
-# Allgemein zur ReadMe:
+# Allgemein zum Repository:
  Hier ist die zentrale Dokumentationsdatei, die einen Überblick über das Projekt gibt. Hier kann man die Zielsetzung, eingesetzte Methoden und den Ablauf des Projekts verstehen.
 ![Tree Chart](treechart.png)
 #Struktur des Githubs:
