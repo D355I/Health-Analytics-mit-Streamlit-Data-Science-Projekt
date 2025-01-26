@@ -72,6 +72,6 @@ df_combined= pd.concat([df_patients, df_personal], axis=1)
 
 df_combined['Patienten pro Arzt'] = df_combined['Patienten Anzahl'] / df_combined['Hauptamtliche Ärzte']
 
-st.write(df_combined.head(10))
+
 # Visualisierung der Daten
 plot_dev_line(df_combined, 0, 14)
