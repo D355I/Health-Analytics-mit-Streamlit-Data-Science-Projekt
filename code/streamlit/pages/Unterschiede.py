@@ -70,8 +70,10 @@ df_combined= pd.concat([df_patients, df_personal], axis=1)
 #df_combined = pd.merge(df_personal, df_patients, left_on='Datum', right_on='Jahre')
 
 
-df_combined['Patienten pro Arzt'] = df_combined['Patienten Anzahl'] / df_combined ['Hauptamtliche Ärzte']  
+df_combined['Patienten pro Arzt (in Tausend)'] = df_combined['Patienten Anzahl'] / df_combined ['Hauptamtliche Ärzte']  
+#df_combined['Patienten pro Pflegekraft'] = df_combined['Patienten Anzahl'] / d_personal ["Nichtärztliches Personal"]  
 
 
 # Visualisierung der Daten
 plot_dev_line(df_combined, 0, 14)
+#plot_dev_line(df_combined, 0, 15)

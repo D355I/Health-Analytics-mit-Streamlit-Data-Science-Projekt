@@ -15,7 +15,7 @@ st.sidebar.write(scope)
 
 
 tode = d_tode_insg["Todesanzahl insgesamt"]
-personal_anzahl = d_pn[["Personal", "Hauptamtliche Ärzte", "Nichtärztliches Personal"]]
+personal_anzahl = d_pn[[ "Hauptamtliche Ärzte", "Nichtärztliches Personal"]]
 
 
 data = pd.concat([tode, personal_anzahl], axis=1)
@@ -128,5 +128,18 @@ fig_covid_percentage_pie = px.pie(
 st.plotly_chart(fig_covid_percentage_pie)
 
 
+tode = d_tode_insg["Todesanzahl insgesamt"]
+krankenhausanzahl, betten, patienten = d_kh["Krankenhäuser Anzahl"], d_kh["Betten Anzahl"], d_kh["Patienten Anzahl"]
 
+matrix = pd.concat([tode, krankenhausanzahl, betten, patienten], axis=1)
 
+corr = matrix.corr()
+
+matrix = px.imshow(
+    corr,
+    text_auto=True,  
+    color_continuous_scale="darkmint", 
+    title="Korrelationsmatrix: Todesanzahl vs Krankenhäuser anzhal, Netten"
+)
+
+st.plotly_chart(matrix)
