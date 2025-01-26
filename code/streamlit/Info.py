@@ -42,18 +42,23 @@ with tab2:
 
     st.title("Datengrundlage:")
     st.write("Die Rohdaten basieren auf vier Tabellen, die aus den Datensätzen des Statistischen Bundesamts (Destatis) extrahiert wurden.")
-
+    st.write(" ")
+    st.write(" ")
+    st.write("Die Tabellen zeigen die ersten 50 Zeilen")
     st.subheader("Tabelle zur Diagnose von Patienten")
-    st.write(data_patienten_diagnose.head(10))
+    st.write(data_patienten_diagnose.head(50))
 
     st.subheader("Tabelle zu deutschen Krankenhäusern")
-    st.write(krankenhäuser.head(10))
+    st.write(krankenhäuser.head(50))
 
     st.subheader("Tabelle zum Personal in deutschen Krankenhäusern")
-    st.write(personal.head(10))
+    st.write(personal.head(50))
 
     st.subheader("Tabelle zu Toden in deutschen Krankenhäusern")
-    st.write(tode.head(10))
+    st.write(tode.head(50))
+
+    
+    
 
     st.write("Die Tabellen wurden durch eine gründliche Datenbereinigung für die Analyse nutzbar gemacht.")
 

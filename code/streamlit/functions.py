@@ -47,10 +47,22 @@ def plot_dev_bar(df, x, y):
     plot = px.bar(df, x=x_axis, y=y_axis)
     st.plotly_chart(plot)
 
+def plot_dev_bar_2(df, x, y):
+    x_axis = df.columns[x]
+    y_axis = df.columns[y]
+    plot = px.bar(df, x=x_axis, y=y_axis, color_discrete_sequence=["#FF5733"])
+    st.plotly_chart(plot)
+
 def plot_dev_line(df, x, y):
     x_axis = df.columns[x]
     y_axis = df.columns[y]
     plot = px.line(df, x=x_axis, y=y_axis, markers=True)
+    st.plotly_chart(plot)
+
+def plot_dev_line_2(df, x, y):
+    x_axis = df.columns[x]
+    y_axis = df.columns[y]
+    plot = px.line(df, x=x_axis, y=y_axis, markers=True, color_discrete_sequence=["#FF5733"])
     st.plotly_chart(plot)
 
 def interactive_plot_dev_line(df,x, spalte_von, spalte_bis):
@@ -65,5 +77,5 @@ def pie_chart(df):
 
 def plot_heatmap(df):
     correlation_matrix = df.corr()
-    plot = px.imshow(correlation_matrix, text_auto=True, color_continuous_scale='plasma')
+    plot = px.imshow(correlation_matrix, text_auto=True, color_continuous_scale='Oranges')
     st.plotly_chart(plot)
