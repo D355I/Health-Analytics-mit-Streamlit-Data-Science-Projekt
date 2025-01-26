@@ -1,11 +1,11 @@
 
 
-Allgemein zur ReadMe:
+#Allgemein zur ReadMe:
  Hier ist die zentrale Dokumentationsdatei, die einen Überblick über das Projekt gibt. Hier kann man die Zielsetzung, eingesetzte Methoden und den Ablauf des Projekts verstehen.
 ![Tree Chart](treechart.png)
-Struktur des Githubs:
+#Struktur des Githubs:
 Unsere Struktur des Projektes in Github ist folgendermaßen Wir haben 3 Bereiche den code, Daten und den Tool Bereich.
-Code Bereich:
+#Code Bereich:
     Der Code Bereich wird nochmal aufgeteilt in 2 Bereiche nämlich Data cleanUp und Streamlit
      Data cleanUp:
         get_rid_of_NULL.ipynb: Identifiziert und entfernt Spalten mit ausschließlich fehlenden Werten.
@@ -20,7 +20,7 @@ Code Bereich:
             pages: Drei Streamlit-Seiten (Entwicklung.py, Zusammenhänge.py, Unterschiede.py), die verschiedene Aspekte der Daten analysieren und visualisieren.
             assets: Zusätzliche Ressourcen, z. B. Bilder oder Stylesheets.
 
-Daten Bereich:
+#Daten Bereich:
 Dieser Bereich enthält die Roh- und bereinigten Daten. Die Unterstruktur folgt den verschiedenen Verarbeitungsstufen:
 
   raw_data: 
@@ -34,12 +34,12 @@ Dieser Bereich enthält die Roh- und bereinigten Daten. Die Unterstruktur folgt 
         final_cleaned: Die endgültige Version der bereinigten Daten.
             Eine zusammengefasste Datei final_cleaned_insgesamt bietet eine Gesamtübersicht.
 
-Tools-Bereich:
+#Tools-Bereich:
 Enthält Skripte und Programme zur Unterstützung der Datenvorbereitung. Der Fokus liegt hier auf der Automatisierung und Vereinfachung des Preprocessing.
 
 
-TODOS:
-Datenaufbereitung:
+#TODOS:
+#Datenaufbereitung:
     Die Rohdaten (Patientendiagnosen und Todesfälle) wurden nach Jahren sortiert und in Tabellen gespeichert (Vor-Corona, Corona, Nach-Corona).
 
 Diese Tabellen wurden nach Abteilungen und insgesamt aggregiert, was die Übersichtlichkeit verbessert.
