@@ -3,7 +3,7 @@
 # Allgemein zum Repository:
  Hier ist die zentrale Dokumentationsdatei, die einen Überblick über das Projekt gibt. Hier kann man die Zielsetzung, eingesetzte Methoden und den Ablauf des Projekts verstehen.
 ![Tree Chart](treechart.png)
-#Struktur des Githubs:
+# Struktur des Githubs:
 Unsere Struktur des Projektes in Github ist folgendermaßen Wir haben 3 Bereiche den code, Daten und den Tool Bereich.
 # Code Bereich:
   ## Code-Bereich
