@@ -20,6 +20,39 @@ st.write(" ")
 
 st.write("__________________________________________________________________")
 
+st.header("Betroffene Risikogruppen")
+
+ # Daten je nach ausgewähltem Jahr auswählen
+year = 2021
+selected_data = globals()[f'd_t{year}']
+
+# Filter für COVID-19-Todesfälle im jeweiligen Jahr
+covid_data = selected_data[selected_data['Todesursache'] == "COVID019, Virus nachgewiesen"]
+
+# Vsualisierung der Gesamtzahl der COVID-19-Todesfälle
+covid_total_deaths = covid_data[['Jugendlich Männlich', 'Erwachsener Männlich', 'Senior Männlich', 
+                                    'Jugendlich Weiblich', 'Erwachsener Weiblich', 'Senior Weiblich']].sum()
+
+
+    # Visualisierung der Verteilung der COVID-19-Todesfälle nach Altersgruppen und Geschlecht
+covid_age_gender_deaths = covid_data[['Erwachsener Männlich', 'Senior Männlich', 
+                                        'Erwachsener Weiblich', 'Senior Weiblich']].sum()
+
+fig_covid_age_gender = px.bar(
+        x=covid_age_gender_deaths.index,
+        y=covid_age_gender_deaths.values,
+        labels={'x': 'Altersgruppen und Geschlecht', 'y': 'Anzahl Todesfälle'},
+        title=f"Verteilung der COVID-19-Todesfälle {year} nach Altersgruppen und Geschlecht",
+        text=covid_age_gender_deaths.values
+    )
+
+st.plotly_chart(fig_covid_age_gender)
+
+st.subheader("Handlungsempfehlung:")
+st.write("Gezielte Forschung zu Geschlechterunterschieden: Analyse der höheren Risikogruppen, insbesondere bei Männern, um maßgeschneiderte Präventionsstrategien zu entwickeln.")
+
+st.write("__________________________________________________________________")
+
 st.header("Personal Probleme")
 col1, col2 = st.columns(2)
 with col1:
@@ -83,35 +116,3 @@ st.write(" ")
 
 st.write("__________________________________________________________________")
 
-st.header("Betroffene Risikogruppen")
-
- # Daten je nach ausgewähltem Jahr auswählen
-year = 2021
-selected_data = globals()[f'd_t{year}']
-
-# Filter für COVID-19-Todesfälle im jeweiligen Jahr
-covid_data = selected_data[selected_data['Todesursache'] == "COVID019, Virus nachgewiesen"]
-
-# Vsualisierung der Gesamtzahl der COVID-19-Todesfälle
-covid_total_deaths = covid_data[['Jugendlich Männlich', 'Erwachsener Männlich', 'Senior Männlich', 
-                                    'Jugendlich Weiblich', 'Erwachsener Weiblich', 'Senior Weiblich']].sum()
-
-
-    # Visualisierung der Verteilung der COVID-19-Todesfälle nach Altersgruppen und Geschlecht
-covid_age_gender_deaths = covid_data[['Erwachsener Männlich', 'Senior Männlich', 
-                                        'Erwachsener Weiblich', 'Senior Weiblich']].sum()
-
-fig_covid_age_gender = px.bar(
-        x=covid_age_gender_deaths.index,
-        y=covid_age_gender_deaths.values,
-        labels={'x': 'Altersgruppen und Geschlecht', 'y': 'Anzahl Todesfälle'},
-        title=f"Verteilung der COVID-19-Todesfälle {year} nach Altersgruppen und Geschlecht",
-        text=covid_age_gender_deaths.values
-    )
-
-st.plotly_chart(fig_covid_age_gender)
-
-st.subheader("Handlungsempfehlung:")
-st.write("Gezielte Forschung zu Geschlechterunterschieden: Analyse der höheren Risikogruppen, insbesondere bei Männern, um maßgeschneiderte Präventionsstrategien zu entwickeln.")
-
-st.write("__________________________________________________________________")
