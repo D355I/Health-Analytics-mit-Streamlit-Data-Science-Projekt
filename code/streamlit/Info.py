@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 
-data_patienten_diagnose = pd.read_excel("../../data/raw_data/excel/data_Patienten_diagnosen.xlsx")
+data_patienten_diagnose = pd.read_excel("Streamlit-Application-for-Data-Literacy/data/raw_data/excel/data_Patienten_diagnosen.xlsx")
 krankenhäuser = pd.read_excel("../../data/raw_data/excel/Krankenhäuser.xlsx")
 personal = pd.read_excel("../../data/raw_data/excel/Personal.xlsx")
 tode = pd.read_excel("../../data/raw_data/excel/tode.xlsx")
